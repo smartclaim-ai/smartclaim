@@ -1,10 +1,25 @@
-# Comprehensive Vehicle Insurance Claims Analysis
+<p align="center">
+  <img src="assets/logo.png" width="250" alt="Logo" />
+</p>
 
-## Project Overview
+<h1 align="center">
+  SmartClaim: Comprehensive Vehicle Insurance Claims Analysis
+</h1>
 
-This project provides a comprehensive analysis of vehicle insurance claims data. Its primary purpose is to equip an insurance company with data-driven insights to better understand risk profiles, identify key loss drivers, and inform strategic business decisions. By dissecting claims data across various dimensions, the project aims to highlight areas for potential improvements in pricing, underwriting, product development, and risk management.
+<p align="center">
+  SmartClaim leverages advanced data analytics and AI-driven insights to deliver a comprehensive analysis of vehicle insurance claims data. Its primary goal is to empower insurance companies with actionable intelligence to optimize risk assessment, refine pricing strategies, improve product offerings, and streamline claims operations.
+</p>
 
-**Key Goals:**
+## Table of Contents
+
+1. [Key Goals](#key-goals)
+2. [Dataset Description](#dataset-description)
+3. [Methodology](#methodology)
+4. [Project Setup](#project-setup)
+5. [How to Use](#how-to-use)
+6. [Structure of the `analysis` Output Folder](#structure-of-the-analysis-output-folder)
+
+## Key Goals
 
 1.  **Granular Risk Assessment:** To identify high-risk segments across different warranty types, policyholder demographics (age), vehicle characteristics (brand), and geographical locations (region/province).
 2.  **Inform Pricing and Underwriting:** Provide data to support more accurate premium setting and risk selection.
@@ -79,11 +94,12 @@ The analysis is conducted using a Python script (`analyze_data.py`) leveraging t
 ## How to Use
 
 1.  **Place Data:** Ensure your claims data is available at `data/data.csv`.
-2.  **Run the Analysis Script:** Execute the main analysis script from your terminal:
+2.  **Minimise the Dataset (optional)**: If you want to run the analysis on a smaller dataset, you can use the `data/minimized_data.csv` file or run the `minimize_data.py` script to generate your own.
+3.  **Run the Analysis Script:** Execute the main analysis script from your terminal:
     ```bash
     python analyze_data.py
     ```
-3.  **Review Outputs:** The script will:
+4.  **Review Outputs:** The script will:
     -   Print progress and key summary tables to the console.
     -   Create an `analysis` directory in your project root if it doesn't exist.
     -   Populate the `analysis` directory with a structured set of subfolders containing:
@@ -107,18 +123,5 @@ The `analysis` directory will be organized as follows:
 -   `other_warranties_analysis/`:
     -   Contains a subfolder for each other significant warranty type (e.g., `VEHICLE_FIRE/`, `THEFT/`).
     -   Each subfolder includes analyses by age, vehicle brand, and region for that specific warranty.
-
-## Why Use This Project
-
-This project and its scripts serve as a powerful tool for an insurance company to:
-
--   **Gain Data-Driven Business Intelligence:** Move beyond anecdotal evidence to understand true claims patterns.
--   **Identify Risk Concentrations:** Pinpoint specific warranty types, age groups, vehicle brands, or regions that exhibit higher claim frequencies or severities.
--   **Inform Strategic Decisions:** Provide a quantitative basis for decisions related to:
-    -   **Pricing:** Adjusting premiums for high-risk segments.
-    -   **Underwriting:** Refining risk selection criteria.
-    -   **Product Development:** Identifying needs for new products or modifications to existing warranties (e.g., tiered options).
-    -   **Claims Management:** Understanding where claim volumes are highest.
--   **Facilitate Deeper Dives:** The structured output allows for easy access to specific analyses, enabling further investigation into areas of concern.
 
 By systematically analyzing the claims data, this project aims to empower the insurance company to optimize its portfolio, manage risk more effectively, and improve overall profitability.
