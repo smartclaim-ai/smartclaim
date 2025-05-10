@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for BUSINESS
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25            229.600000
+1     26-35            287.730000
+2     36-45            204.960000
+3     46-55            146.315000
+4     56-65            201.517500
+5       65+            234.866667

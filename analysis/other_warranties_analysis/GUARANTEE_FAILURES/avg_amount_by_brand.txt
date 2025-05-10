@@ -1,0 +1,63 @@
+Avg Claim Amount by Brand for GUARANTEE FAILURES (Top 15 in plot)
+
+      VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+22      LAMBORGHINI           7088.000000
+57            iveco           6000.000000
+18            IVECO           4969.275000
+39              RAM           4300.000000
+48            TESLA           3548.792500
+38          PORSCHE           3091.017647
+33       MITSUBISHI           2904.842000
+17            ISUZU           2514.195000
+2              AUDI           2512.037917
+45        SSANGYONG           2487.504000
+20             JEEP           2484.356190
+28         MERCEDES           2412.613247
+44            SMART           2372.011364
+12             FIAT           2359.549699
+3               BMW           2304.538021
+37          PEUGEOT           2302.112692
+40          RENAULT           2278.311316
+56             ford           2270.920000
+19           JAGUAR           2246.719444
+5           CITROEN           2238.395000
+25            LEXUS           2209.250000
+1        ALFA ROMEO           2116.144478
+51       VOLKSWAGEN           2104.909528
+32             MINI           2104.361111
+29  MERCEDES - BENZ           2084.000000
+16         INFINITI           2078.000000
+52        VOLSWAGEN           2050.000000
+15          HYUNDAI           2047.707969
+11               DS           1996.666667
+0            ABARTH           1995.536000
+41             SEAT           1993.692667
+31               MG           1990.608571
+47           SUZUKI           1989.152400
+13             FORD           1895.061338
+36             OPEL           1892.601325
+27            MAZDA           1876.846000
+24       LAND ROVER           1852.718049
+26         MASERATI           1827.648750
+46           SUBARU           1818.734706
+43            SKODA           1804.424211
+7             DACIA           1757.947895
+55             fiat           1750.000000
+23           LANCIA           1710.330175
+34  MITSUBISHI FUSO           1705.000000
+30    MERCEDES-BENZ           1700.000000
+9             DODGE           1700.000000
+10               DR           1581.750000
+58         mercedes           1580.000000
+14            HONDA           1577.078889
+35           NISSAN           1574.531190
+21              KIA           1560.777755
+53            VOLVO           1535.784898
+49           TOYOTA           1474.464902
+54             audi           1450.000000
+6             CUPRA            871.000000
+59    mercedes benz            800.000000
+4         CHEVROLET            673.095000
+50          Unknown            436.703333
+8          DAIHATSU            336.000000
+42    SEMIRIMORCHIO            267.000000

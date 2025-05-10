@@ -1,0 +1,20 @@
+Avg Claim Amount by Region for ADDITIONAL COVERAGES (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+8                PIEMONTE            348.665714
+15                Unknown            340.000000
+0                 ABRUZZO            325.373333
+2                CAMPANIA            321.819545
+5                   LAZIO            314.980645
+11                SICILIA            307.840000
+7               LOMBARDIA            302.852473
+6                 LIGURIA            299.460000
+3          EMILIA ROMAGNA            277.618352
+12                TOSCANA            275.116571
+14                 UMBRIA            273.433333
+9                  PUGLIA            257.763889
+13    TRENTINO ALTO ADIGE            255.365714
+16                 VENETO            241.146190
+1                CALABRIA            235.000000
+4   FRIULI VENEZIA GIULIA            230.550000
+10               SARDEGNA            188.100000

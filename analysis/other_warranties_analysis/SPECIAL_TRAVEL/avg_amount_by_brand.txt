@@ -1,0 +1,61 @@
+Avg Claim Amount by Brand for SPECIAL TRAVEL (Top 15 in plot)
+
+           VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+21              INFINITI            406.880000
+34          NISSAN Patro            330.620000
+14               FERRARI            297.340000
+40                  SAAB            295.000000
+44             SSANGYONG            276.930000
+12                    DS            269.798000
+27              MAHINDRA            263.400000
+9               DAIHATSU            251.133333
+4                    BMW            232.850533
+13        DYMLERCHRYSLER            231.800000
+42                 SKODA            227.653636
+2                   AUDI            220.880983
+18      GREAT WALL MOTOR            220.640000
+23                  JEEP            218.420351
+26            LAND ROVER            212.933051
+6               CHRYSLER            209.488333
+5              CHEVROLET            208.950889
+41                  SEAT            203.122143
+28              MASERATI            202.073333
+30              MERCEDES            201.689067
+10                 DODGE            201.667500
+33                NISSAN            201.181882
+1             ALFA ROMEO            198.752762
+49            VOLKSWAGEN            197.654113
+48                TOYOTA            197.582989
+16  FIAT GROUP AUTOMOBIL            196.910000
+20               HYUNDAI            195.257903
+22                JAGUAR            194.804000
+25                LANCIA            194.259337
+17                  FORD            192.029932
+15                  FIAT            191.763897
+51                 VOLVO            191.760000
+36               PEUGEOT            189.162386
+37               PORSCHE            187.454286
+32            MITSUBISHI            186.282941
+31                  MINI            183.705300
+38               RENAULT            183.425990
+35                  OPEL            182.775899
+0                 ABARTH            182.175000
+7                CITROEN            179.568333
+19                 HONDA            178.885714
+8                  DACIA            178.156607
+24                   KIA            174.321053
+29                 MAZDA            173.096667
+46                SUZUKI            171.523590
+39                 ROVER            161.815000
+43                 SMART            157.166000
+11                    DR            152.482000
+52                    VW            148.330000
+50                 VOLSW            147.845000
+54                  fiat            140.520000
+55                  ford            136.270000
+45                SUBARU            132.980000
+56               reanult            132.980000
+57                suzuki            120.000000
+53        dymlerchrysler            112.240000
+3           AUSTIN ROVER            111.540000
+47                  TATA            111.020000

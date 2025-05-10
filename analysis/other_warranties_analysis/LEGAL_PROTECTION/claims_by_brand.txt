@@ -1,0 +1,47 @@
+Claims by Brand for LEGAL PROTECTION (Top 15 in plot)
+
+      VEHICLE_BRAND  NUMBER_OF_CLAIMS
+11             FIAT                34
+41       VOLKSWAGEN                19
+12             FORD                18
+2              AUDI                14
+39           TOYOTA                11
+3               BMW                11
+5           CITROEN                11
+32          RENAULT                11
+26         MERCEDES                 9
+6             DACIA                 8
+24           LANCIA                 7
+28           NISSAN                 5
+42            VOLVO                 5
+20             JEEP                 4
+14  HARLEY-DAVIDSON                 3
+21              KIA                 3
+16          HYUNDAI                 3
+40          Unknown                 3
+29             OPEL                 3
+15            HONDA                 3
+27             MINI                 2
+0            ABARTH                 2
+17            Honda                 2
+4         CHEVROLET                 2
+30          PEUGEOT                 2
+35            SMART                 1
+34            SKODA                 1
+36           SUBARU                 1
+33             SEAT                 1
+37           SUZUKI                 1
+38              SYM                 1
+22            Kymco                 1
+31          PORSCHE                 1
+25            MAZDA                 1
+23            LAIKA                 1
+1        ALFA ROMEO                 1
+19           JAGUAR                 1
+18            IVECO                 1
+13           Gilera                 1
+10            Dacia                 1
+9                DR                 1
+8      DAIHATSU Sir                 1
+7          DAIHATSU                 1
+43         mercedes                 1

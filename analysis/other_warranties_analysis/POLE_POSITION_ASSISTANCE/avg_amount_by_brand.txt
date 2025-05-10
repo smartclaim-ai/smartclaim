@@ -1,0 +1,37 @@
+Avg Claim Amount by Brand for POLE POSITION ASSISTANCE (Top 15 in plot)
+
+   VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+21    MITSUBISHI            696.070000
+14           KIA            327.826667
+18         MAZDA            299.760000
+12        JAGUAR            267.465000
+19      MERCEDES            258.129615
+28         SKODA            257.363333
+6          CUPRA            253.470000
+10         HONDA            223.200000
+32        TOYOTA            219.737333
+26       RENAULT            213.423043
+33    VOLKSWAGEN            212.853784
+8           FIAT            193.127600
+9           FORD            192.452812
+1     ALFA ROMEO            191.653478
+11       HYUNDAI            190.734545
+23          OPEL            184.968000
+16        LANCIA            182.580000
+29         SMART            181.212857
+3            BMW            178.297333
+22        NISSAN            177.172500
+13          JEEP            173.916429
+4      CHEVROLET            172.667500
+24       PEUGEOT            167.654000
+2           AUDI            167.290455
+17    LAND ROVER            158.248000
+20          MINI            158.232222
+5        CITROEN            156.542778
+25       PORSCHE            155.840000
+27          SEAT            139.223333
+0         ABARTH            138.540000
+15          LADA            138.350000
+30        SUBARU            117.950000
+7          DACIA            117.266667
+31        SUZUKI            115.650000

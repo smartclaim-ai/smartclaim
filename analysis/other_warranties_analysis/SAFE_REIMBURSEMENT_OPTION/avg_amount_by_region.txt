@@ -1,0 +1,22 @@
+Avg Claim Amount by Region for SAFE REIMBURSEMENT OPTION (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+14                TOSCANA           2486.152700
+13                SICILIA           2342.934000
+18                 VENETO           2256.011087
+17          VALLE D'AOSTA           2253.571429
+16                 UMBRIA           2226.008438
+2                CAMPANIA           2208.374286
+4   FRIULI VENEZIA GIULIA           2205.739167
+15    TRENTINO ALTO ADIGE           2200.418889
+3          EMILIA ROMAGNA           2194.099524
+5                   LAZIO           2168.574167
+10               PIEMONTE           2138.738267
+7               LOMBARDIA           2023.650453
+1                CALABRIA           1881.200000
+6                 LIGURIA           1846.013429
+12               SARDEGNA           1826.665833
+11                 PUGLIA           1751.046250
+8                  MARCHE           1611.804118
+0                 ABRUZZO           1552.696000
+9                  MOLISE           1434.031250

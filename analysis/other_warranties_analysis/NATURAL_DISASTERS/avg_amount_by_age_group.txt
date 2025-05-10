@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for NATURAL DISASTERS
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25           3325.530183
+1     26-35           3232.780620
+2     36-45           3182.314918
+3     46-55           2986.882390
+4     56-65           2962.917103
+5       65+           2959.919611

@@ -1,0 +1,113 @@
+Claims by Brand for THEFT (Top 15 in plot)
+
+       VEHICLE_BRAND  NUMBER_OF_CLAIMS
+30              FIAT               814
+89             SMART               143
+37             HONDA               130
+11               BMW               123
+99        VOLKSWAGEN               104
+67          MERCEDES               103
+5         ALFA ROMEO                97
+45              JEEP                96
+56            LANCIA                88
+96            TOYOTA                81
+7               AUDI                77
+31              FORD                76
+60            LIGIER                63
+2              AIXAM                61
+83           RENAULT                59
+78           PEUGEOT                50
+20           CITROEN                48
+22             DACIA                39
+76            NISSAN                37
+40             Honda                34
+103           YAMAHA                34
+79           PIAGGIO                32
+77              OPEL                31
+57        LAND ROVER                30
+68              MINI                22
+52             KYMCO                22
+39           HYUNDAI                22
+0             ABARTH                21
+92            SUZUKI                13
+97           TRIUMPH                13
+47               KIA                12
+36   HARLEY-DAVIDSON                11
+17          CHATENET                10
+109           ligier                 9
+104           Yamaha                 8
+93               SYM                 8
+80           PORSCHE                 8
+82           Piaggio                 7
+64             MAZDA                 7
+54             Kymco                 6
+100            VOLVO                 6
+91            SUBARU                 5
+43             IVECO                 5
+51               KTM                 4
+86              SEAT                 4
+6            APRILIA                 3
+24                DS                 3
+25            DUCATI                 3
+18         CHEVROLET                 3
+88             SKODA                 3
+23                DR                 2
+58             LEXUS                 2
+90         SSANGYONG                 2
+94               Sym                 2
+71        MOTO GUZZI                 2
+19          CHRYSLER                 2
+48             KIMCO                 2
+26            Ducati                 2
+44            JAGUAR                 2
+105            aixam                 2
+16          CHATANET                 2
+14          CASALINI                 2
+10           BENELLI                 2
+87           SILENCE                 1
+85           RIVIERA                 1
+84             RIEJU                 1
+12           Benelli                 1
+34            GIOTTI                 1
+9            BELLIER                 1
+95           TAZZARI                 1
+8            Aprilia                 1
+98           Triumph                 1
+4              AIXMA                 1
+101             Voge                 1
+102     WOTTAN MOTOR                 1
+3         AIXAM MEGA                 1
+106              bmw                 1
+107             ford                 1
+108            honda                 1
+81           Peugeot                 1
+72         MV Agusta                 1
+13          CARTHAGO                 1
+1              ADRIA                 1
+33            GILERA                 1
+32      FORD TRANSIT                 1
+38         HUSQVARNA                 1
+29            FGM 37                 1
+28         FD MOTORS                 1
+41           Hyundai                 1
+42     INTERNATIONAL                 1
+27      FANTIC MOTOR                 1
+46            KEEWAY                 1
+49             KIMKO                 1
+50             KLAAS                 1
+53          Kawasaki                 1
+59             LIGER                 1
+15            CFMOTO                 1
+21   CRESCI RIMORCHI                 1
+61               LML                 1
+62            Ligier                 1
+63          MASERATI                 1
+65                ME                 1
+66              MEGA                 1
+69        MITSUBISHI                 1
+70              MOTO                 1
+35   HARLEY DAVIDSON                 1
+73          Mercedes                 1
+74        Moto Guzzi                 1
+75       NEW HOLLAND                 1
+55              LADA                 1

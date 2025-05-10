@@ -1,0 +1,41 @@
+Avg Claim Amount by Brand for SAFE REIMBURSEMENT OPTION (Top 15 in plot)
+
+   VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+30   SPORTEQUIPE           5000.000000
+18         LEXUS           3242.215000
+6          CUPRA           3145.000000
+13        JAGUAR           2947.565000
+5        CITROEN           2597.107826
+2           AUDI           2595.578421
+22    MITSUBISHI           2592.200000
+25       PEUGEOT           2477.305660
+19         MAZDA           2475.500000
+4      CHEVROLET           2414.180000
+17    LAND ROVER           2403.250000
+3            BMW           2374.398276
+37         VOLVO           2312.286000
+24          OPEL           2307.974615
+20      MERCEDES           2176.048000
+23        NISSAN           2135.368235
+9           FIAT           2121.848462
+12       HYUNDAI           2111.730303
+15           KIA           2099.381500
+8             DR           2084.804444
+36    VOLKSWAGEN           2073.890319
+33        SUZUKI           2073.713784
+10          FORD           2054.692373
+32        SUBARU           2047.966667
+1     ALFA ROMEO           2027.833333
+26       RENAULT           2002.285714
+16        LANCIA           1988.233158
+7          DACIA           1936.723158
+14          JEEP           1935.355000
+27          SEAT           1919.398333
+31     SSANGYONG           1800.000000
+28         SKODA           1782.102000
+35        TOYOTA           1740.261290
+21          MINI           1716.055000
+29         SMART           1634.980000
+11         HONDA           1462.482857
+0         ABARTH            900.000000
+34         TESLA            355.000000

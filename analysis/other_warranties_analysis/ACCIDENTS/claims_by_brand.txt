@@ -1,0 +1,40 @@
+Claims by Brand for ACCIDENTS (Top 15 in plot)
+
+    VEHICLE_BRAND  NUMBER_OF_CLAIMS
+11           FIAT                 8
+22         LANCIA                 6
+25           OPEL                 4
+14          HONDA                 4
+28        RENAULT                 4
+16          Honda                 4
+31         SUZUKI                 3
+30          SMART                 3
+1            AUDI                 3
+34     VOLKSWAGEN                 3
+33         TOYOTA                 2
+4            BETA                 2
+12           FORD                 2
+27        Piaggio                 2
+8         CITROEN                 2
+26        PIAGGIO                 1
+24         NISSAN                 1
+0      ALFA ROMEO                 1
+29          SKODA                 1
+32         Suzuki                 1
+35         YAMAHA                 1
+23       MERCEDES                 1
+18            KIA                 1
+21          Kymco                 1
+20       Kawasaki                 1
+19          KYMCO                 1
+17       KAWASAKI                 1
+15        HYUNDAI                 1
+13  GRECAV S.p.A.                 1
+10   FANTIC MOTOR                 1
+9          Ducati                 1
+7            Beta                 1
+6         Benelli                 1
+5             BMW                 1
+3         BENELLI                 1
+2         Aprilia                 1
+36         Yamaha                 1

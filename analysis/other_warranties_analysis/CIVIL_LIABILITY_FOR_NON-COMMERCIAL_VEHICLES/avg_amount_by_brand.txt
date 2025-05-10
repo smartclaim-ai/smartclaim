@@ -1,0 +1,5 @@
+Avg Claim Amount by Brand for CIVIL LIABILITY FOR NON-COMMERCIAL VEHICLES (Top 15 in plot)
+
+                                        VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+1  ||||||||||||||||||||||||||||||||||||||||||||||||||           4500.000000
+0                                             Unknown           3816.107591

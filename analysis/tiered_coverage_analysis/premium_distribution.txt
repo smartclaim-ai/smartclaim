@@ -1,0 +1,5 @@
+Premium Amount Distribution for Glasses & Travel Assistance
+
+            WARRANTY   mean    min    max  nunique  count
+0            GLASSES  47.04  47.04  47.04        1  35092
+1  TRAVEL ASSISTANCE  32.21  32.21  32.21        1  27319

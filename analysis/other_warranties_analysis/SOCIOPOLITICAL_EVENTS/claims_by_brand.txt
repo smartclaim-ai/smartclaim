@@ -1,0 +1,79 @@
+Claims by Brand for SOCIOPOLITICAL EVENTS (Top 15 in plot)
+
+       VEHICLE_BRAND  NUMBER_OF_CLAIMS
+18              FIAT               899
+65        VOLKSWAGEN               523
+44          MERCEDES               477
+4               AUDI               476
+5                BMW               472
+19              FORD               348
+2         ALFA ROMEO               219
+53           RENAULT               218
+34            LANCIA               205
+51           PEUGEOT               193
+50              OPEL               192
+63            TOYOTA               172
+32              JEEP               158
+49            NISSAN               138
+46              MINI               132
+36        LAND ROVER               118
+10           CITROEN               118
+58             SMART               106
+26           HYUNDAI               102
+33               KIA                86
+12             DACIA                84
+61            SUZUKI                73
+66             VOLVO                61
+0             ABARTH                55
+55              SEAT                48
+52           PORSCHE                39
+25             HONDA                37
+42             MAZDA                36
+31            JAGUAR                31
+57             SKODA                25
+16                DR                22
+8          CHEVROLET                17
+17                DS                15
+60            SUBARU                15
+37             LEXUS                13
+48        MITSUBISHI                12
+13          DAIHATSU                 8
+29             ISUZU                 7
+59         SSANGYONG                 7
+28          INFINITI                 6
+15             DODGE                 5
+62             TESLA                 4
+38            LIGIER                 4
+41          MASERATI                 4
+24             HAVAL                 3
+68             aixam                 3
+11             CUPRA                 3
+64           Unknown                 3
+9           CHRYSLER                 3
+30             IVECO                 2
+7           CHATENET                 2
+73        land rover                 2
+67            Yamaha                 2
+40          MAHINDRA                 2
+45                MG                 2
+72              ford                 1
+71              fiat                 1
+70                dr                 1
+69           citroen                 1
+3            APRILIA                 1
+6           CATERHAM                 1
+74           peugeot                 1
+43              MEGA                 1
+20              Fiat                 1
+14   DAIMLERCHRYSLER                 1
+21              Ford                 1
+22  GREAT WALL MOTOR                 1
+56             SETRA                 1
+23   HARLEY DAVIDSON                 1
+54           Renault                 1
+27   Harley-Davidson                 1
+35              LAND                 1
+1              AIXAM                 1
+39            Ligier                 1
+47          MITSUBIS                 1
+75                vw                 1

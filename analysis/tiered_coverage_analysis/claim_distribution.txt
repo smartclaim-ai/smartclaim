@@ -1,0 +1,5 @@
+Claim Amount Distribution for Glasses & Travel Assistance
+
+            WARRANTY        mean  median    min      max         std
+0            GLASSES  496.162224  551.35  100.0  3875.79  216.789424
+1  TRAVEL ASSISTANCE  206.477007  163.26  100.0  5469.40  170.743053

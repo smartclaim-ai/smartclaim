@@ -1,0 +1,41 @@
+Claims by Brand for SAFE REIMBURSEMENT OPTION (Top 15 in plot)
+
+   VEHICLE_BRAND  NUMBER_OF_CLAIMS
+9           FIAT               169
+36    VOLKSWAGEN                94
+35        TOYOTA                62
+10          FORD                59
+25       PEUGEOT                53
+24          OPEL                52
+26       RENAULT                49
+5        CITROEN                46
+14          JEEP                42
+20      MERCEDES                40
+16        LANCIA                38
+2           AUDI                38
+7          DACIA                38
+33        SUZUKI                37
+23        NISSAN                34
+12       HYUNDAI                33
+3            BMW                29
+15           KIA                20
+11         HONDA                14
+21          MINI                14
+27          SEAT                12
+1     ALFA ROMEO                12
+28         SKODA                10
+37         VOLVO                10
+8             DR                 9
+19         MAZDA                 8
+29         SMART                 6
+32        SUBARU                 6
+22    MITSUBISHI                 5
+17    LAND ROVER                 4
+13        JAGUAR                 4
+18         LEXUS                 2
+30   SPORTEQUIPE                 1
+31     SSANGYONG                 1
+34         TESLA                 1
+6          CUPRA                 1
+4      CHEVROLET                 1
+0         ABARTH                 1

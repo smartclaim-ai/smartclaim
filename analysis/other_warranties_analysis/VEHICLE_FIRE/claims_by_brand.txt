@@ -1,0 +1,45 @@
+Claims by Brand for VEHICLE FIRE (Top 15 in plot)
+
+      VEHICLE_BRAND  NUMBER_OF_CLAIMS
+9              FIAT                15
+10             FORD                 6
+2              AUDI                 5
+23         MERCEDES                 4
+15            IVECO                 4
+12            HONDA                 4
+31          RENAULT                 4
+33            SMART                 4
+27             OPEL                 4
+3               BMW                 4
+25             MINI                 3
+26           NISSAN                 3
+5           CITROEN                 3
+20       LAND ROVER                 3
+17              KIA                 2
+19           LANCIA                 2
+0             AIXAM                 2
+28          PEUGEOT                 2
+29          PIAGGIO                 2
+13          HYUNDAI                 2
+34           SUZUKI                 1
+32            SKODA                 1
+36          TRIUMPH                 1
+37       VOLKSWAGEN                 1
+30          PORSCHE                 1
+38           YAMAHA                 1
+39            aixam                 1
+40         mercedes                 1
+35           TOYOTA                 1
+21          LANDINI                 1
+24            MERLO                 1
+22           LIGIER                 1
+1        ALFA ROMEO                 1
+18   LAIKA CARAVANS                 1
+16             JEEP                 1
+14  Harley-Davidson                 1
+11  HARLEY-DAVIDSON                 1
+8            DUCATI                 1
+7             DREAM                 1
+6             DACIA                 1
+4          CHRYSLER                 1
+41       volkswagen                 1

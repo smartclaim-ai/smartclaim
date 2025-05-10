@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for DRIVER ACCIDENTS - PERMANENT DISABILITY
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25            810.000000
+1     26-35           2850.000000
+2     36-45           2334.833333
+3     46-55           1392.645909
+4     56-65           2118.350000
+5       65+           2115.677143

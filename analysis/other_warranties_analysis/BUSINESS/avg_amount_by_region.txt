@@ -1,0 +1,14 @@
+Avg Claim Amount by Region for BUSINESS (Top 15 in plot)
+
+      CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+0         CALABRIA            269.243333
+10          VENETO            266.570000
+6         PIEMONTE            241.980000
+4          LIGURIA            217.978333
+1         CAMPANIA            181.260000
+3            LAZIO            174.416667
+8          SICILIA            162.260000
+9          TOSCANA            141.165000
+5        LOMBARDIA            140.507500
+2   EMILIA ROMAGNA            132.904000
+7           PUGLIA            117.120000

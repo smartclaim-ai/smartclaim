@@ -1,0 +1,1217 @@
+Overall Claims by Vehicle Brand (Top 15 shown in plot)
+
+                                           VEHICLE_BRAND  NUMBER_OF_CLAIMS
+315                                                 FIAT             47885
+981                                           VOLKSWAGEN             17050
+380                                                 FORD             15267
+788                                              RENAULT             10789
+626                                             MERCEDES             10778
+73                                                  AUDI             10162
+712                                                 OPEL              9937
+920                                               TOYOTA              9326
+741                                              PEUGEOT              9090
+553                                               LANCIA              8809
+123                                                  BMW              8666
+191                                              CITROEN              8394
+696                                               NISSAN              5516
+52                                            ALFA ROMEO              5270
+504                                                 JEEP              4422
+461                                              HYUNDAI              4230
+229                                                DACIA              4091
+883                                               SUZUKI              3466
+869                                                SMART              3330
+519                                                  KIA              3264
+648                                                 MINI              3259
+449                                                HONDA              2727
+562                                           LAND ROVER              2380
+749                                              PIAGGIO              1851
+989                                                VOLVO              1811
+852                                                 SEAT              1795
+487                                                IVECO              1759
+864                                                SKODA              1556
+180                                            CHEVROLET              1225
+660                                           MITSUBISHI              1180
+614                                                MAZDA              1116
+33                                                 AIXAM              1027
+1041                                              YAMAHA               818
+576                                               LIGIER               788
+756                                              PORSCHE               560
+466                                                Honda               519
+879                                               SUBARU               518
+498                                               JAGUAR               491
+442                                      HARLEY-DAVIDSON               478
+953                                              Unknown               471
+10                                                ABARTH               444
+237                                             DAIHATSU               409
+539                                                KYMCO               379
+262                                                   DR               378
+766                                              Piaggio               337
+61                                               APRILIA               328
+265                                                   DS               311
+569                                                LEXUS               262
+875                                            SSANGYONG               260
+1042                                              Yamaha               226
+1096                                                fiat               210
+230                                               DAEWOO               190
+483                                                ISUZU               188
+943                                              TRIUMPH               164
+182                                             CHRYSLER               162
+515                                             KAWASAKI               160
+532                                                  KTM               159
+174                                             CHATENET               152
+642                                                   MG               150
+892                                                  SYM               146
+913                                                TESLA               145
+544                                                Kymco               113
+266                                               DUCATI               111
+223                                                CUPRA               108
+605                                             MASERATI               107
+101                                              Aprilia               106
+594                                             MALAGUTI               106
+1135                                              ligier               106
+259                                                DODGE               101
+441                                      HARLEY DAVIDSON                95
+117                                                 BETA                91
+1117                                               iveco                90
+845                                               SCANIA                89
+828                                                 SAAB                85
+1169                                             piaggio                81
+233                                                  DAF                80
+111                                              BENELLI                76
+615                                                  MBK                74
+1050                                               aixam                73
+476                                             INFINITI                72
+593                                             MAHINDRA                72
+692                                          NEW HOLLAND                69
+428                                     GREAT WALL MOTOR                69
+831                                                 SAME                67
+1098                                                ford                63
+596                                                  MAN                61
+644                                             MICROCAR                58
+980                                             VOLKSWAG                57
+292                                                  EVO                54
+564                                              LANDINI                54
+551                                          LAMBORGHINI                50
+900                                                  Sym                49
+297                                               FANTIC                49
+306                                                FENDT                48
+518                                               KEEWAY                47
+153                                             CASALINI                46
+1175                                             renault                46
+798                                       RENAULT TRUCKS                45
+1203                                          volkswagen                43
+446                                                   HM                42
+1032                                                 XEV                40
+907                                                 TATA                40
+83                                           AUTOBIANCHI                39
+511                                           JOHN DEERE                39
+1078                                             citroen                38
+631                                        MERCEDES BENZ                38
+1149                                            mercedes                37
+898                                               Suzuki                37
+541                                             Kawasaki                36
+1168                                             peugeot                36
+149                                              CARRARO                36
+994                                                   VW                36
+1065                                                 bmw                33
+417                                               GILERA                33
+240                                              DAIMLER                32
+811                                                ROVER                31
+656                                             MITSUBIS                31
+276                                               Ducati                30
+1109                                               honda                30
+429                                               GRECAV                29
+670                                           MOTO GUZZI                27
+140                                                 Beta                25
+680                                             Malaguti                24
+638                                        MERCEDES-BENZ                23
+1046                                              ZONTES                23
+458                                            HUSQVARNA                23
+1165                                                opel                22
+405                                         Fantic Motor                21
+85                                             AUTOCARRO                20
+891                                                  SWM                20
+765                                              Peugeot                20
+423                                              GOLDONI                20
+139                                              Benelli                19
+816                                        ROYAL ENFIELD                18
+465                                      Harley-Davidson                17
+356                                         FIAT Panda 1                17
+427                                           GREAT WALL                17
+408                                                 Fiat                16
+1163                                              nissan                16
+821                                              Renault                15
+53                                                 ALTRE                15
+933                                             TRATTORE                14
+946                                              Triumph                14
+575                                                LIGER                14
+522                                                KIMKO                14
+1057                                                audi                14
+1073                                            chatenet                13
+298                                         FANTIC MOTOR                13
+34                                            AIXAM MEGA                13
+609                                      MASSEY FERGUSON                13
+1157                                          mitsubishi                13
+248                                                DERBI                12
+993                                          VOLVO TRUCK                12
+508                                                 JOHN                12
+16                                                 ADRIA                12
+44                                                  ALFA                11
+166                                               CFMOTO                11
+130                                              BREMACH                11
+683                                             Mercedes                11
+640                                                MERLO                11
+1211                                              yamaha                11
+1196                                              toyota                11
+704                                                  NIU                10
+426                                                GREAT                10
+686                                           Moto Guzzi                10
+443                                                HAVAL                10
+395                                         FORD TRANSIT                10
+590                                               Ligier                10
+582                                                  LML                10
+1193                                              suzuki                10
+210                                                  CNH                10
+132                                              BRIXTON                10
+1027                                        WOTTAN MOTOR                10
+311                                              FERRARI                10
+530                                             KSR MOTO                10
+268                                               DUCATO                10
+542                                               Keeway                10
+967                                                 VENT                 9
+545                                                 LADA                 9
+99                                                 Aixam                 9
+690                                                  NEW                 9
+988                                            VOLSWAGEN                 9
+754                                              POLARIS                 9
+341                                           FIAT IVECO                 9
+1207                                               volvo                 9
+345                                           FIAT PANDA                 9
+250                                                DEUTZ                 9
+280                                               EFFEDI                 9
+358                                         FIAT Punto 1                 9
+861                                                SIMPA                 9
+975                                                 VOGE                 8
+437                                               Gilera                 8
+962                                            VALPADANA                 8
+58                                       ANTONIO CARRARO                 8
+800                                         RENAULT V.I.                 8
+608                                               MASSEY                 8
+21                                                  AGCO                 7
+243                                      DAIMLERCHRYSLER                 7
+60                                                   APE                 7
+935                                    TRATTORE AGRICOLO                 7
+1048                                              Zontes                 7
+1015                                                Vent                 7
+671                                          MOTO MORINI                 7
+890                                               SUZUKY                 7
+802                                                RIEJU                 7
+856                                                SETRA                 7
+148                                                CARON                 7
+1115                                               isuzu                 7
+1130                                          land rover                 7
+546                                                LAIKA                 7
+561                                                 LAND                 7
+492                                        IVECO MAGIRUS                 7
+110                                              BELLIER                 7
+112                                              BENTLEY                 7
+601                                              MANITOU                 7
+917                                            TM RACING                 7
+849                                                  SEA                 6
+234                                           DAF TRUCKS                 6
+410                                                 Ford                 6
+386                                          FORD Fiesta                 6
+842                                              SANTANA                 6
+945                                               Toyota                 6
+963                                               VALTRA                 6
+168                                            CH RACING                 6
+1018                                          Volkswagen                 6
+350                                           FIAT PUNTO                 6
+319                                             FIAT 500                 6
+156                                                 CASE                 6
+1208                                                  vw                 6
+1155                                                mini                 6
+652                                             MINONZIO                 6
+658                                          MITSUBISCHI                 6
+1121                                          john deere                 5
+859                                              SILENCE                 5
+14                                                 ADIVA                 5
+440                                               HARLEY                 5
+677                                            MV AGUSTA                 5
+1128                                              lancia                 5
+1035                                           XINDAYANG                 5
+672                                            MOTOCICLO                 5
+68                                                ASKOLL                 5
+881                                           SUPER SOCO                 5
+467                                            Husqvarna                 5
+135                                                BUELL                 5
+573                                               LIEGER                 5
+363                                         FIAT Seicent                 5
+362                                         FIAT SEICENT                 5
+359                                         FIAT Punto 5                 5
+1070                                            casalini                 5
+927                                         TOYOTA Yaris                 5
+1024                                          WOLKSVAGEN                 5
+669                                                 MOTO                 5
+1025                                          WOLKSWAGEN                 5
+477                                            INNOCENTI                 5
+459                                                HYMER                 5
+1153                                            microcar                 5
+632                                         MERCEDES C 2                 5
+228                                              Citroen                 5
+547                                       LAIKA CARAVANS                 5
+81                                          AUSTIN ROVER                 5
+872                                          SPORTEQUIPE                 5
+718                                         OPEL Corsa 1                 5
+454                                               HUMMER                 5
+252                                           DEUTZ FAHR                 5
+41                                                AIXMAN                 5
+245                                 DAIMLERCHRYSLER AG 9                 5
+1083                                               dacia                 5
+790                                         RENAULT CLIO                 5
+433                                              GREENGO                 5
+203                                                CLAAS                 5
+40                                                 AIXMA                 5
+771                                               QUADRO                 5
+336                                          FIAT DUCATO                 4
+827                                             S.D.F.I.                 4
+558                                         LANCIA Y 1.2                 4
+464                                              HYUNDAY                 4
+661                                      MITSUBISHI FUSO                 4
+939                                   TRATTRICE AGRICOLA                 4
+536                                            KWAN YANG                 4
+685                                           Mitsubishi                 4
+535                                               KUBOTA                 4
+624                                                 MEGA                 4
+904                                                TARGA                 4
+958                                       VALENTI RACING                 4
+496                                                Iveco                 4
+628                                      MERCEDES - BENZ                 4
+419                                      GIOTTI VICTORIA                 4
+416                                              GENERIC                 4
+431                                           GRECAV SPA                 4
+985                                            VOLKWAGEN                 4
+755                                                 POLO                 4
+969                                                VESPA                 4
+577                                         LIGIER GROUP                 4
+1013                                         VW Polo 1.4                 4
+521                                                KIMCO                 4
+1016                                                Voge                 4
+639                                              MERCEDS                 4
+940                                              TRIGANO                 4
+404                                                 FULU                 4
+810                                            ROMANITAL                 4
+75                                           AUDI A2 1.4                 4
+1127                                         lamborghini                 4
+1124                                               kymco                 4
+106                                                  BCS                 4
+198                                         CITROEN SAXO                 4
+202                                               CITRON                 4
+1188                                               smart                 4
+64                                    ARCHIVE MOTORCYCLE                 4
+1120                                                jeep                 4
+211                                           CNH EUROPE                 4
+116                                              BERTONE                 4
+57                                               ANTONIO                 4
+69                                          ASTON MARTIN                 4
+287                                              ESTRIMA                 4
+1146                                                 mbk                 4
+1055                                             aprilia                 4
+172                                             CHATANET                 4
+1141                                                 man                 4
+1140                                            malaguti                 4
+138                                             BURSTNER                 4
+1162                                         new holland                 4
+145                                               CAGIVA                 3
+523                                                   KL                 3
+948                                                  UAZ                 3
+540                                                KYMKO                 3
+152                                             CARTHAGO                 3
+1131                                             landini                 3
+937                                            TRATTRICE                 3
+162                                          CATERPILLAR                 3
+503                                                  JDM                 3
+510                                            JOHN DEER                 3
+217                                               COMACA                 3
+997                                             VW CADDY                 3
+411                                                  GAC                 3
+414                                              GAS GAS                 3
+1085                                            daihatsu                 3
+424                                                 GOLF                 3
+1092                                        fantic motor                 3
+222                                               CUCINI                 3
+453                                               HORWIN                 3
+1113                                               icaro                 3
+978                                           VOLKSVAGEN                 3
+207                                                CLASS                 3
+480                                               IRIZAR                 3
+481                                                ISEKI                 3
+486                                              ITALJET                 3
+491                                           IVECO FIAT                 3
+571                                               LIDIER                 3
+931                                          TRANSPORTER                 3
+600                                        MAN TRUCK BUS                 3
+926                                         TOYOTA YARIS                 3
+843                                              SANYANG                 3
+714                                         OPEL Agila 1                 3
+716                                         OPEL CORSA 1                 3
+848                                                 SDFI                 3
+846                                            SCANIA CV                 3
+742                                          PEUGEOT 106                 3
+743                                          PEUGEOT 206                 3
+747                                             PEUGEOUT                 3
+1183                                              scania                 3
+762                                                PUNTO                 3
+23                                             AGCO GMBH                 3
+775                                                  RAM                 3
+18                                                  AEON                 3
+822                                                Rieju                 3
+807                                          ROLLER TEAM                 3
+710                                                   OM                 3
+878                                                STEYR                 3
+574                                                LIFAN                 3
+906                                                TASSO                 3
+587                                              LYNK&CO                 3
+387                                         FORD Foc 1.6                 3
+118                                            BETAMOTOR                 3
+108                                              BEDFORD                 3
+618                                             MC LOUIS                 3
+909                                              TAZZARI                 3
+102                                                  Axy                 3
+62                                                  ARCA                 3
+1164                                                opeL                 3
+80                                                AUSTIN                 3
+1172                                             porsche                 3
+888                                       SUZUKI VALENTI                 3
+70                                                 ASTRA                 3
+678                                           MV AUGUSTA                 3
+388                                         FORD Foc 1.8                 3
+0                                              MAN TRUCK                 3
+1012                                         VW Polo 1.2                 3
+302                                            FD MOTORS                 3
+284                                                  EMC                 3
+310                                             FERRANTE                 3
+383                                          FORD FIESTA                 3
+1051                                          aixam mega                 3
+606                                                 MASH                 2
+109                                              BELARUS                 2
+1151                                       mercedes benz                 2
+610                                     MASSEY FERGUSSON                 2
+1                                                      .                 2
+283                                               ELNAGH                 2
+617                                                  MBP                 2
+604                                               MARUTI                 2
+602                                                  MAR                 2
+342                                         FIAT Idea 1.                 2
+385                                           FORD FOCUS                 2
+1063                                                beta                 2
+344                                         FIAT PALIO 7                 2
+1029                                                  WV                 2
+107                                          BCS FERRARI                 2
+620                                            MCCORMICK                 2
+623                                                   ME                 2
+584                                                LOTUS                 2
+627                                       MERCEDES  BENZ                 2
+629                                         MERCEDES 180                 2
+100                                           Alfa Romeo                 2
+637                                       MERCEDES- BENZ                 2
+1159                                          mitsubishy                 2
+1034                                              XIAMEN                 2
+645                                          MICROCAR 51                 2
+88                                           AUTOFUNEBRE                 2
+1166                                               paoli                 2
+84                                               AUTOBUS                 2
+894                                               Scania                 2
+654                                           MITSIBISHI                 2
+586                                               LVNENG                 2
+581                                               LJGIER                 2
+583                                           LOMBARDINI                 2
+146                                             CARAVANS                 2
+529                                                  KSR                 2
+1122                                            kawasaki                 2
+531                                             KSR Moto                 2
+165                                              CF MOTO                 2
+1069                                             carraro                 2
+357                                         FIAT Panda 9                 2
+161                                             CATERHAM                 2
+1125                                               kymko                 2
+543                                                  Kia                 2
+155                                         CASALINI SRL                 2
+1023                                                WOLK                 2
+352                                         FIAT PUNTO 5                 2
+549                                         LAMBIORGHINI                 2
+550                                             LAMBORGH                 2
+1053                                          alfa romeo                 2
+281                                                  ELI                 2
+556                                             LANCIA Y                 2
+1134                                               liger                 2
+559                                         LANCIA YPSIL                 2
+560                                         LANCIA Ypsil                 2
+142                                              Brixton                 2
+351                                         FIAT PUNTO 1                 2
+136                                               BUFALO                 2
+349                                         FIAT PANDA 9                 2
+1064                                           betamotor                 2
+129                                                BOXER                 2
+346                                         FIAT PANDA 1                 2
+578                                        LIGIER JS32FD                 2
+580                                              LINGBEN                 2
+79                                               AUDI A6                 2
+657                                         MITSUBISC. P                 2
+257                                            DISCOVERY                 2
+889                                         SUZUKI Vitar                 2
+834                                          SAME BUFALO                 2
+295                                                FACMA                 2
+844                                         SARA PICASSO                 2
+296                                                 FAIT                 2
+27                                               AGILITY                 2
+750                                          PIAGGIO APE                 2
+752                                          PININFARINA                 2
+753                                               POESSL                 2
+25                                          AGCO LIMITED                 2
+838                                      SAME DEUTZ-FAHR                 2
+760                                              PRESTIJ                 2
+308                                                 FENT                 2
+836                                           SAME DEUTZ                 2
+835                                         SAME BUFFALO                 2
+307                                            FENDT 208                 2
+768                                          QUADRICICLO                 2
+739                                              PERKINS                 2
+19                                  AERDIESEL LOMBARDINI                 2
+305                                                 FEND                 2
+776                                          RANGE ROVER                 2
+777                                               RAPIDO                 2
+1201                                               vespa                 2
+783                                         REGAL RAPTOR                 2
+13                                             ADAM OPEL                 2
+789                                         RENAULT 180.                 2
+792                                         RENAULT Kang                 2
+793                                         RENAULT LAGU                 2
+795                                         RENAULT M)ga                 2
+1206                                           volswagen                 2
+1210                                                  wv                 2
+804                                            RIMORCHIO                 2
+31                                                AIAXAM                 2
+1047                                    Zero Motorcycles                 2
+666                                              MONDIAL                 2
+702                                             NISSAN T                 2
+170                                            CHANGZHOU                 2
+1060                                           autocarro                 2
+67                                             ARION 410                 2
+673                                                MOTOM                 2
+885                                        SUZUKI ITALIA                 2
+675                                               MOTRON                 2
+676                                                   MV                 2
+323                                             FIAT 600                 2
+320                                           FIAT 500 F                 2
+874                                             SSANGYON                 2
+1059                                             autobus                 2
+48                                          ALFA 147 1.9                 2
+699                                         NISSAN MICRA                 2
+700                                         NISSAN Micra                 2
+705                                                  NOX                 2
+732                                             PASQUALI                 2
+868                                         SLH EXPLORER                 2
+318                                              FIAT 35                 2
+317                                             FIAT 244                 2
+863                                                  SKI                 2
+862                                            SIMPA JDM                 2
+291                                            EUROCARGO                 2
+719                                          OPEL Meriva                 2
+720                                          OPEL ZAFIRA                 2
+721                                          OPEL Zafira                 2
+38                                                AIXAMA                 2
+857                                               SHERCO                 2
+728                                                PANDA                 2
+854                                        SEMIRIMORCHIO                 2
+853                                           SEAT IBIZA                 2
+528                                               KRAMER                 2
+918                                           TONY 10900                 2
+525                                                KNAUS                 2
+1110                                               hymer                 2
+434                                               GREGAV                 2
+435                                                GUZZI                 2
+1094                                               fendt                 2
+444                                               HELNAG                 2
+445                                              HIUNDAY                 2
+216                                                   CO                 2
+447                                                HOBBY                 2
+214                                    CNH INTERNATIONAL                 2
+213                                       CNH INDUSTRIAL                 2
+212                                 CNH EUROPE HOLDING S                 2
+1076                                           chevrolet                 2
+974                                                VMOTO                 2
+463                                         HYUNDAI S.FE                 2
+200                                         CITROEN XSAR                 2
+968                                           VERVE MOTO                 2
+199                                         CITROEN Saxo                 2
+966                                                  VEM                 2
+1105                                              grecav                 2
+369                                          FIAT Uno 55                 2
+482                                                ISIZU                 2
+195                                         CITROEN C3 1                 2
+1108                                                  hm                 2
+490                                      IVECO EUROCARGO                 2
+225                                               Cagiva                 2
+378                                           FITA PUNTO                 2
+987                                                VOLSW                 2
+1081                                                 cnh                 2
+384                                         FORD FOC 1.8                 2
+391                                          FORD Mondeo                 2
+393                                          FORD RANGER                 2
+394                                           FORD S-MAX                 2
+255                                                DIECI                 2
+1000                                         VW GOLF 1.9                 2
+400                                             FRANCHIN                 2
+998                                              VW GOLF                 2
+253                                           DEUTZ-FAHR                 2
+1080                                                clio                 2
+382                                   FORD CUSTOM 300 L1                 2
+1091                                              fantic                 2
+412                                            GAC GONOW                 2
+413                                    GARAGE ITALIA SRL                 2
+1006                                           VW PASSAT                 2
+242                                       DAIMLERCHRYLER                 2
+418                                               GIOTTI                 2
+991                                            VOLVO F10                 2
+1086                                               dodge                 2
+1089                                               durso                 2
+232                                         DAEWOO MATIZ                 2
+1090                                      dymlerchrysler                 2
+366                                          FIAT UNO 45                 2
+1054                                                 ape                 2
+1021                                   WIN LIFE ELECTRIC                 2
+1072                                          challenger                 2
+183                                    CHRYSLER (USA) YJ                 2
+509                                           JOHN  DEER                 2
+502                                                  JCB                 2
+267                                            DUCATI B2                 2
+186                                          CICLOMOTORE                 2
+177                                              CHATNET                 2
+517                                             KAWASAKY                 2
+1118                                                 jdm                 2
+269                                                  DUE                 2
+950                                                 UNIC                 2
+947                                              U T B U                 2
+185                                                   CI                 2
+187                                             CINTROEN                 2
+851                                              SEA SPA                 1
+1190                                           ssangyong                 1
+855                                                SENKE                 1
+949                                                UMBRA                 1
+1067                                                  bw                 1
+1077                                         ciclomotore                 1
+1088                                              ducati                 1
+1191                                              stayer                 1
+1194                                                 sym                 1
+1129                                                land                 1
+1056                                               astra                 1
+990                                           VOLVO B12B                 1
+850                                           SEA S.P.A.                 1
+1049                                              abarth                 1
+1192                                              susuki                 1
+1007                                             VW POLO                 1
+847                                                 SDFG                 1
+1087                                                  dr                 1
+925                                         TOYOTA RAV 4                 1
+1189                                                  ss                 1
+858                                             SIAMROAD                 1
+1132                                               lexus                 1
+1009                                         VW POLO 1.4                 1
+1097                                          fiat iveco                 1
+871                                               SOCAGE                 1
+1095                                            ferrante                 1
+870                                        SMART FORFOUR                 1
+1184                                           scuolabus                 1
+1185                                          share n'go                 1
+983                                           VOLKSWAGWN                 1
+867                                                  SLH                 1
+866                                          SKODA SUPER                 1
+984                                            VOLKSWGEN                 1
+865                                         SKODA Felici                 1
+1186                                               simpa                 1
+1187                                               skoda                 1
+1008                                         VW POLO 1.0                 1
+1093                                                fend                 1
+1058                                         autobianchi                 1
+934                                         TRATTORE 4RM                 1
+1019                                               WAYEL                 1
+986                                          VOLSKSWAGEN                 1
+936                                 TRATTORE STRADALE VO                 1
+1114                                           innocenti                 1
+860                                          SIMACAR SRL                 1
+1195                                               tasso                 1
+1022                                             WINGAMM                 1
+1084                                                 daf                 1
+1003                                         VW Golf 1.9                 1
+1001                                         VW Golf 1.4                 1
+823                                        Royal Enfield                 1
+1052                                                alfa                 1
+1202                                         volkswafgen                 1
+820                                               Reform                 1
+1002                                         VW Golf 1.8                 1
+1119                                                 jdp                 1
+1204                                volkswagen passat  1                 1
+819                                          RVM VEICOLI                 1
+1020                                            WEINSBER                 1
+818                                                  RVK                 1
+817                                           RSA ITALIA                 1
+825                                           S  L H 874                 1
+1205                                           volkwagen                 1
+1071                                         caterpillar                 1
+815                                           ROVER MINI                 1
+1209                                           wolswagen                 1
+814                                          ROVER GROUP                 1
+1004                                        VW Golf IV (                 1
+813                                         ROVER 45 2.0                 1
+1005                                         VW Lupo 1.0                 1
+812                                         ROVER 420 td                 1
+1212                                             zhejang                 1
+944                                              TYPHOON                 1
+824                                                    S                 1
+826                                            S L K 874                 1
+841                                              SAMSUNG                 1
+938                                         TRATTRICE AG                 1
+992                                        VOLVO FE 2006                 1
+873                                             SPRINTER                 1
+1197                                            trattore                 1
+1126                                               laika                 1
+1198                                                   v                 1
+840                                         SAME EXPL 70                 1
+839                           SAME DEUTZ-FAHR ITALIA SPA                 1
+1068                                               caron                 1
+1116                                               ivece                 1
+837                                      SAME DEUTZ FAHR                 1
+1082                                               comai                 1
+1199                                                v.w.                 1
+941                                          TRIGANO SPA                 1
+995                                               VW 7HC                 1
+1079                                       citroen xsara                 1
+833                                             SAME 360                 1
+832                                           SAME 35 QL                 1
+1200                                              valtra                 1
+809                                          ROLLS ROYCE                 1
+830                                                SACAR                 1
+829                                          SAAB 9000 i                 1
+996                                          VW Bora 1.9                 1
+1123                                              kimkco                 1
+999                                          VW GOLF 1.6                 1
+1133                                              lieger                 1
+1182                                             sanyang                 1
+951                                          UNO 45 FIRE                 1
+952                                                   UV                 1
+955                                                 V.W.                 1
+914                                                  TGB                 1
+964                                               VANARA                 1
+912                                           TERRACROSS                 1
+965                                  VDL BOVA B.V.FUTURA                 1
+954                                                  V W                 1
+911                                             TECNOMEC                 1
+1075                                  chatenet ch 24 t0b                 1
+1030                                                  WW                 1
+910                                                  TDM                 1
+1137                                            lw4 c ka                 1
+1031                                               Wayel                 1
+908                                            TATA  4X4                 1
+928                                               TOYOYA                 1
+929                                              TRANSIT                 1
+1152                                       mercedes-benz                 1
+970                                                VIRGO                 1
+1154                                         microcar 61                 1
+971                                               VITARA                 1
+1062                                             benelli                 1
+1033                                          XEV S.R.L.                 1
+972                                                  VLK                 1
+905                                          TARGA PROVA                 1
+1156                                         mitsubischi                 1
+903                                              TALARIA                 1
+1150                                     mercedes - benz                 1
+1028                                                 WOW                 1
+1074                                        chatenet 505                 1
+1144                                              master                 1
+1111                                             hyundai                 1
+959                                             VALENTIN                 1
+1112                                               iVECO                 1
+956                                                  VAL                 1
+924                                          TOYOTA Land                 1
+960                                               VALMET                 1
+923                                            TOYOTA JG                 1
+922                                         TOYOTA Celic                 1
+1142                                 mariniello generosa                 1
+921                                           TOYOTA 471                 1
+1143                                     massey ferguson                 1
+1145                                               mazda                 1
+1138                                            macchina                 1
+919                                            TOWN LIFE                 1
+961                                             VALPADAN                 1
+1139                                            mahindra                 1
+1147                                          mc cormick                 1
+916                                                TIGRE                 1
+1017                                          Volksvagen                 1
+1148                                             mecedes                 1
+1107                                             hiunday                 1
+915                              THE LONDON TAXI COMPANY                 1
+1026                                         WOLKSWAGHEN                 1
+1106                                          grecav eke                 1
+902                                              TABBERT                 1
+973                                            VM RACING                 1
+1158                                          mitsubishu                 1
+1176                                             renoult                 1
+886                                         SUZUKI Jimny                 1
+1173                                             ranault                 1
+1040                                               YADEA                 1
+1011                                        VW Polo 1.0i                 1
+1010                                         VW Polo 1.0                 1
+979                                              VOLKSW.                 1
+932                                         TRATT. BAML/                 1
+1174                                             reanult                 1
+1043                                                 ZEN                 1
+884                                           SUZUKI 385                 1
+982                                      VOLKSWAGEN POLO                 1
+882                                              SUR-RON                 1
+977                                            VOLKSAGEN                 1
+1044                                    ZERO MOTORCYCLES                 1
+1177                                               rimor                 1
+1045                                            ZONGSHEN                 1
+1178                                         roller team                 1
+880                                                SUNRA                 1
+1179                                       s.d.f.g. same                 1
+1180                                                same                 1
+877                                            STERCKMAN                 1
+1181                                             santana                 1
+876                                                START                 1
+957                                              VALENTI                 1
+942                                          TRIGANO VDL                 1
+1039                                     Xiamen Xiashing                 1
+1104                                               great                 1
+895                                              Seat Mo                 1
+1160                                          mv augusta                 1
+901                                                T CAR                 1
+1161                                          new holand                 1
+1014                                         VW Polo 1.9                 1
+1061                                             belarus                 1
+1103                                                golf                 1
+899                                       Suzuki Valenti                 1
+1102                                             goldoni                 1
+930                                         TRANSIT COMB                 1
+897                                               Sherco                 1
+896                                                Senke                 1
+1066                                              bobcat                 1
+976                                               VOLEEX                 1
+1101                                     giotti vittoria                 1
+1136                                          lombardini                 1
+893                                                 Same                 1
+1167                                              peugeo                 1
+1100                                             generic                 1
+1036                                             XRV 750                 1
+1099                                          ford focus                 1
+1170                                              piagio                 1
+1037                                                XTOO                 1
+1171                                             polaris                 1
+1038                                                 XXX                 1
+887                                         SUZUKI SANTA                 1
+607                                          MASH ITALIA                 1
+808                                          ROLLER TIME                 1
+260                                  DONGFENG MOTOR CORP                 1
+239                                          DAILY 35C13                 1
+241                                 DAIMLER CHRYSLER JEE                 1
+244                                   DAIMLERCHRYSLER AG                 1
+246                                       DAMLERCHRYSLER                 1
+247                                        DEERE COMPANY                 1
+249                                            DETHLEFFS                 1
+251                                         DEUTZ - FAHR                 1
+254                                                 DEUZ                 1
+256                                            DIECI SRL                 1
+258                                               DOBLO'                 1
+261                                                DOTTO                 1
+282                                       ELLEBI LB 1213                 1
+263                                                DREAM                 1
+264                                               DRESEL                 1
+270                                                DURSO                 1
+271                                       DYMLERCHRYSLER                 1
+272                                                Dacia                 1
+273                                                  Daf                 1
+274                                                Derbi                 1
+275                                           Deutz Fahr                 1
+277                                       E-TUCK FACTORY                 1
+278                                                   E3                 1
+238                                         DAIHATSU Sir                 1
+236                                              DAIHATS                 1
+235                                               DAF XF                 1
+231                                         DAEWOO Lanos                 1
+189                                               CITOEN                 1
+190                                              CITREON                 1
+192                                         CITROEN AX 1                 1
+193                                         CITROEN Berl                 1
+194                                           CITROEN C3                 1
+196                                         CITROEN C5 2                 1
+197                                        CITROEN DS 20                 1
+201                                         CITROEN Xsar                 1
+204                                           CLAAS KGAA                 1
+205                                        CLAAS TRACTOR                 1
+206                                   CLAAS TRACTORS SAS                 1
+208                                            CLASS 583                 1
+209                                                  CMC                 1
+215                                                  CNN                 1
+218                                           COMACA SRL                 1
+219                                                  CPI                 1
+220                                               CRESCI                 1
+221                                      CRESCI RIMORCHI                 1
+224                                            CYHATENET                 1
+226                                             Chausson                 1
+227                                          Ciclomotore                 1
+279                                              ECOOTER                 1
+285                                              ERREPPI                 1
+806                                               RNURFB                 1
+348                                         FIAT PANDA 7                 1
+332                                         FIAT CINQUEC                 1
+333                                         FIAT Cinquec                 1
+334                                         FIAT Croma 1                 1
+335                                          FIAT DOBLO'                 1
+337                                 FIAT GROUP AUTOMOBIL                 1
+338                                           FIAT ICEVO                 1
+339                                         FIAT IDEA 1.                 1
+340                                           FIAT IVACO                 1
+343                                         FIAT MULTIPL                 1
+347                                         FIAT PANDA 4                 1
+353                                         FIAT PUNTO 6                 1
+286                                              ESTEREL                 1
+354                                         FIAT Palio 1                 1
+355                                         FIAT Palio T                 1
+360                                         FIAT Punto T                 1
+361                                           FIAT RIMOR                 1
+364                                          FIAT TEMPRA                 1
+365                                             FIAT UNO                 1
+367                                          FIAT UNO 60                 1
+368                                         FIAT UNOFIRE                 1
+370                                           FIAT*PANDA                 1
+371                                             FIATAGRI                 1
+331                                         FIAT CINQ900                 1
+330                                         FIAT BRAVA 1                 1
+329                                           FIAT BRAVA                 1
+328                                        FIAT AUTO SPA                 1
+288                                            ETRIKOSKG                 1
+289                                                 EURO                 1
+290                                          EURO CARICO                 1
+293                                         EVO BUS M.B.                 1
+294                                         F.B. MONDIAL                 1
+299                                            FARMATRAC                 1
+300                                                 FAST                 1
+301                                                  FCA                 1
+303                                            FD Motors                 1
+304                                                FE.BA                 1
+309                                             FERGUSON                 1
+312                                               FGM 37                 1
+313                                             FHYUNDAY                 1
+314                                                  FIA                 1
+316                                             FIAT 100                 1
+321                                            FIAT 500L                 1
+322                                              FIAT 55                 1
+324                                          FIAT 640 DT                 1
+325                                             FIAT 680                 1
+326                                           FIAT 70.66                 1
+327                                           FIAT 70/90                 1
+188                                              CIRELLI                 1
+184                                          CHRYSLER PT                 1
+181                                             CHRISLER                 1
+59                                   ANTONIO CARRARO SPA                 1
+43                                                   AJP                 1
+45                                          ALFA 146 1.4                 1
+46                                          ALFA 146 1.6                 1
+47                                              ALFA 147                 1
+49                                          ALFA 156 1.8                 1
+50                                          ALFA 156 1.9                 1
+51                                          ALFA 33 GIAR                 1
+54                                          ALTRE MARCHE                 1
+55                                                 AMBRA                 1
+56                                             ANTONELLI                 1
+63                                             ARCA 2001                 1
+179                                              CHEREAU                 1
+65                                         ARGO TRACTORS                 1
+66                                                 ARIIC                 1
+71                                               ASTRA V                 1
+72                                                  ATOS                 1
+74                                          AUDI 80 1.6i                 1
+76                                           AUDI A3 1.8                 1
+77                                           AUDI A4 1.9                 1
+78                                          AUDI A4 1.9/                 1
+82                                           AUTOB. Y 10                 1
+86                                  AUTOCARRO CONTO PROP                 1
+42                                                AIXSAM                 1
+39                                                 AIXAN                 1
+37                                              AIXAM SV                 1
+36                                        AIXAM MEGA VBO                 1
+2                                                 3TNV76                 1
+3                                                    500                 1
+4                                                  667TA                 1
+5                                                 999553                 1
+6                                                  A 112                 1
+7                                              A.CARRARO                 1
+8                                              A/R 146 L                 1
+9                                                   A4RM                 1
+11                                                    AC                 1
+12                                                  ADAM                 1
+15                                                  ADLY                 1
+17                                             AEBI & CO                 1
+20                                                 AEXAN                 1
+22                                         AGCO G Series                 1
+24                                        AGCO GMBH E CO                 1
+26                                  AGCO MASSEY FERGUSON                 1
+28                                           AGRIFULL 70                 1
+29                                             AGRITALIA                 1
+30                                                AGUSTA                 1
+32                                                  AIXA                 1
+35                                   AIXAM MEGA K 34V BR                 1
+87                                           AUTOFFICINA                 1
+89                                           AUTOMOBILES                 1
+90                                    AUTOMOBILES LIGIER                 1
+133                                    BRUSEGHINI  BEP/4                 1
+137                                            BURSTENER                 1
+141                                               Borile                 1
+143                                             C F MOTO                 1
+144                                             CADILLAC                 1
+147                                              CARHAGO                 1
+150                                             CARRAROI                 1
+151                                               CARRON                 1
+154                                          CASALINI 10                 1
+157                                                CASEI                 1
+158                                              CASSONE                 1
+159                                                  CAT                 1
+160                                      CAT CATERPILLAR                 1
+163                                                  CCM                 1
+164                                              CENNTRO                 1
+167                                           CFORCE450L                 1
+169                                               CHANET                 1
+171                                            CHANTENET                 1
+173                                             CHATEMET                 1
+175                                    CHATENET CH26 1 0                 1
+176                                 CHATENET QUADRICICLO                 1
+178                                             CHAUSSON                 1
+134                                               BUCHER                 1
+131                                              BREMACK                 1
+91                                  AUTOMOBILES LIGIER J                 1
+128                                              BONETTI                 1
+92                                  AUTOMOBILIES CHATENE                 1
+93                                             AUTOTORRE                 1
+94                                           AUTOVETTURA                 1
+95                                                  AXAM                 1
+96                                                 AXIAM                 1
+97                                                   AXY                 1
+98                                                 Adiva                 1
+103                                                B M W                 1
+104                                           BARTOLETTI                 1
+105                                        BARTOLETTI MV                 1
+113                                             BERLINGO                 1
+114                                              BEROISH                 1
+115                                            BERTOLINI                 1
+119                                        BETAMOTOR SPA                 1
+120                                               BIMOTA                 1
+121                                                 BLUE                 1
+122                                           BLUE DREAM                 1
+124                                         BMW 316i C 4                 1
+125                                             BMW 520i                 1
+126                                              BMW X 3                 1
+127                                          BMW X5 3.0D                 1
+372                                          FIATGEOTECH                 1
+373                                             FIAT\680                 1
+374                                               FIESTA                 1
+697                                         NISSAN DATSU                 1
+681                                                  Man                 1
+682                                                 Mash                 1
+684                                      Mercedes - Benz                 1
+687                                             Moto spa                 1
+688                                               Motron                 1
+689                                      NACTIONAL MOTOR                 1
+691                                           NEW HOLAND                 1
+693                                         NEW HOLLANDE                 1
+694                                                NIBBI                 1
+695                                               NINGBO                 1
+698                                          NISSAN JUKE                 1
+619                                             MC LUOIS                 1
+701                                         NISSAN Patro                 1
+703                                         NISSAN X-Tra                 1
+706                                          New Holland                 1
+707                                               Nissan                 1
+708                                                  Nox                 1
+709                                                OELLE                 1
+711                                                 OMAI                 1
+713                                           OPEL ASTRA                 1
+715                                         OPEL Astra 1                 1
+717                                         OPEL CORSA S                 1
+679                                            MV Agusta                 1
+674                                        MOTORHISPANIA                 1
+668                                               MORINI                 1
+667                                               MORGAN                 1
+622                                              MCLOUIS                 1
+625                                               MEGANE                 1
+630                                         MERCEDES 208                 1
+633                                         MERCEDES CLK                 1
+634                                         MERCEDES E 2                 1
+635                                         MERCEDES E 3                 1
+636                                         MERCEDES Ser                 1
+641                                           MF LANDINI                 1
+643                                                MICRO                 1
+646                                         MIETITREBBIA                 1
+647                                            MINARELLI                 1
+649                                          MINI COOPER                 1
+650                                         MINI Mini 1.                 1
+651                                              MINICAR                 1
+653                                               MIRAGE                 1
+655                                          MITSUBHISHI                 1
+659                                           MITSUBISCI                 1
+662                                           MITSUBISHY                 1
+663                                           MITSUBISKI                 1
+664                                                   ML                 1
+665                                           MOBILVETTA                 1
+722                                                OPERL                 1
+723                                                OZETA                 1
+724                                                 Opel                 1
+767                                                 QUAD                 1
+770                                   QUADRICICLO LIGIER                 1
+772                                               QUARGO                 1
+773                                               Quadro                 1
+774                                               R.V.M.                 1
+778                                                  RAV                 1
+779                                                RAV 4                 1
+780                                              REANULT                 1
+781                                               REFORM                 1
+782                                          REFORMWERKE                 1
+784                                           REN.MEGANE                 1
+785                                                RENAU                 1
+786                                              RENAUKT                 1
+787                                               RENAUL                 1
+791                                         RENAULT Clio                 1
+794                                         RENAULT M GA                 1
+796                                         RENAULT MODU                 1
+797                                         RENAULT Modu                 1
+799                                           RENAULT TW                 1
+801                                              RENEULT                 1
+803                                                RIMOR                 1
+805                                              RIVIERA                 1
+769                                  QUADRICICLO LEGGERO                 1
+764                                            PUNTO VAN                 1
+725                                                Orcal                 1
+763                                         PUNTO DYNAMI                 1
+726                                                 Over                 1
+727                                               PAJERO                 1
+729                                            PANDA 4X4                 1
+730                                                PAOLO                 1
+731                                              PAQUALI                 1
+733                                           PAYERO GLS                 1
+734                                           PEDA MOTOR                 1
+735                                              PEGEOUT                 1
+736                                               PEGEUT                 1
+737                                              PELLENC                 1
+738                                             PEOUGEOT                 1
+740                                               PEUGEO                 1
+744                                          PEUGEOT 306                 1
+745                                          PEUGEOT 405                 1
+746                                         PEUGEOT RANC                 1
+748                                              PEUGETO                 1
+751                                         PIAGGIO VESP                 1
+757                                           PORTA MOTO                 1
+758                                               PORTER                 1
+759                                          PORTERMAXXI                 1
+761                                                  PSG                 1
+621                                              MCLAREN                 1
+616                                        MBK INDUSTRIE                 1
+375                                                FIORI                 1
+462                                         HYUNDAI ATOS                 1
+438                                                 H.D.                 1
+439                                                HAFEI                 1
+448                                              HOLLAND                 1
+450                                            HONDA 250                 1
+451                                            HONDA CBR                 1
+452                                             HONDA PC                 1
+455                                               HUNDAY                 1
+456                                            HURLIMANN                 1
+457                                             HUSABERG                 1
+460                                               HYNDAI                 1
+468                                                Hymer                 1
+613                                                MAXUS                 1
+469                                              Hyosung                 1
+470                                              Hyundai                 1
+471                                           I.V.R. SRL                 1
+472                                                ICARO                 1
+473                                              ICOVECO                 1
+474                                        IFOR WILLIAMS                 1
+475                                               IIVECO                 1
+478                                        INTERNATIONAL                 1
+479                                                IRBIT                 1
+484                                            ISUZU P35                 1
+436                                              Generic                 1
+432                                              GREENCO                 1
+430                                        GRECAV S.p.A.                 1
+425                                             GRAZIOLI                 1
+376                                                 FITA                 1
+377                                           FITA IVECO                 1
+379                                            FK MOTORS                 1
+381                                            FORD 3600                 1
+389                                         FORD Foc 2.0                 1
+390                                              FORD KA                 1
+392                                   FORD NUOVO TRANSIT                 1
+396                                         FORD TRIGANO                 1
+397                                             FORD USA                 1
+398                                             FORD WAG                 1
+399                                    FORD WERKE TECFHL                 1
+401                                             FRANCINI                 1
+402                                           FREELANDER                 1
+403                                                 FUJI                 1
+406                                         Fantic motor                 1
+407                                                Fendt                 1
+409                                           Fiat Punto                 1
+415                                             GASOLONE                 1
+420                                      GIOTTI VITTORIA                 1
+421                                               GLOBAL                 1
+422                                                GOEST                 1
+485                                               ITALIA                 1
+488                                            IVECO 100                 1
+489                                          IVECO 100 E                 1
+554                                         LANCIA LIBRA                 1
+557                                         LANCIA Y 1.1                 1
+563                                         LAND ROVER F                 1
+565                                              LANIDNI                 1
+566                                              LAVERDA                 1
+567                                         LAVERDA 3300                 1
+568                                                LEOMA                 1
+570                                                LGIER                 1
+572                                             LIEBHERR                 1
+579                                              LINDNER                 1
+585                                           LUANO CAMP                 1
+588                                               Lancia                 1
+589                                           Land Rover                 1
+591                                  MACCHINA OPERATRICE                 1
+592                                              MAGIRUS                 1
+595                                      MALAGUTI/YAMAHA                 1
+597                                    MAN NUTSFAHRZEUGE                 1
+598                                            MAN SYN2Z                 1
+599                                              MAN TGX                 1
+603                                         MAR GENEROSA                 1
+611                                                MASSY                 1
+612                                               MAURER                 1
+555                                         LANCIA THEMA                 1
+552                                            LAMBRETTA                 1
+493                                                IZUZU                 1
+548                                   LAIKA CARAVANS SPA                 1
+494                                                Isuzu                 1
+495                                              Italjet                 1
+497                                          J.C.BAMFORD                 1
+499                                   JAGUAR LANDO ROVER                 1
+500                                         JAGUAR XJ6 3                 1
+501                                 JANGSSU LUNENG ELECT                 1
+505                                           JHNO DEERE                 1
+506                                           JHON DEERE                 1
+507                                             JIANGMEN                 1
+512                                            JOHNDEERE                 1
+513                                            JONE DEER                 1
+514                                           JONH DEERE                 1
+516                                          KAWASAKI KL                 1
+520                                               KIA UP                 1
+524                                                KLAAS                 1
+526                                          KNAUSTABBER                 1
+527                                              KORANDO                 1
+533                                           KTM  IS A3                 1
+534                                              KTM 125                 1
+537                                                KWANG                 1
+538                                           KWANG YANG                 1
+1213  ||||||||||||||||||||||||||||||||||||||||||||||||||                 1

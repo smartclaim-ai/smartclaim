@@ -1,0 +1,20 @@
+Avg Claim Amount by Region for DRIVER ACCIDENTS - PERMANENT DISABILITY (Top 15 in plot)
+
+      CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+12         SICILIA           4337.607500
+6          LIGURIA           3800.000000
+16          VENETO           3028.142857
+7        LOMBARDIA           2332.736667
+10          PUGLIA           1916.666667
+9         PIEMONTE           1850.000000
+4   EMILIA ROMAGNA           1782.000000
+11        SARDEGNA           1601.250000
+3         CAMPANIA           1433.333333
+8           MARCHE           1225.000000
+2         CALABRIA           1214.285714
+13         TOSCANA           1183.333333
+1       BASILICATA           1172.333333
+5            LAZIO           1163.796667
+14          UMBRIA            625.000000
+0          ABRUZZO            450.000000
+15         Unknown            200.000000

@@ -1,0 +1,22 @@
+Claims by Region for GREEN LINE (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+4          EMILIA ROMAGNA               367
+10               PIEMONTE               128
+3                CAMPANIA               118
+18                 VENETO                78
+14                TOSCANA                71
+8               LOMBARDIA                66
+6                   LAZIO                59
+11                 PUGLIA                37
+13                SICILIA                18
+9                  MARCHE                17
+12               SARDEGNA                15
+7                 LIGURIA                14
+0                 ABRUZZO                10
+16                 UMBRIA                 6
+15    TRENTINO ALTO ADIGE                 5
+5   FRIULI VENEZIA GIULIA                 4
+1              BASILICATA                 2
+2                CALABRIA                 1
+17                Unknown                 1

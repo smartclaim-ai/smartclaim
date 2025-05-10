@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for POLE POSITION ASSISTANCE
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25            188.566486
+1     26-35            190.419601
+2     36-45            206.265086
+3     46-55            224.736667
+4     56-65                   NaN
+5       65+            219.005000

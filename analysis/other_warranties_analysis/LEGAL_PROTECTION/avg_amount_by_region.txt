@@ -1,0 +1,16 @@
+Avg Claim Amount by Region for LEGAL PROTECTION (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+4                 LIGURIA           2598.960000
+6                  MARCHE           1981.730000
+2   FRIULI VENEZIA GIULIA           1538.630000
+3                   LAZIO           1268.800000
+1          EMILIA ROMAGNA           1133.888929
+7                PIEMONTE           1130.027821
+5               LOMBARDIA           1115.577833
+12                 VENETO            947.848333
+11    TRENTINO ALTO ADIGE            838.720000
+9                 SICILIA            729.560000
+8                  PUGLIA            624.800000
+10                TOSCANA            523.260000
+0                 ABRUZZO            461.820000

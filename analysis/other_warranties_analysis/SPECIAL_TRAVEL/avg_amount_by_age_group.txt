@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for SPECIAL TRAVEL
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25            212.284000
+1     26-35            195.799636
+2     36-45            199.001464
+3     46-55            196.750475
+4     56-65            190.991362
+5       65+            192.157559

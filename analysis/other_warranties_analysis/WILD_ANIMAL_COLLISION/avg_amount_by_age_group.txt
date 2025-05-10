@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for WILD ANIMAL COLLISION
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25                   NaN
+1     26-35           2730.170000
+2     36-45           2192.983333
+3     46-55           2432.171667
+4     56-65           2359.147105
+5       65+           2720.567222

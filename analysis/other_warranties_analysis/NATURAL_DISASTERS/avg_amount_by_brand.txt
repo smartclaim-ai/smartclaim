@@ -1,0 +1,89 @@
+Avg Claim Amount by Brand for NATURAL DISASTERS (Top 15 in plot)
+
+         VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+82               hymer           7100.000000
+79            VW CADDY           6200.000000
+36               KNAUS           6114.375000
+84             renault           5421.000000
+78                  VW           5405.000000
+47            MC LOUIS           5018.400000
+7             CARTHAGO           4500.000000
+38               LAIKA           4422.000000
+45            MASERATI           4258.806667
+8            CHANTENET           4255.000000
+74             TRIGANO           4172.000000
+83            mercedes           4110.500000
+9             CHAUSSON           4079.700000
+67           SSANGYONG           3987.521364
+11            CHRISLER           3969.500000
+24        FORD TRIGANO           3782.500000
+43               LEXUS           3615.963448
+26               HOBBY           3600.000000
+72               TESLA           3550.885000
+6             BURSTNER           3547.626667
+14               CUPRA           3541.200000
+68              SUBARU           3528.444250
+75             Unknown           3523.192500
+31               ISUZU           3523.080000
+71             TABBERT           3500.000000
+33              JAGUAR           3431.863333
+34                JEEP           3390.216312
+40  LAIKA CARAVANS SPA           3383.000000
+46               MAZDA           3374.805259
+12            CHRYSLER           3371.568000
+15               DACIA           3328.623646
+42          LAND ROVER           3296.296957
+30            INFINITI           3286.807500
+27               HONDA           3259.393380
+35                 KIA           3232.096254
+85          volkswagen           3169.000000
+39      LAIKA CARAVANS           3150.000000
+18                  DR           3148.246333
+4                  BMW           3144.710382
+53                  MG           3137.505625
+50       MERCEDES BENZ           3136.000000
+59             PORSCHE           3116.412273
+58             PEUGEOT           3114.832387
+48            MERCEDES           3108.982348
+54                MINI           3108.297047
+3                 AUDI           3100.095883
+56              NISSAN           3079.508111
+73              TOYOTA           3062.612772
+41              LANCIA           3035.389514
+22                FIAT           3033.580194
+13             CITROEN           3029.039553
+2           ALFA ROMEO           3024.165414
+29             HYUNDAI           3021.898870
+65               SKODA           2990.756179
+69              SUZUKI           2989.996281
+55          MITSUBISHI           2982.700161
+23                FORD           2974.804143
+64                SEAT           2951.004364
+77               VOLVO           2933.239444
+60             RENAULT           2924.589982
+57                OPEL           2905.611659
+21                 EVO           2881.964000
+76          VOLKSWAGEN           2871.674761
+16            DAIHATSU           2762.150000
+28               HYMER           2742.000000
+19                  DS           2716.885926
+10           CHEVROLET           2710.017500
+44            MAHINDRA           2652.062000
+81                ford           2476.080000
+0               ABARTH           2396.414030
+17               DODGE           2370.807692
+5            BURSTENER           2352.000000
+1                ADRIA           2148.213333
+62                SAAB           1798.393333
+66               SMART           1781.926731
+80                 bmw           1678.110000
+32               IVECO           1588.070000
+20              DUCATO           1544.675000
+37         KNAUSTABBER           1400.000000
+25    GREAT WALL MOTOR           1400.000000
+51        MERCEDES C 2           1342.000000
+49     MERCEDES - BENZ           1342.000000
+70              SUZUKY           1224.000000
+52       MERCEDES-BENZ           1164.000000
+61               RIMOR           1150.000000
+63             SEA SPA            744.000000

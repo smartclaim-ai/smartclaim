@@ -1,0 +1,24 @@
+Overall Claims by Region
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+8               LOMBARDIA             39488
+11               PIEMONTE             38828
+20                 VENETO             22236
+6                   LAZIO             18798
+4          EMILIA ROMAGNA             18762
+15                TOSCANA             16677
+14                SICILIA             14806
+3                CAMPANIA             12756
+12                 PUGLIA              9149
+13               SARDEGNA              8107
+7                 LIGURIA              7701
+5   FRIULI VENEZIA GIULIA              6720
+2                CALABRIA              4544
+16    TRENTINO ALTO ADIGE              3862
+17                 UMBRIA              3778
+9                  MARCHE              3432
+0                 ABRUZZO              3410
+1              BASILICATA              1518
+18                Unknown              1289
+19          VALLE D'AOSTA              1274
+10                 MOLISE               512

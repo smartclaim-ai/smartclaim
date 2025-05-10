@@ -1,0 +1,42 @@
+Claims by Brand for DRIVER ACCIDENTS - PERMANENT DISABILITY (Top 15 in plot)
+
+      VEHICLE_BRAND  NUMBER_OF_CLAIMS
+9              FIAT                12
+14  HARLEY-DAVIDSON                 7
+20           LANCIA                 5
+25          PEUGEOT                 4
+4               BMW                 4
+35       VOLKSWAGEN                 4
+29          RENAULT                 4
+15            HONDA                 4
+10             FORD                 3
+1              AUDI                 3
+13  HARLEY DAVIDSON                 3
+11           GILERA                 2
+26          PIAGGIO                 2
+6           CITROEN                 2
+36           YAMAHA                 2
+23             MINI                 2
+24             OPEL                 2
+32           SUZUKI                 1
+33           TOYOTA                 1
+34          Unknown                 1
+31            SMART                 1
+30             SEAT                 1
+37           abarth                 1
+28          Piaggio                 1
+27          PORSCHE                 1
+0           APRILIA                 1
+19            Kymco                 1
+22         MALAGUTI                 1
+21       LAND ROVER                 1
+18              KIA                 1
+17         KAWASAKI                 1
+16             JEEP                 1
+12           HARLEY                 1
+8            FANTIC                 1
+7            DAEWOO                 1
+5         CHEVROLET                 1
+3              BETA                 1
+2           BENELLI                 1
+38               hm                 1

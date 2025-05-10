@@ -1,0 +1,61 @@
+Claims by Brand for SPECIAL TRAVEL (Top 15 in plot)
+
+           VEHICLE_BRAND  NUMBER_OF_CLAIMS
+15                  FIAT               757
+17                  FORD               293
+49            VOLKSWAGEN               231
+35                  OPEL               217
+30              MERCEDES               193
+38               RENAULT               192
+36               PEUGEOT               176
+2                   AUDI               173
+4                    BMW               169
+7                CITROEN               168
+25                LANCIA               166
+1             ALFA ROMEO               105
+31                  MINI               100
+43                 SMART                95
+48                TOYOTA                87
+33                NISSAN                85
+20               HYUNDAI                62
+26            LAND ROVER                59
+23                  JEEP                57
+8                  DACIA                56
+5              CHEVROLET                45
+46                SUZUKI                39
+24                   KIA                38
+41                  SEAT                28
+51                 VOLVO                27
+29                 MAZDA                18
+32            MITSUBISHI                17
+19                 HONDA                14
+37               PORSCHE                14
+42                 SKODA                11
+22                JAGUAR                10
+44             SSANGYONG                 6
+6               CHRYSLER                 6
+12                    DS                 5
+11                    DR                 5
+10                 DODGE                 4
+28              MASERATI                 3
+9               DAIHATSU                 3
+50                 VOLSW                 2
+54                  fiat                 2
+0                 ABARTH                 2
+21              INFINITI                 2
+39                 ROVER                 2
+40                  SAAB                 1
+13        DYMLERCHRYSLER                 1
+56               reanult                 1
+55                  ford                 1
+3           AUSTIN ROVER                 1
+53        dymlerchrysler                 1
+52                    VW                 1
+16  FIAT GROUP AUTOMOBIL                 1
+14               FERRARI                 1
+18      GREAT WALL MOTOR                 1
+47                  TATA                 1
+45                SUBARU                 1
+27              MAHINDRA                 1
+34          NISSAN Patro                 1
+57                suzuki                 1

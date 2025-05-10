@@ -1,0 +1,42 @@
+Avg Claim Amount by Brand for DRIVER ACCIDENTS - PERMANENT DISABILITY (Top 15 in plot)
+
+      VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+34          Unknown           9000.000000
+27          PORSCHE           7000.000000
+15            HONDA           4856.250000
+36           YAMAHA           4600.000000
+23             MINI           4300.000000
+26          PIAGGIO           4116.000000
+28          Piaggio           4000.000000
+14  HARLEY-DAVIDSON           3392.857143
+13  HARLEY DAVIDSON           2833.333333
+1              AUDI           2373.333333
+10             FORD           2300.000000
+24             OPEL           2250.000000
+12           HARLEY           2000.000000
+21       LAND ROVER           1800.000000
+11           GILERA           1657.500000
+35       VOLKSWAGEN           1587.500000
+20           LANCIA           1546.296000
+32           SUZUKI           1430.000000
+9              FIAT           1293.083333
+4               BMW           1202.000000
+3              BETA           1200.000000
+0           APRILIA           1195.860000
+19            Kymco           1000.000000
+6           CITROEN           1000.000000
+5         CHEVROLET           1000.000000
+25          PEUGEOT            925.000000
+22         MALAGUTI            783.550000
+16             JEEP            700.000000
+8            FANTIC            650.000000
+18              KIA            500.000000
+38               hm            480.000000
+17         KAWASAKI            400.000000
+31            SMART            400.000000
+29          RENAULT            346.875000
+33           TOYOTA            300.000000
+30             SEAT            200.000000
+7            DAEWOO            200.000000
+37           abarth            200.000000
+2           BENELLI            106.300000

@@ -1,0 +1,9 @@
+Claims by Age Group for SPECIAL TRAVEL
+
+  AGE_GROUP  NUMBER_OF_CLAIMS
+0     18-25                 5
+1     26-35                55
+2     36-45               683
+3     46-55              1157
+4     56-65              1138
+5       65+               721

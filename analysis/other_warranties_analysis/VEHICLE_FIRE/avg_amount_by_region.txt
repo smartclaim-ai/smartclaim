@@ -1,0 +1,18 @@
+Avg Claim Amount by Region for VEHICLE FIRE (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+4   FRIULI VENEZIA GIULIA           6900.000000
+14                 VENETO           6738.960000
+9                  PUGLIA           5376.000000
+0                 ABRUZZO           5370.000000
+10               SARDEGNA           5210.876250
+5                   LAZIO           5111.789375
+2                CAMPANIA           4955.400000
+8                PIEMONTE           4200.312500
+7               LOMBARDIA           4160.125000
+3          EMILIA ROMAGNA           4141.600000
+11                SICILIA           3578.120000
+1                CALABRIA           3462.703333
+6                 LIGURIA           1235.666667
+12                TOSCANA            950.000000
+13                 UMBRIA            440.000000

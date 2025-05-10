@@ -1,0 +1,42 @@
+Avg Claim Amount by Brand for GREEN LINE (Top 15 in plot)
+
+       VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+0         ALFA ROMEO            303.168889
+14            JAGUAR            252.600000
+22        MITSUBISHI            243.922500
+28             ROVER            235.890000
+33            SUZUKI            211.255000
+13           HYUNDAI            208.820645
+5              DACIA            208.758491
+24              OPEL            201.825745
+4            CITROEN            193.916364
+19             MAZDA            192.120000
+27           RENAULT            191.864545
+30             SKODA            190.121538
+16               KIA            189.256667
+1               AUDI            187.335000
+37        VOLKSWAGEN            187.241404
+7                 DR            185.251667
+3          CHEVROLET            185.191765
+26           PORSCHE            183.610000
+31         SSANGYONG            182.120000
+23            NISSAN            179.792500
+9               FIAT            179.071424
+20          MERCEDES            178.693000
+18            LANCIA            178.534615
+34            SUZUKY            176.390000
+38             VOLVO            176.290000
+29              SEAT            175.578571
+10              FORD            171.952840
+25           PEUGEOT            168.211111
+2                BMW            165.220000
+12             HONDA            164.350000
+6            DAIMLER            155.430000
+36            TOYOTA            150.208000
+15              JEEP            146.585000
+32            SUBARU            144.690000
+11  GREAT WALL MOTOR            142.475000
+35              TATA            137.010000
+17              LADA            135.180000
+8                EVO            131.490000
+21              MINI            124.940000

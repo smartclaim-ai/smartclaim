@@ -1,0 +1,9 @@
+Claims by Age Group for POLE POSITION ASSISTANCE
+
+  AGE_GROUP  NUMBER_OF_CLAIMS
+0     18-25                37
+1     26-35               276
+2     36-45               116
+3     46-55                 3
+4     56-65                 0
+5       65+                 2

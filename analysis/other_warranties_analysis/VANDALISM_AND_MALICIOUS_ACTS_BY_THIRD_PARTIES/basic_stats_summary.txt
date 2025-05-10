@@ -1,0 +1,11 @@
+Basic Stats for VANDALISM AND MALICIOUS ACTS BY THIRD PARTIES (1 claims)
+
+       CLAIM_AMOUNT_PAID  PREMIUM_AMOUNT_PAID
+count                1.0                  1.0
+mean              1395.0                132.5
+std                  NaN                  NaN
+min               1395.0                132.5
+25%               1395.0                132.5
+50%               1395.0                132.5
+75%               1395.0                132.5
+max               1395.0                132.5

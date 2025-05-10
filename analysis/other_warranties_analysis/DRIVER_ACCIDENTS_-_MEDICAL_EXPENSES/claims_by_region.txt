@@ -1,0 +1,16 @@
+Claims by Region for DRIVER ACCIDENTS - MEDICAL EXPENSES (Top 15 in plot)
+
+      CLAIM_REGION  NUMBER_OF_CLAIMS
+7           PUGLIA                 7
+2   EMILIA ROMAGNA                 4
+3            LAZIO                 4
+8         SARDEGNA                 4
+12          VENETO                 4
+6         PIEMONTE                 3
+9          SICILIA                 3
+10         TOSCANA                 3
+1         CAMPANIA                 2
+4          LIGURIA                 2
+0          ABRUZZO                 1
+5        LOMBARDIA                 1
+11          UMBRIA                 1

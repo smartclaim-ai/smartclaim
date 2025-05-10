@@ -1,0 +1,47 @@
+Avg Claim Amount by Brand for LEGAL PROTECTION (Top 15 in plot)
+
+      VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+35            SMART           7295.600000
+0            ABARTH           5361.825000
+40          Unknown           3468.546667
+14  HARLEY-DAVIDSON           2384.393333
+37           SUZUKI           2191.680000
+38              SYM           1497.000000
+20             JEEP           1483.862500
+2              AUDI           1460.403571
+10            Dacia           1268.800000
+29             OPEL           1261.100000
+42            VOLVO           1211.112000
+12             FORD           1157.139444
+6             DACIA           1155.098750
+41       VOLKSWAGEN           1147.923158
+11             FIAT           1144.427353
+30          PEUGEOT           1130.455000
+3               BMW           1075.899091
+24           LANCIA           1066.791429
+17            Honda           1013.485000
+15            HONDA            954.783333
+13           Gilera            948.430000
+39           TOYOTA            937.930909
+5           CITROEN            884.269091
+8      DAIHATSU Sir            837.200000
+28           NISSAN            784.434000
+32          RENAULT            746.950000
+23            LAIKA            730.080000
+34            SKODA            694.550000
+26         MERCEDES            663.084444
+16          HYUNDAI            529.863333
+27             MINI            459.940000
+31          PORSCHE            414.390000
+1        ALFA ROMEO            374.300000
+19           JAGUAR            374.300000
+36           SUBARU            374.300000
+7          DAIHATSU            336.230000
+25            MAZDA            317.200000
+22            Kymco            306.800000
+21              KIA            269.326667
+33             SEAT            253.760000
+43         mercedes            203.010000
+4         CHEVROLET            185.270000
+18            IVECO            169.830000
+9                DR            163.050000

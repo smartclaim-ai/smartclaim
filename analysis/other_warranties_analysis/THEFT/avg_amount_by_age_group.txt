@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for THEFT
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25           3673.906250
+1     26-35           2360.160610
+2     36-45           2785.030761
+3     46-55           2299.903971
+4     56-65           2433.671650
+5       65+           2082.485988

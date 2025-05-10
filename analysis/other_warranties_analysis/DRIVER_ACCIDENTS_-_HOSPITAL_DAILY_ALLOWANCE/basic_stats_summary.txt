@@ -1,0 +1,11 @@
+Basic Stats for DRIVER ACCIDENTS - HOSPITAL DAILY ALLOWANCE (6 claims)
+
+       CLAIM_AMOUNT_PAID  PREMIUM_AMOUNT_PAID
+count           6.000000                 6.00
+mean         2280.800000                 6.96
+std          3121.188017                 0.00
+min           175.000000                 6.96
+25%           357.500000                 6.96
+50%          1250.000000                 6.96
+75%          2225.000000                 6.96
+max          8399.800000                 6.96

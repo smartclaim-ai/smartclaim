@@ -1,0 +1,9 @@
+Claims by Age Group for GUARANTEE FAILURES
+
+  AGE_GROUP  NUMBER_OF_CLAIMS
+0     18-25                36
+1     26-35               221
+2     36-45               292
+3     46-55               468
+4     56-65               730
+5       65+               809

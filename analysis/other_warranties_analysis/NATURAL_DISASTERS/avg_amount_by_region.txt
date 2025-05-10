@@ -1,0 +1,24 @@
+Avg Claim Amount by Region for NATURAL DISASTERS (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+7                 LIGURIA           3415.950000
+11               PIEMONTE           3298.496240
+8               LOMBARDIA           3084.121059
+4          EMILIA ROMAGNA           2866.865199
+20                 VENETO           2769.861469
+15                TOSCANA           2729.828462
+16    TRENTINO ALTO ADIGE           2682.028361
+17                 UMBRIA           2653.402500
+18                Unknown           2625.500000
+5   FRIULI VENEZIA GIULIA           2594.460078
+12                 PUGLIA           2550.948451
+0                 ABRUZZO           2321.391081
+6                   LAZIO           2305.857368
+19          VALLE D'AOSTA           2304.941176
+9                  MARCHE           2175.235200
+13               SARDEGNA           2077.435000
+3                CAMPANIA           2060.940714
+10                 MOLISE           1909.041429
+2                CALABRIA           1863.170000
+14                SICILIA           1708.418667
+1              BASILICATA            998.456667

@@ -1,0 +1,19 @@
+Claims by Region for ACCIDENTS (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+5               LOMBARDIA                13
+15                 VENETO                13
+9                SARDEGNA                 9
+10                SICILIA                 8
+2          EMILIA ROMAGNA                 6
+13                 UMBRIA                 5
+4                   LAZIO                 4
+7                PIEMONTE                 4
+11                TOSCANA                 4
+8                  PUGLIA                 2
+0              BASILICATA                 1
+1                CALABRIA                 1
+3   FRIULI VENEZIA GIULIA                 1
+6                  MARCHE                 1
+12    TRENTINO ALTO ADIGE                 1
+14                Unknown                 1

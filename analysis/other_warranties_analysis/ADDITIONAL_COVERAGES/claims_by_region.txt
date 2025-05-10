@@ -1,0 +1,20 @@
+Claims by Region for ADDITIONAL COVERAGES (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+7               LOMBARDIA                93
+3          EMILIA ROMAGNA                91
+12                TOSCANA                70
+5                   LAZIO                62
+9                  PUGLIA                54
+8                PIEMONTE                49
+11                SICILIA                25
+2                CAMPANIA                22
+16                 VENETO                21
+13    TRENTINO ALTO ADIGE                 7
+1                CALABRIA                 3
+6                 LIGURIA                 3
+14                 UMBRIA                 3
+0                 ABRUZZO                 3
+10               SARDEGNA                 2
+4   FRIULI VENEZIA GIULIA                 2
+15                Unknown                 1

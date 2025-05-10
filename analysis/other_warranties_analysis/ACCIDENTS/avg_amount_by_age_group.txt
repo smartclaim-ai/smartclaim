@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for ACCIDENTS
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25           1905.333333
+1     26-35           2457.427778
+2     36-45            911.400000
+3     46-55           1339.166667
+4     56-65           1549.500769
+5       65+           2370.605385

@@ -1,0 +1,16 @@
+Avg Claim Amount by Region for WILD ANIMAL COLLISION (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+6               LOMBARDIA           3747.803333
+7                  MARCHE           3721.000000
+0                 ABRUZZO           3700.000000
+3   FRIULI VENEZIA GIULIA           3199.765714
+5                 LIGURIA           3033.333333
+2          EMILIA ROMAGNA           2831.571429
+9                 TOSCANA           2785.823000
+11                 UMBRIA           2692.000000
+4                   LAZIO           2576.575000
+8                PIEMONTE           2136.455714
+12                 VENETO           1976.504000
+10    TRENTINO ALTO ADIGE           1880.120000
+1              BASILICATA           1267.250000

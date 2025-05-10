@@ -1,0 +1,16 @@
+Avg Claim Amount by Region for SPECIAL DEFENSE (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+8                  PUGLIA           4819.000000
+4                   LAZIO           4450.000000
+10                TOSCANA           2286.591250
+12                 VENETO           2120.000000
+6               LOMBARDIA           2105.000000
+2          EMILIA ROMAGNA           1750.770000
+0                 ABRUZZO           1700.000000
+9                 SICILIA           1414.256667
+7                PIEMONTE           1209.705000
+3   FRIULI VENEZIA GIULIA           1026.435000
+5                 LIGURIA            782.000000
+11    TRENTINO ALTO ADIGE            624.080000
+1                CAMPANIA            450.000000

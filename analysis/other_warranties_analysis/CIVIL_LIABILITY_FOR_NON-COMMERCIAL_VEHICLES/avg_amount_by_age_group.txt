@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for CIVIL LIABILITY FOR NON-COMMERCIAL VEHICLES
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25           6400.000000
+1     26-35           4445.000000
+2     36-45           4990.500000
+3     46-55           4221.088571
+4     56-65           3807.139459
+5       65+           3167.691429

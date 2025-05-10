@@ -1,0 +1,9 @@
+Average Overall Claim Amount by Age Group
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25           1714.635485
+1     26-35           1703.994584
+2     36-45           1644.859022
+3     46-55           1608.293745
+4     56-65           1592.442998
+5       65+           1638.790084

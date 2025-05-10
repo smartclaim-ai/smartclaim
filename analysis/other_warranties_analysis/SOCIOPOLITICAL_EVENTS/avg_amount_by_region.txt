@@ -1,0 +1,24 @@
+Avg Claim Amount by Region for SOCIOPOLITICAL EVENTS (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+7                 LIGURIA           3167.987732
+11               PIEMONTE           2930.064619
+6                   LAZIO           2551.755932
+15                TOSCANA           2526.218369
+17                 UMBRIA           2431.617714
+13               SARDEGNA           2429.980536
+8               LOMBARDIA           2200.435041
+1              BASILICATA           2140.682600
+18                Unknown           2018.917333
+9                  MARCHE           1921.537561
+20                 VENETO           1836.826868
+16    TRENTINO ALTO ADIGE           1794.720417
+0                 ABRUZZO           1672.752615
+14                SICILIA           1662.966330
+4          EMILIA ROMAGNA           1660.099139
+12                 PUGLIA           1525.674015
+2                CALABRIA           1470.259492
+5   FRIULI VENEZIA GIULIA           1467.729211
+3                CAMPANIA           1125.267719
+19          VALLE D'AOSTA           1057.715714
+10                 MOLISE            807.285714

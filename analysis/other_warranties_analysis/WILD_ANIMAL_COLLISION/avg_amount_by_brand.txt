@@ -1,0 +1,31 @@
+Avg Claim Amount by Brand for WILD ANIMAL COLLISION (Top 15 in plot)
+
+   VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+16        NISSAN           5819.080000
+6             DS           4236.000000
+13    LAND ROVER           3700.000000
+17          OPEL           3291.080000
+10          JEEP           3225.367143
+24          V.W.           3214.000000
+0     ALFA ROMEO           3184.000000
+3        CITROEN           3119.852500
+25      VOLKSWAG           2758.280000
+1           AUDI           2732.002222
+11           KIA           2650.500000
+18       PEUGEOT           2615.857143
+22        SUZUKI           2610.644286
+2            BMW           2540.443333
+20          SEAT           2500.000000
+14      MERCEDES           2412.957500
+19       RENAULT           2382.670000
+23        TOYOTA           2300.000000
+9        HYUNDAI           2155.262500
+27         VOLVO           2123.113333
+12        LANCIA           2120.000000
+21         SKODA           2100.000000
+26    VOLKSWAGEN           2099.264231
+7           FIAT           2094.708571
+8           FORD           1939.271429
+15    MITSUBISHI           1694.640000
+4          DACIA           1637.253333
+5             DR           1000.530000

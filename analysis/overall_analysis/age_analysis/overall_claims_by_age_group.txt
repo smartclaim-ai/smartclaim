@@ -1,0 +1,9 @@
+Number of Overall Claims by Age Group
+
+  AGE_GROUP  NUMBER_OF_CLAIMS
+0     18-25              2483
+1     26-35             21198
+2     36-45             35778
+3     46-55             54224
+4     56-65             61698
+5       65+             62262

@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for SOCIOPOLITICAL EVENTS
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25           2858.710000
+1     26-35           2606.823404
+2     36-45           2739.207155
+3     46-55           2464.861150
+4     56-65           2226.925694
+5       65+           2192.196900

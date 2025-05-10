@@ -1,0 +1,44 @@
+Claims by Brand for ADDITIONAL COVERAGES (Top 15 in plot)
+
+   VEHICLE_BRAND  NUMBER_OF_CLAIMS
+11          FIAT               155
+12          FORD                33
+31       RENAULT                27
+6        CITROEN                24
+39    VOLKSWAGEN                23
+24      MERCEDES                22
+21        LANCIA                20
+3            BMW                20
+28          OPEL                20
+2           AUDI                17
+38        TOYOTA                14
+1     ALFA ROMEO                14
+14       HYUNDAI                13
+18          JEEP                13
+8          DACIA                11
+29       PEUGEOT                11
+27        NISSAN                10
+32          SEAT                 5
+25          MINI                 5
+22    LAND ROVER                 5
+26    MITSUBISHI                 5
+19           KIA                 5
+34         SMART                 5
+37        SUZUKI                 5
+33         SKODA                 4
+23        LIGIER                 4
+0          AIXAM                 3
+40         VOLVO                 2
+15         Honda                 2
+13         HONDA                 2
+5      CHEVROLET                 2
+17        JAGUAR                 1
+16         IVECO                 1
+30       PIAGGIO                 1
+10            DS                 1
+9       DAIHATSU                 1
+35     SSANGYONG                 1
+36        SUBARU                 1
+7          CUPRA                 1
+4       CARAVANS                 1
+20         KYMCO                 1

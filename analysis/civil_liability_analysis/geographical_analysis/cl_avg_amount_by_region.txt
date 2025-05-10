@@ -1,0 +1,24 @@
+Avg CL Claim Amount by Region
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+6                   LAZIO           2303.131521
+15                TOSCANA           2290.719178
+9                  MARCHE           2104.451700
+3                CAMPANIA           2104.166466
+20                 VENETO           2086.985272
+17                 UMBRIA           2069.636042
+16    TRENTINO ALTO ADIGE           2059.071726
+11               PIEMONTE           2050.091672
+2                CALABRIA           2046.615564
+13               SARDEGNA           2039.602336
+7                 LIGURIA           2036.740601
+4          EMILIA ROMAGNA           1976.404367
+12                 PUGLIA           1971.457601
+5   FRIULI VENEZIA GIULIA           1949.768207
+0                 ABRUZZO           1930.855702
+8               LOMBARDIA           1882.455407
+14                SICILIA           1828.294972
+1              BASILICATA           1814.613110
+18                Unknown           1782.928063
+19          VALLE D'AOSTA           1663.367139
+10                 MOLISE           1558.923085

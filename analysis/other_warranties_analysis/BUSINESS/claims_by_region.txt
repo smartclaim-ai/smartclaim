@@ -1,0 +1,14 @@
+Claims by Region for BUSINESS (Top 15 in plot)
+
+      CLAIM_REGION  NUMBER_OF_CLAIMS
+4          LIGURIA                 6
+2   EMILIA ROMAGNA                 5
+5        LOMBARDIA                 4
+0         CALABRIA                 3
+3            LAZIO                 3
+6         PIEMONTE                 3
+9          TOSCANA                 2
+1         CAMPANIA                 1
+7           PUGLIA                 1
+8          SICILIA                 1
+10          VENETO                 1

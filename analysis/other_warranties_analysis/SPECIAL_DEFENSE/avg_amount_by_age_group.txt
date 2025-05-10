@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for SPECIAL DEFENSE
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25                   NaN
+1     26-35           1399.800000
+2     36-45           2343.967143
+3     46-55           2024.693333
+4     56-65           1723.657143
+5       65+           1649.236667

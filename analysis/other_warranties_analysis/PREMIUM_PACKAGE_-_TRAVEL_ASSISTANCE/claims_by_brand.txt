@@ -1,0 +1,19 @@
+Claims by Brand for PREMIUM PACKAGE - TRAVEL ASSISTANCE (Top 15 in plot)
+
+   VEHICLE_BRAND  NUMBER_OF_CLAIMS
+4           FIAT                 9
+3        CITROEN                 5
+14    VOLKSWAGEN                 4
+11       PEUGEOT                 2
+12       RENAULT                 2
+0           AUDI                 1
+1            BMW                 1
+2      CHEVROLET                 1
+5           FORD                 1
+6        HYUNDAI                 1
+7         JAGUAR                 1
+8         LANCIA                 1
+9       MERCEDES                 1
+10          OPEL                 1
+13         SKODA                 1
+15         VOLVO                 1

@@ -1,0 +1,16 @@
+Claims by Region for SPECIAL DEFENSE (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+10                TOSCANA                 8
+7                PIEMONTE                 4
+2          EMILIA ROMAGNA                 3
+6               LOMBARDIA                 3
+9                 SICILIA                 3
+1                CAMPANIA                 2
+3   FRIULI VENEZIA GIULIA                 2
+0                 ABRUZZO                 1
+4                   LAZIO                 1
+5                 LIGURIA                 1
+8                  PUGLIA                 1
+11    TRENTINO ALTO ADIGE                 1
+12                 VENETO                 1

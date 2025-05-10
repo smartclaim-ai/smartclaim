@@ -1,0 +1,9 @@
+Claims by Age Group for ADDITIONAL COVERAGES
+
+  AGE_GROUP  NUMBER_OF_CLAIMS
+0     18-25                 6
+1     26-35                46
+2     36-45                76
+3     46-55               103
+4     56-65               142
+5       65+               138

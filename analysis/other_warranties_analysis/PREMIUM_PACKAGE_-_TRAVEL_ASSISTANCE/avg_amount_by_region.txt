@@ -1,0 +1,14 @@
+Avg Claim Amount by Region for PREMIUM PACKAGE - TRAVEL ASSISTANCE (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+5                PIEMONTE            204.350000
+7                SARDEGNA            186.660000
+8                 SICILIA            184.410000
+6                  PUGLIA            180.897500
+4               LOMBARDIA            172.304545
+3                   LAZIO            168.920000
+1          EMILIA ROMAGNA            168.617500
+0                CAMPANIA            165.732500
+9                 TOSCANA            158.050000
+10                 VENETO            154.260000
+2   FRIULI VENEZIA GIULIA            128.530000

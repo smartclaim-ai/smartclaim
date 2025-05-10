@@ -1,0 +1,16 @@
+Avg Claim Amount by Region for DRIVER ACCIDENTS - MEDICAL EXPENSES (Top 15 in plot)
+
+      CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+8         SARDEGNA           3133.450000
+9          SICILIA           2836.666667
+12          VENETO           2400.250000
+7           PUGLIA           2213.545714
+4          LIGURIA           2207.865000
+2   EMILIA ROMAGNA           1778.000000
+3            LAZIO           1460.795000
+5        LOMBARDIA            886.350000
+11          UMBRIA            652.000000
+0          ABRUZZO            630.000000
+1         CAMPANIA            525.000000
+6         PIEMONTE            524.333333
+10         TOSCANA            294.666667

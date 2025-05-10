@@ -1,0 +1,23 @@
+Avg Claim Amount by Region for THEFT (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+1              BASILICATA           5888.888889
+12                 PUGLIA           3939.199491
+10                 MOLISE           3372.727273
+3                CAMPANIA           3023.231767
+6                   LAZIO           2875.237173
+2                CALABRIA           2853.531724
+16    TRENTINO ALTO ADIGE           2390.937500
+0                 ABRUZZO           2338.861538
+11               PIEMONTE           2271.214706
+13               SARDEGNA           2151.410000
+9                  MARCHE           2096.714286
+8               LOMBARDIA           1971.157178
+14                SICILIA           1806.483459
+15                TOSCANA           1664.061692
+19                 VENETO           1263.058624
+4          EMILIA ROMAGNA           1224.128696
+7                 LIGURIA           1187.280811
+17                 UMBRIA           1019.884667
+18          VALLE D'AOSTA            949.010000
+5   FRIULI VENEZIA GIULIA            778.814000

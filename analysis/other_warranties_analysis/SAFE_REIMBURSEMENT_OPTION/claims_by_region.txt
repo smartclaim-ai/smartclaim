@@ -1,0 +1,22 @@
+Claims by Region for SAFE REIMBURSEMENT OPTION (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+7               LOMBARDIA               265
+10               PIEMONTE               202
+3          EMILIA ROMAGNA               126
+14                TOSCANA               100
+18                 VENETO                92
+5                   LAZIO                60
+6                 LIGURIA                35
+16                 UMBRIA                32
+4   FRIULI VENEZIA GIULIA                24
+11                 PUGLIA                24
+13                SICILIA                20
+8                  MARCHE                17
+12               SARDEGNA                12
+0                 ABRUZZO                10
+15    TRENTINO ALTO ADIGE                 9
+9                  MOLISE                 8
+2                CAMPANIA                 7
+17          VALLE D'AOSTA                 7
+1                CALABRIA                 5

@@ -1,0 +1,14 @@
+Claims by Brand for BUSINESS (Top 15 in plot)
+
+   VEHICLE_BRAND  NUMBER_OF_CLAIMS
+3           FIAT                 6
+4           FORD                 6
+1        CITROEN                 4
+7       MERCEDES                 4
+0           AUDI                 2
+6          IVECO                 2
+8         NISSAN                 2
+2          DACIA                 1
+5        HYUNDAI                 1
+9        PEUGEOT                 1
+10          fiat                 1

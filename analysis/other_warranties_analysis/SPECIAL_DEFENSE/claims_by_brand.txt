@@ -1,0 +1,17 @@
+Claims by Brand for SPECIAL DEFENSE (Top 15 in plot)
+
+   VEHICLE_BRAND  NUMBER_OF_CLAIMS
+3           FIAT                 5
+1            BMW                 4
+12        TOYOTA                 4
+2          DACIA                 3
+9           OPEL                 3
+11       RENAULT                 3
+7       MERCEDES                 2
+0           AUDI                 1
+4           FORD                 1
+5        HYUNDAI                 1
+6          MAZDA                 1
+8         NISSAN                 1
+10       PEUGEOT                 1
+13    VOLKSWAGEN                 1

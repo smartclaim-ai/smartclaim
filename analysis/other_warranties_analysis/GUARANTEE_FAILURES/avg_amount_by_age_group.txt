@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for GUARANTEE FAILURES
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25           3128.763333
+1     26-35           2649.116742
+2     36-45           2312.124692
+3     46-55           2181.766560
+4     56-65           2043.116027
+5       65+           1942.639209

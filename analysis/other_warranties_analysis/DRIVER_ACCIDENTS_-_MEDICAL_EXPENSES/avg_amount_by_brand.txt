@@ -1,0 +1,28 @@
+Avg Claim Amount by Brand for DRIVER ACCIDENTS - MEDICAL EXPENSES (Top 15 in plot)
+
+   VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+24        Yamaha           5716.000000
+7             HM           5500.000000
+9      HUSQVARNA           4555.000000
+23        YAMAHA           4125.000000
+15        NISSAN           4069.800000
+21        TOYOTA           2828.175000
+5           FORD           2650.000000
+8          HONDA           2207.865000
+4           FIAT           1709.142857
+1        APRILIA           1297.060000
+16       PIAGGIO            935.000000
+19          SEAT            850.000000
+6         Gilera            749.000000
+17       Piaggio            664.910000
+0          AIXAM            650.000000
+22          VOGE            630.000000
+11        Keeway            602.000000
+18       RENAULT            600.000000
+20       SUR-RON            600.000000
+13        LANCIA            528.000000
+14    LAND ROVER            500.000000
+12         Kymco            254.000000
+2            BMW            205.000000
+10           KTM            130.000000
+3          DACIA            130.000000

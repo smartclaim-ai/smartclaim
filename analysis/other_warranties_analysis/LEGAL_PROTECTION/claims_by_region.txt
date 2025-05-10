@@ -1,0 +1,16 @@
+Claims by Region for LEGAL PROTECTION (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+7                PIEMONTE                78
+5               LOMBARDIA                60
+1          EMILIA ROMAGNA                28
+12                 VENETO                24
+2   FRIULI VENEZIA GIULIA                 7
+4                 LIGURIA                 4
+10                TOSCANA                 3
+11    TRENTINO ALTO ADIGE                 3
+0                 ABRUZZO                 2
+6                  MARCHE                 2
+3                   LAZIO                 1
+8                  PUGLIA                 1
+9                 SICILIA                 1

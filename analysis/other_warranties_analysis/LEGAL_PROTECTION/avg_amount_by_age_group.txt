@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for LEGAL PROTECTION
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25            120.540000
+1     26-35           1361.938125
+2     36-45           1046.211471
+3     46-55           1010.964884
+4     56-65           1173.612778
+5       65+           1181.927576

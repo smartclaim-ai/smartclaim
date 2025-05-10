@@ -1,0 +1,12 @@
+             CLAIM_ID  POLICYHOLDER_AGE POLICYHOLDER_GENDER                   WARRANTY                     CLAIM_DATE CLAIM_REGION CLAIM_PROVINCE VEHICLE_BRAND VEHICLE_MODEL  CLAIM_AMOUNT_PAID  PREMIUM_AMOUNT_PAID
+count   237647.000000     237647.000000              237647                     237647                         237647       237647         237647        237647        237647      237647.000000        237647.000000
+unique            NaN               NaN                   2                         27                            NaN           21            110          1214         10325                NaN                  NaN
+top               NaN               NaN                   M  CIVIL LIABILITY INSURANCE                            NaN    LOMBARDIA             TO          FIAT          500L                NaN                  NaN
+freq              NaN               NaN              145608                     143095                            NaN        39488          25272         47885          2864                NaN                  NaN
+mean    118824.836590         55.065206                 NaN                        NaN  2023-06-03 04:37:28.706695168          NaN            NaN           NaN           NaN        1627.311662           261.605921
+min          1.000000      -2970.000000                 NaN                        NaN            2018-02-07 00:00:00          NaN            NaN           NaN           NaN         100.000000             3.090000
+25%      59413.500000         44.000000                 NaN                        NaN            2022-09-13 00:00:00          NaN            NaN           NaN           NaN         500.000000            47.040000
+50%     118825.000000         55.000000                 NaN                        NaN            2023-06-18 00:00:00          NaN            NaN           NaN           NaN        1350.000000           393.200000
+75%     178236.500000         65.000000                 NaN                        NaN            2024-02-19 00:00:00          NaN            NaN           NaN           NaN        2175.000000           393.200000
+max     237648.000000        125.000000                 NaN                        NaN            2024-12-26 00:00:00          NaN            NaN           NaN           NaN       10000.000000           454.480000
+std      68603.160834         16.225523                 NaN                        NaN                            NaN          NaN            NaN           NaN           NaN        1489.485657           167.743950

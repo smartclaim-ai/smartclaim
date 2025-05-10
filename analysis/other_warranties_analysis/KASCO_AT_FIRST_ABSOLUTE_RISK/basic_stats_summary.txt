@@ -1,0 +1,11 @@
+Basic Stats for KASCO AT FIRST ABSOLUTE RISK (1 claims)
+
+       CLAIM_AMOUNT_PAID  PREMIUM_AMOUNT_PAID
+count                1.0                  1.0
+mean              1000.0                262.5
+std                  NaN                  NaN
+min               1000.0                262.5
+25%               1000.0                262.5
+50%               1000.0                262.5
+75%               1000.0                262.5
+max               1000.0                262.5

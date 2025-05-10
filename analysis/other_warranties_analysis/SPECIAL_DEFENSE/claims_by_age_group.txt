@@ -1,0 +1,9 @@
+Claims by Age Group for SPECIAL DEFENSE
+
+  AGE_GROUP  NUMBER_OF_CLAIMS
+0     18-25                 0
+1     26-35                 5
+2     36-45                 7
+3     46-55                 3
+4     56-65                 7
+5       65+                 9

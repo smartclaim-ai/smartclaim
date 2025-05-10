@@ -1,0 +1,44 @@
+Avg Claim Amount by Brand for ADDITIONAL COVERAGES (Top 15 in plot)
+
+   VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+21        LANCIA            379.985000
+33         SKODA            375.600000
+15         Honda            370.000000
+32          SEAT            349.474000
+1     ALFA ROMEO            341.719286
+30       PIAGGIO            340.000000
+16         IVECO            340.000000
+39    VOLKSWAGEN            333.043478
+23        LIGIER            326.250000
+29       PEUGEOT            318.410000
+26    MITSUBISHI            317.750000
+11          FIAT            315.136581
+4       CARAVANS            311.100000
+17        JAGUAR            311.000000
+0          AIXAM            309.666667
+37        SUZUKI            304.370000
+10            DS            300.000000
+3            BMW            286.071500
+18          JEEP            283.144615
+24      MERCEDES            278.223636
+34         SMART            278.000000
+14       HYUNDAI            276.529231
+13         HONDA            275.245000
+8          DACIA            274.932727
+12          FORD            262.423636
+6        CITROEN            259.890000
+2           AUDI            258.554118
+19           KIA            256.596000
+27        NISSAN            254.758000
+31       RENAULT            254.015926
+28          OPEL            242.733500
+22    LAND ROVER            239.000000
+38        TOYOTA            236.440000
+40         VOLVO            235.000000
+25          MINI            217.816000
+35     SSANGYONG            210.000000
+5      CHEVROLET            176.530000
+7          CUPRA            165.000000
+36        SUBARU            150.000000
+9       DAIHATSU            133.640000
+20         KYMCO            100.000000

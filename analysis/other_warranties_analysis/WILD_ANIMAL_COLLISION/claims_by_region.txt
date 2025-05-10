@@ -1,0 +1,16 @@
+Claims by Region for WILD ANIMAL COLLISION (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+8                PIEMONTE                70
+9                 TOSCANA                30
+4                   LAZIO                 8
+2          EMILIA ROMAGNA                 7
+3   FRIULI VENEZIA GIULIA                 7
+12                 VENETO                 5
+5                 LIGURIA                 3
+6               LOMBARDIA                 3
+11                 UMBRIA                 3
+10    TRENTINO ALTO ADIGE                 2
+0                 ABRUZZO                 1
+1              BASILICATA                 1
+7                  MARCHE                 1

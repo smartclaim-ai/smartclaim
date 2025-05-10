@@ -1,0 +1,9 @@
+Claims by Age Group for GREEN LINE
+
+  AGE_GROUP  NUMBER_OF_CLAIMS
+0     18-25                 6
+1     26-35                83
+2     36-45               165
+3     46-55               193
+4     56-65               283
+5       65+               287

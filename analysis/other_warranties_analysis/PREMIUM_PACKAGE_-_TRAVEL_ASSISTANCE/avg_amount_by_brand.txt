@@ -1,0 +1,19 @@
+Avg Claim Amount by Brand for PREMIUM PACKAGE - TRAVEL ASSISTANCE (Top 15 in plot)
+
+   VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+11       PEUGEOT            270.030000
+9       MERCEDES            249.800000
+12       RENAULT            227.985000
+7         JAGUAR            204.350000
+5           FORD            190.520000
+3        CITROEN            188.354000
+10          OPEL            168.920000
+15         VOLVO            153.720000
+14    VOLKSWAGEN            152.875000
+4           FIAT            152.214444
+6        HYUNDAI            152.040000
+1            BMW            135.340000
+0           AUDI            128.910000
+8         LANCIA            124.240000
+2      CHEVROLET            109.910000
+13         SKODA            104.140000

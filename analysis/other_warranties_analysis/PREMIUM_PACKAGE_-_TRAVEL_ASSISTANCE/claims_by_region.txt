@@ -1,0 +1,14 @@
+Claims by Region for PREMIUM PACKAGE - TRAVEL ASSISTANCE (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+4               LOMBARDIA                11
+0                CAMPANIA                 4
+1          EMILIA ROMAGNA                 4
+6                  PUGLIA                 4
+2   FRIULI VENEZIA GIULIA                 2
+7                SARDEGNA                 2
+8                 SICILIA                 2
+3                   LAZIO                 1
+5                PIEMONTE                 1
+9                 TOSCANA                 1
+10                 VENETO                 1

@@ -1,0 +1,89 @@
+Claims by Brand for NATURAL DISASTERS (Top 15 in plot)
+
+         VEHICLE_BRAND  NUMBER_OF_CLAIMS
+22                FIAT              2265
+76          VOLKSWAGEN              1128
+23                FORD               729
+3                 AUDI               702
+4                  BMW               602
+73              TOYOTA               588
+48            MERCEDES               575
+60             RENAULT               569
+41              LANCIA               555
+58             PEUGEOT               507
+2           ALFA ROMEO               495
+57                OPEL               446
+34                JEEP               385
+13             CITROEN               380
+35                 KIA               307
+56              NISSAN               307
+29             HYUNDAI               301
+15               DACIA               277
+54                MINI               254
+69              SUZUKI               242
+77               VOLVO               126
+65               SKODA               123
+46               MAZDA               116
+42          LAND ROVER               115
+64                SEAT               110
+27               HONDA                71
+0               ABARTH                67
+55          MITSUBISHI                62
+66               SMART                52
+59             PORSCHE                44
+10           CHEVROLET                44
+68              SUBARU                40
+33              JAGUAR                36
+18                  DR                30
+43               LEXUS                29
+19                  DS                27
+67           SSANGYONG                22
+53                  MG                16
+17               DODGE                13
+72               TESLA                10
+30            INFINITI                 8
+16            DAIHATSU                 7
+45            MASERATI                 6
+12            CHRYSLER                 5
+14               CUPRA                 5
+21                 EVO                 5
+32               IVECO                 5
+44            MAHINDRA                 5
+85          volkswagen                 4
+75             Unknown                 4
+81                ford                 4
+38               LAIKA                 3
+6             BURSTNER                 3
+62                SAAB                 3
+1                ADRIA                 3
+50       MERCEDES BENZ                 3
+80                 bmw                 2
+20              DUCATO                 2
+31               ISUZU                 2
+36               KNAUS                 2
+83            mercedes                 2
+79            VW CADDY                 1
+71             TABBERT                 1
+78                  VW                 1
+82               hymer                 1
+5            BURSTENER                 1
+74             TRIGANO                 1
+84             renault                 1
+7             CARTHAGO                 1
+37         KNAUSTABBER                 1
+47            MC LOUIS                 1
+70              SUZUKY                 1
+8            CHANTENET                 1
+9             CHAUSSON                 1
+26               HOBBY                 1
+39      LAIKA CARAVANS                 1
+40  LAIKA CARAVANS SPA                 1
+63             SEA SPA                 1
+61               RIMOR                 1
+24        FORD TRIGANO                 1
+25    GREAT WALL MOTOR                 1
+28               HYMER                 1
+52       MERCEDES-BENZ                 1
+51        MERCEDES C 2                 1
+49     MERCEDES - BENZ                 1
+11            CHRISLER                 1

@@ -1,0 +1,24 @@
+Claims by Region for SOCIOPOLITICAL EVENTS (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+11               PIEMONTE              2180
+8               LOMBARDIA              1339
+6                   LAZIO               381
+4          EMILIA ROMAGNA               360
+20                 VENETO               348
+15                TOSCANA               331
+7                 LIGURIA               291
+12                 PUGLIA               137
+13               SARDEGNA               112
+14                SICILIA               109
+17                 UMBRIA                70
+0                 ABRUZZO                65
+2                CALABRIA                59
+3                CAMPANIA                57
+1              BASILICATA                50
+9                  MARCHE                41
+5   FRIULI VENEZIA GIULIA                38
+16    TRENTINO ALTO ADIGE                24
+18                Unknown                15
+19          VALLE D'AOSTA                14
+10                 MOLISE                 7

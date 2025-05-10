@@ -1,0 +1,9 @@
+Claims by Age Group for THEFT
+
+  AGE_GROUP  NUMBER_OF_CLAIMS
+0     18-25                24
+1     26-35               344
+2     36-45               486
+3     46-55               695
+4     56-65               691
+5       65+               521

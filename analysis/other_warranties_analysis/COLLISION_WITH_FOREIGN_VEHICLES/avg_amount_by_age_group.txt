@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for COLLISION WITH FOREIGN VEHICLES
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25           1310.330000
+1     26-35           1083.571429
+2     36-45           1564.308462
+3     46-55           1830.242000
+4     56-65           1950.900000
+5       65+           1686.218462

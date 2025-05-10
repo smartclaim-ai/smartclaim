@@ -1,0 +1,22 @@
+Claims by Region for POLE POSITION ASSISTANCE (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+8               LOMBARDIA                56
+2                CALABRIA                52
+4          EMILIA ROMAGNA                44
+11                 PUGLIA                42
+6                   LAZIO                38
+3                CAMPANIA                33
+10               PIEMONTE                31
+14                TOSCANA                30
+18                 VENETO                29
+13                SICILIA                18
+12               SARDEGNA                15
+17                Unknown                10
+7                 LIGURIA                 9
+16                 UMBRIA                 7
+9                  MARCHE                 6
+15    TRENTINO ALTO ADIGE                 5
+0                 ABRUZZO                 4
+5   FRIULI VENEZIA GIULIA                 3
+1              BASILICATA                 2

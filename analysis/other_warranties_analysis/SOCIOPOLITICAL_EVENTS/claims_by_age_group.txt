@@ -1,0 +1,9 @@
+Claims by Age Group for SOCIOPOLITICAL EVENTS
+
+  AGE_GROUP  NUMBER_OF_CLAIMS
+0     18-25                54
+1     26-35               805
+2     36-45              1332
+3     46-55              1356
+4     56-65              1326
+5       65+              1155

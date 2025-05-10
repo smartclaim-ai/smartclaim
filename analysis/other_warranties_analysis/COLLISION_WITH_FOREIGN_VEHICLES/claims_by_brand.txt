@@ -1,0 +1,28 @@
+Claims by Brand for COLLISION WITH FOREIGN VEHICLES (Top 15 in plot)
+
+   VEHICLE_BRAND  NUMBER_OF_CLAIMS
+6           FIAT                15
+23    VOLKSWAGEN                10
+3        CITROEN                 6
+1           AUDI                 6
+17       RENAULT                 4
+7           FORD                 4
+15       PEUGEOT                 3
+8          HONDA                 3
+20        SUZUKI                 3
+11           KIA                 2
+14          OPEL                 2
+12        LANCIA                 2
+2            BMW                 2
+9        HYUNDAI                 2
+21        TOYOTA                 1
+18         ROVER                 1
+22       Unknown                 1
+19         SKODA                 1
+0     ALFA ROMEO                 1
+16       PORSCHE                 1
+13      MERCEDES                 1
+10          JEEP                 1
+5             DR                 1
+4          DACIA                 1
+24         VOLVO                 1

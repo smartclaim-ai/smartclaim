@@ -1,0 +1,22 @@
+Avg Claim Amount by Region for POLE POSITION ASSISTANCE (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+17                Unknown            277.631000
+12               SARDEGNA            223.756667
+2                CALABRIA            220.981538
+18                 VENETO            211.221034
+14                TOSCANA            201.553333
+10               PIEMONTE            200.517742
+7                 LIGURIA            200.277778
+15    TRENTINO ALTO ADIGE            191.792000
+11                 PUGLIA            189.567857
+4          EMILIA ROMAGNA            187.610455
+1              BASILICATA            186.295000
+13                SICILIA            184.376667
+8               LOMBARDIA            183.549821
+6                   LAZIO            182.496842
+3                CAMPANIA            168.378182
+9                  MARCHE            162.598333
+5   FRIULI VENEZIA GIULIA            162.520000
+0                 ABRUZZO            153.052500
+16                 UMBRIA            149.275714

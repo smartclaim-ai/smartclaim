@@ -1,0 +1,9 @@
+Claims by Age Group for SAFE REIMBURSEMENT OPTION
+
+  AGE_GROUP  NUMBER_OF_CLAIMS
+0     18-25                 0
+1     26-35                40
+2     36-45               103
+3     46-55               207
+4     56-65               320
+5       65+               385

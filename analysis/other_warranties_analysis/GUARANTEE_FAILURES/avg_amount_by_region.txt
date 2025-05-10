@@ -1,0 +1,23 @@
+Avg Claim Amount by Region for GUARANTEE FAILURES (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+18          VALLE D'AOSTA           3723.792857
+17                Unknown           2847.021429
+9                  MARCHE           2667.870645
+7                 LIGURIA           2594.543000
+19                 VENETO           2550.128843
+15    TRENTINO ALTO ADIGE           2351.497297
+14                TOSCANA           2345.931026
+1              BASILICATA           2333.220000
+10               PIEMONTE           2307.040755
+16                 UMBRIA           2286.963478
+12               SARDEGNA           2151.405789
+6                   LAZIO           2047.167887
+5   FRIULI VENEZIA GIULIA           2007.568333
+4          EMILIA ROMAGNA           1952.365882
+2                CALABRIA           1870.718750
+8               LOMBARDIA           1843.980174
+11                 PUGLIA           1748.936154
+0                 ABRUZZO           1465.099091
+13                SICILIA           1214.991053
+3                CAMPANIA            991.266923

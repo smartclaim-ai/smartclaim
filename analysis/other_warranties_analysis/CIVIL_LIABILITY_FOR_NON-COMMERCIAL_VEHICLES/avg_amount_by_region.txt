@@ -1,0 +1,17 @@
+Avg Claim Amount by Region for CIVIL LIABILITY FOR NON-COMMERCIAL VEHICLES (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+6                  MARCHE           7726.666667
+0                CAMPANIA           6544.413000
+4                 LIGURIA           3244.651667
+3                   LAZIO           3212.850000
+10                TOSCANA           2770.050000
+12                Unknown           2738.400000
+9                 SICILIA           2569.199000
+8                SARDEGNA           2393.133333
+5               LOMBARDIA           2079.000000
+11                 UMBRIA           1760.000000
+13                 VENETO           1685.800000
+2   FRIULI VENEZIA GIULIA           1633.800000
+7                  PUGLIA           1575.000000
+1          EMILIA ROMAGNA           1048.333333

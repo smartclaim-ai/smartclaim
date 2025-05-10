@@ -1,0 +1,23 @@
+Claims by Region for GUARANTEE FAILURES (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+10               PIEMONTE               715
+8               LOMBARDIA               691
+4          EMILIA ROMAGNA               306
+19                 VENETO               216
+14                TOSCANA               117
+5   FRIULI VENEZIA GIULIA               102
+7                 LIGURIA                90
+6                   LAZIO                71
+16                 UMBRIA                69
+15    TRENTINO ALTO ADIGE                37
+9                  MARCHE                31
+0                 ABRUZZO                22
+12               SARDEGNA                19
+13                SICILIA                19
+3                CAMPANIA                13
+11                 PUGLIA                13
+2                CALABRIA                 8
+17                Unknown                 7
+18          VALLE D'AOSTA                 7
+1              BASILICATA                 3

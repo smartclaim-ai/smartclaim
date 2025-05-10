@@ -1,0 +1,45 @@
+Avg Claim Amount by Brand for VEHICLE FIRE (Top 15 in plot)
+
+      VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+37       VOLKSWAGEN           9740.000000
+24            MERLO           9694.800000
+41       volkswagen           9400.000000
+21          LANDINI           7377.000000
+35           TOYOTA           7100.000000
+40         mercedes           7000.000000
+5           CITROEN           6966.666667
+25             MINI           6936.666667
+1        ALFA ROMEO           6800.000000
+13          HYUNDAI           6800.000000
+3               BMW           6250.000000
+33            SMART           6047.907500
+31          RENAULT           6025.000000
+0             AIXAM           5920.000000
+7             DREAM           5660.000000
+14  Harley-Davidson           5592.000000
+36          TRIUMPH           5400.000000
+4          CHRYSLER           5370.000000
+26           NISSAN           5142.370000
+32            SKODA           5060.000000
+15            IVECO           4927.500000
+2              AUDI           4897.368000
+23         MERCEDES           4625.000000
+20       LAND ROVER           4552.333333
+10             FORD           4526.666667
+9              FIAT           4294.200667
+6             DACIA           3467.000000
+11  HARLEY-DAVIDSON           3000.000000
+27             OPEL           2262.500000
+12            HONDA           2175.000000
+19           LANCIA           2154.000000
+39            aixam           2088.000000
+16             JEEP           2076.000000
+28          PEUGEOT           2050.000000
+17              KIA           1925.000000
+38           YAMAHA           1600.000000
+29          PIAGGIO           1250.000000
+30          PORSCHE           1107.000000
+18   LAIKA CARAVANS            950.000000
+8            DUCATI            911.000000
+22           LIGIER            722.000000
+34           SUZUKI            366.000000

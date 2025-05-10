@@ -1,0 +1,24 @@
+Claims by Region for NATURAL DISASTERS (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+11               PIEMONTE              4966
+8               LOMBARDIA              3502
+20                 VENETO              2607
+4          EMILIA ROMAGNA               804
+5   FRIULI VENEZIA GIULIA               386
+15                TOSCANA               117
+9                  MARCHE                75
+12                 PUGLIA                71
+16    TRENTINO ALTO ADIGE                61
+7                 LIGURIA                60
+6                   LAZIO                57
+0                 ABRUZZO                37
+3                CAMPANIA                28
+17                 UMBRIA                28
+2                CALABRIA                17
+19          VALLE D'AOSTA                17
+14                SICILIA                15
+13               SARDEGNA                12
+10                 MOLISE                 7
+1              BASILICATA                 6
+18                Unknown                 2

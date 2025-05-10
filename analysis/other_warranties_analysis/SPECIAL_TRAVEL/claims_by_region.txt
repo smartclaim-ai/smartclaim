@@ -1,0 +1,24 @@
+Claims by Region for SPECIAL TRAVEL (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+3                CAMPANIA               616
+6                   LAZIO               555
+12                 PUGLIA               437
+2                CALABRIA               299
+4          EMILIA ROMAGNA               267
+11               PIEMONTE               257
+8               LOMBARDIA               246
+13               SARDEGNA               237
+14                SICILIA               234
+15                TOSCANA               184
+7                 LIGURIA               100
+1              BASILICATA                87
+20                 VENETO                76
+17                 UMBRIA                48
+9                  MARCHE                40
+0                 ABRUZZO                24
+5   FRIULI VENEZIA GIULIA                23
+16    TRENTINO ALTO ADIGE                10
+18                Unknown                10
+10                 MOLISE                 5
+19          VALLE D'AOSTA                 4

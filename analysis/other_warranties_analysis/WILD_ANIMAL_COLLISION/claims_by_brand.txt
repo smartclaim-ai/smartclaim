@@ -1,0 +1,31 @@
+Claims by Brand for WILD ANIMAL COLLISION (Top 15 in plot)
+
+   VEHICLE_BRAND  NUMBER_OF_CLAIMS
+26    VOLKSWAGEN                26
+1           AUDI                18
+14      MERCEDES                12
+19       RENAULT                 8
+22        SUZUKI                 7
+7           FIAT                 7
+8           FORD                 7
+10          JEEP                 7
+18       PEUGEOT                 7
+2            BMW                 6
+3        CITROEN                 4
+9        HYUNDAI                 4
+15    MITSUBISHI                 3
+23        TOYOTA                 3
+17          OPEL                 3
+27         VOLVO                 3
+4          DACIA                 3
+12        LANCIA                 2
+11           KIA                 2
+16        NISSAN                 1
+13    LAND ROVER                 1
+20          SEAT                 1
+21         SKODA                 1
+6             DS                 1
+5             DR                 1
+24          V.W.                 1
+25      VOLKSWAG                 1
+0     ALFA ROMEO                 1

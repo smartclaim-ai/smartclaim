@@ -1,0 +1,13 @@
+Avg Claim Amount by Region for COLLISION WITH FOREIGN VEHICLES (Top 15 in plot)
+
+            CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+1         EMILIA ROMAGNA           1976.995000
+9                 VENETO           1970.230000
+0               CAMPANIA           1789.983077
+2  FRIULI VENEZIA GIULIA           1743.691176
+7                TOSCANA           1658.705000
+5               PIEMONTE           1596.412222
+4              LOMBARDIA           1512.172857
+6               SARDEGNA           1303.150000
+3                LIGURIA           1159.204286
+8          VALLE D'AOSTA            400.000000

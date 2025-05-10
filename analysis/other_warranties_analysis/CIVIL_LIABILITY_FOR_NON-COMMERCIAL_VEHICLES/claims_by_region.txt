@@ -1,0 +1,17 @@
+Claims by Region for CIVIL LIABILITY FOR NON-COMMERCIAL VEHICLES (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+0                CAMPANIA                40
+10                TOSCANA                20
+4                 LIGURIA                18
+8                SARDEGNA                12
+3                   LAZIO                10
+9                 SICILIA                10
+7                  PUGLIA                 6
+2   FRIULI VENEZIA GIULIA                 5
+13                 VENETO                 5
+5               LOMBARDIA                 4
+1          EMILIA ROMAGNA                 3
+6                  MARCHE                 3
+11                 UMBRIA                 1
+12                Unknown                 1

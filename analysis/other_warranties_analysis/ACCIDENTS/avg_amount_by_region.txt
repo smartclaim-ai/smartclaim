@@ -1,0 +1,19 @@
+Avg Claim Amount by Region for ACCIDENTS (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+4                   LAZIO           3087.787500
+9                SARDEGNA           2501.917778
+14                Unknown           2130.000000
+2          EMILIA ROMAGNA           2072.910000
+8                  PUGLIA           2057.010000
+11                TOSCANA           1979.000000
+5               LOMBARDIA           1939.976923
+7                PIEMONTE           1774.375000
+10                SICILIA           1246.526250
+13                 UMBRIA           1232.288000
+12    TRENTINO ALTO ADIGE           1050.000000
+15                 VENETO           1030.153846
+1                CALABRIA           1000.000000
+3   FRIULI VENEZIA GIULIA            791.000000
+6                  MARCHE            750.000000
+0              BASILICATA            700.000000

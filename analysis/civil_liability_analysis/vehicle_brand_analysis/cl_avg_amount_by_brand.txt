@@ -1,0 +1,1039 @@
+Avg Civil Liability Claim Amount by Vehicle Brand (Top 15 shown in plot)
+
+                   VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+773                          TDM          10000.000000
+253                         FAST           9560.000000
+659                       RAPIDO           9460.640000
+711              SAME DEUTZ FAHR           8422.000000
+242                    ETRIKOSKG           8365.000000
+941                           hm           7999.990000
+122                       Borile           7782.000000
+11                            AC           7500.000000
+997                      polaris           7442.000000
+733                          SKI           7217.120000
+945                    innocenti           7150.010000
+441                       KIA UP           7150.000000
+922                        dodge           6700.000000
+191                    CYHATENET           6590.000000
+167                CITROEN DS 20           6370.000000
+581                     Moto spa           6000.000000
+1024                       vespa           5752.520000
+173                   CLAAS KGAA           5720.000000
+382                    HONDA 250           5716.100000
+223                       DRESEL           5640.000000
+683                    RIMORCHIO           5550.000000
+319                       FIESTA           5501.840000
+385                       HORWIN           5497.000000
+177                    CLASS 583           5450.000000
+897                        astra           5368.000000
+725                SEMIRIMORCHIO           5144.000000
+971          mariniello generosa           5143.280000
+275                     FIAT 680           5000.000000
+874                           WW           4700.000000
+228                          DUE           4530.000000
+894                   alfa romeo           4450.000000
+982                  microcar 61           4450.000000
+235                           E3           4428.000000
+182               CNH INDUSTRIAL           4400.000000
+599                       Nissan           4321.560000
+29                        AIAXAM           4300.000000
+139                  CATERPILLAR           4270.666667
+93                       BELARUS           4248.500000
+257                        FE.BA           4090.000000
+778                        TIGRE           4070.000000
+672                 RENAULT Clio           4000.000000
+618                       PAJERO           3912.000000
+622                      PAQUALI           3900.000000
+695                  RVM VEICOLI           3869.000000
+666                   REN.MEGANE           3837.000000
+1007                      scania           3800.000000
+511                MAN TRUCK BUS           3735.250000
+395              Harley-Davidson           3732.818182
+831                         VOGE           3704.502000
+135                        CASEI           3700.000000
+902                      benelli           3700.000000
+961                        lexus           3700.000000
+929                        fendt           3657.090000
+187                   COMACA SRL           3652.000000
+867            WIN LIFE ELECTRIC           3625.020000
+807                          UAZ           3614.790000
+956                        kymko           3599.535000
+406                        ISEKI           3559.693333
+350                      GAS GAS           3516.580000
+109                     BMW 520i           3500.000000
+700                   S  L H 874           3500.000000
+230                          Daf           3500.000000
+423         JANGSSU LUNENG ELECT           3500.000000
+494                      LINDNER           3449.210000
+438                     KAWASAKY           3422.500000
+89                         B M W           3400.000000
+286                   FIAT ICEVO           3400.000000
+794                 TRATTORE 4RM           3400.000000
+153                      CHATNET           3400.000000
+667                      RENAUKT           3400.000000
+919                          cnh           3391.540000
+129                       CARRON           3372.840000
+639                  PININFARINA           3321.500000
+184                          CNN           3310.000000
+82                         AXIAM           3310.000000
+130                     CARTHAGO           3294.000000
+988                   new holand           3292.350000
+497                          LML           3281.996667
+36                        AIXAMA           3270.000000
+295                 FIAT PANDA 7           3260.000000
+133                 CASALINI SRL           3256.655000
+85                         Aixam           3230.886667
+72                  AUSTIN ROVER           3227.076667
+428                   JHON DEERE           3200.000000
+480                      LANIDNI           3199.000000
+1015                      susuki           3187.000000
+388                     HUSABERG           3172.000000
+119                       BUFALO           3150.000000
+178                          CMC           3146.000000
+291                 FIAT PALIO 7           3126.000000
+481                      LAVERDA           3120.000000
+213                   DEUTZ-FAHR           3113.500000
+871                   WOLKSWAGEN           3110.000000
+455                        KWANG           3109.000000
+577                     Mercedes           3108.856667
+819                    VALPADANA           3101.705000
+98                       BEROISH           3100.000000
+347                         Ford           3073.875000
+198                 DAEWOO MATIZ           3068.500000
+251                 FANTIC MOTOR           3057.516364
+588                        NIBBI           3055.000000
+686                  ROLLS ROYCE           3045.000000
+914                    chevrolet           3045.000000
+111                      BONETTI           3045.000000
+776                          TGB           3045.000000
+492                 LIGIER GROUP           3030.000000
+663                       REFORM           3025.940000
+991                         opeL           3023.666667
+881                          XXX           3000.000000
+214                         DEUZ           3000.000000
+318                     FIAT\680           2989.000000
+918                         clio           2988.000000
+818                     VALPADAN           2985.000000
+21                 AGCO G Series           2972.600000
+164                   CITROEN C3           2960.000000
+227                       DUCATO           2939.918333
+892                   aixam mega           2918.000000
+963                        liger           2904.000000
+443                        KIMKO           2892.553636
+375              HARLEY-DAVIDSON           2874.542477
+634                     PEUGEOUT           2870.273333
+9                           A4RM           2850.000000
+322                   FITA PUNTO           2812.000000
+48                  ALFA 156 1.9           2810.000000
+574                     Malaguti           2804.567391
+1003               s.d.f.g. same           2800.000000
+374              HARLEY DAVIDSON           2788.074889
+39                        AIXMAN           2769.100000
+896                      aprilia           2759.750000
+225                       DUCATI           2747.988551
+263                     FERRANTE           2741.010000
+564                         MOTO           2732.250000
+565                   MOTO GUZZI           2729.301250
+848                     VW CADDY           2716.000000
+868                      WINGAMM           2708.500000
+1033                          wv           2700.000000
+972              massey ferguson           2700.000000
+210                        DEUTZ           2699.483333
+938                       grecav           2694.320000
+942                        honda           2671.578519
+287                   FIAT IVACO           2670.000000
+592                  NISSAN JUKE           2670.000000
+436                     KAWASAKI           2661.339167
+628                      PERKINS           2651.000000
+143                       CFMOTO           2633.111111
+967                     macchina           2610.000000
+516                     MASERATI           2602.582128
+66                          ATOS           2600.000000
+94                       BELLIER           2598.200000
+779                    TM RACING           2592.800000
+453                       KUBOTA           2583.333333
+362                   GREAT WALL           2551.072500
+616                        Orcal           2550.000000
+822                          VEM           2549.750000
+419                        Iveco           2545.697500
+521                       MAURER           2543.300000
+526                     MC LUOIS           2543.000000
+487                     LIEBHERR           2540.000000
+352                      GENERIC           2533.500000
+561                   MOBILVETTA           2528.000000
+247                 F.B. MONDIAL           2526.000000
+266                          FIA           2526.000000
+371                         H.D.           2526.000000
+110                  BMW X5 3.0D           2526.000000
+384                     HONDA PC           2526.000000
+3                            500           2526.000000
+510                    MAN SYN2Z           2526.000000
+136                      CASSONE           2526.000000
+410                      ITALJET           2526.000000
+989                  new holland           2521.500000
+838                    VOLKSWGEN           2518.000000
+79          AUTOMOBILIES CHATENE           2500.000000
+434                    JONE DEER           2500.000000
+105                         BLUE           2495.000000
+742                     SSANGYON           2494.500000
+805                      Triumph           2491.625000
+233                       Ducati           2485.624000
+802                      TRIUMPH           2461.098357
+566                  MOTO MORINI           2447.471429
+333                      FORD KA           2439.000000
+310                  FIAT TEMPRA           2439.000000
+973                       master           2439.000000
+986                   mitsubishy           2439.000000
+1005                     santana           2439.000000
+558                   MITSUBISHY           2439.000000
+651                         QUAD           2439.000000
+468                    LAMBRETTA           2439.000000
+149                     CHATEMET           2439.000000
+485                        LGIER           2439.000000
+77                   AUTOMOBILES           2439.000000
+471                 LANCIA THEMA           2439.000000
+1016                      suzuki           2436.895556
+946                        isuzu           2430.000000
+271                    FIAT 500L           2422.500000
+934              giotti vittoria           2416.000000
+541                        MERLO           2415.705000
+682                        RIEJU           2415.411667
+964                       ligier           2398.628000
+150                     CHATENET           2393.572797
+527                    MCCORMICK           2386.000000
+886                          ZEN           2384.000000
+342                 Fantic Motor           2380.441176
+38                         AIXMA           2380.250000
+640                      POLARIS           2373.833333
+491                       LIGIER           2370.879740
+722                          SEA           2361.000000
+490                        LIGER           2357.951000
+459                     Kawasaki           2351.561765
+916                      citroen           2349.553667
+121                         Beta           2349.117083
+891                        aixam           2348.018929
+363             GREAT WALL MOTOR           2338.840465
+1026                  volkswagen           2337.554500
+120                      Benelli           2337.133333
+642                      PORSCHE           2335.620142
+846                           VW           2332.659091
+817                       VALMET           2330.630000
+0                      MAN TRUCK           2327.000000
+870                   WOLKSVAGEN           2325.000000
+621                        PAOLO           2324.000000
+450                          KTM           2322.658485
+833                    VOLKSAGEN           2320.000000
+518                       MASSEY           2315.852857
+727                        SETRA           2310.000000
+505                     MAHINDRA           2304.085435
+131                     CASALINI           2300.208235
+357                       GLOBAL           2300.000000
+713   SAME DEUTZ-FAHR ITALIA SPA           2300.000000
+366                      GREENGO           2298.715000
+815               VALENTI RACING           2285.000000
+901                      belarus           2283.000000
+677                 RENAULT Modu           2283.000000
+193                  Ciclomotore           2283.000000
+456                   KWANG YANG           2283.000000
+413              IVECO EUROCARGO           2283.000000
+1008                   scuolabus           2283.000000
+907                        caron           2283.000000
+244                    EUROCARGO           2283.000000
+166                 CITROEN C5 2           2283.000000
+265                     FHYUNDAY           2283.000000
+96                       BENTLEY           2283.000000
+278                   FIAT BRAVA           2283.000000
+108                 BMW 316i C 4           2283.000000
+533              MERCEDES - BENZ           2283.000000
+188                          CPI           2283.000000
+569                MOTORHISPANIA           2283.000000
+1009                  share n'go           2283.000000
+626                      PEGEOUT           2283.000000
+220          DONGFENG MOTOR CORP           2283.000000
+844                VOLVO FE 2006           2283.000000
+689                 ROVER 420 td           2283.000000
+699                Royal Enfield           2283.000000
+145                    CH RACING           2282.166667
+594                 NISSAN Micra           2275.340000
+305                 FIAT Punto 1           2275.066667
+585                   NEW HOLAND           2275.000000
+601                           OM           2274.236667
+726                        SENKE           2272.000000
+396                        Honda           2269.734714
+460                       Keeway           2268.555556
+448                     KSR MOTO           2264.190000
+431                    JOHN DEER           2258.546667
+389                    HUSQVARNA           2256.826500
+31                         AIXAM           2254.050326
+215                        DIECI           2252.690000
+126                       CAGIVA           2250.000000
+397                    Husqvarna           2248.600000
+10                        ABARTH           2247.524897
+878                       XIAMEN           2243.500000
+872                 WOTTAN MOTOR           2241.770000
+496                       LJGIER           2241.500000
+478                   LAND ROVER           2240.989888
+908                      carraro           2240.000000
+692                ROYAL ENFIELD           2238.525294
+365                   GRECAV SPA           2231.666667
+381                        HONDA           2227.235554
+924                        durso           2225.000000
+260                    FENDT 208           2225.000000
+41                           AJP           2224.770000
+884                       YAMAHA           2224.559027
+909                     casalini           2223.500000
+245                          EVO           2222.148378
+655                       QUADRO           2220.666667
+42                          ALFA           2215.530000
+370                       Gilera           2214.370000
+741                  SPORTEQUIPE           2212.003333
+586                  NEW HOLLAND           2208.547812
+1000                     renault           2207.909630
+61                         ARIIC           2200.000000
+138              CAT CATERPILLAR           2200.000000
+808                        UMBRA           2200.000000
+211                 DEUTZ - FAHR           2200.000000
+418                      Italjet           2200.000000
+687                    ROMANITAL           2196.250000
+20                          AGCO           2192.605714
+555                  MITSUBISCHI           2186.333333
+224                           DS           2184.422444
+554                     MITSUBIS           2183.582857
+329                  FORD Fiesta           2181.000000
+898                         audi           2175.200000
+101                         BETA           2171.685765
+834                   VOLKSVAGEN           2171.500000
+798           TRATTRICE AGRICOLA           2170.333333
+812                      Unknown           2166.666835
+719                       SCANIA           2165.913286
+358                      GOLDONI           2163.756000
+762                       Suzuki           2160.167812
+484                        LEXUS           2156.315917
+746                       SUBARU           2154.842540
+373                       HARLEY           2154.510000
+115                      BRIXTON           2153.543750
+937                        great           2150.010000
+408                        ISUZU           2149.725725
+95                       BENELLI           2145.890000
+885                       Yamaha           2145.738342
+421                       JAGUAR           2145.644241
+142                      CF MOTO           2142.215000
+879                    XINDAYANG           2141.982500
+426                         JEEP           2141.755609
+432                   JOHN DEERE           2132.460588
+572                    MV AGUSTA           2132.000000
+883                        YADEA           2128.000000
+857                  VW POLO 1.0           2128.000000
+877                   XEV S.R.L.           2128.000000
+141                      CENNTRO           2128.000000
+814                      VALENTI           2128.000000
+160                      CIRELLI           2128.000000
+613                        OPERL           2128.000000
+335           FORD NUOVO TRANSIT           2128.000000
+829                    VM RACING           2128.000000
+611                  OPEL ZAFIRA           2128.000000
+377                       HELNAG           2128.000000
+279                 FIAT BRAVA 1           2128.000000
+801                  TRIGANO VDL           2128.000000
+205              DAIMLERCHRYSLER           2128.000000
+832                       VOLEEX           2128.000000
+216                    DIECI SRL           2128.000000
+875                        Wayel           2120.000000
+379                           HM           2119.508421
+359                         GOLF           2117.500000
+100                      BERTONE           2115.000000
+824                   VERVE MOTO           2113.000000
+331                 FORD Foc 1.8           2111.500000
+156                     CHRYSLER           2111.433855
+71                        AUSTIN           2110.586667
+994                      peugeot           2109.785000
+116            BRUSEGHINI  BEP/4           2100.000000
+154                      CHEREAU           2100.000000
+932                         ford           2099.314359
+656                       R.V.M.           2097.180000
+836                     VOLKSWAG           2096.309143
+573                   MV AUGUSTA           2094.333333
+67                          AUDI           2093.182789
+411                        IVECO           2091.912270
+50                         ALTRE           2091.616154
+590                       NISSAN           2090.580009
+669                      RENAULT           2090.040872
+701                    S L K 874           2089.930000
+405                       IRIZAR           2089.500000
+49                    ALFA ROMEO           2086.474970
+813                          VAL           2085.020000
+200                   DAF TRUCKS           2080.500000
+652                  QUADRICICLO           2079.500000
+890                       Zontes           2079.490000
+1019                      toyota           2078.714286
+87                       Aprilia           2078.269375
+107                          BMW           2077.999421
+76                     AUTOCARRO           2077.700000
+787                 TOYOTA YARIS           2077.000000
+394                      HYUNDAY           2074.333333
+548                         MINI           2065.559048
+876                          XEV           2061.621250
+839                    VOLKWAGEN           2061.500000
+768                  TARGA PROVA           2060.000000
+504                      MAGIRUS           2060.000000
+445                      KORANDO           2060.000000
+161                       CITOEN           2060.000000
+157            CHRYSLER (USA) YJ           2060.000000
+473                 LANCIA Y 1.1           2060.000000
+851                  VW GOLF 1.9           2060.000000
+80                   AUTOVETTURA           2060.000000
+437                  KAWASAKI KL           2060.000000
+784                    TOYOTA JG           2060.000000
+392                 HYUNDAI ATOS           2060.000000
+152         CHATENET QUADRICICLO           2060.000000
+774                     TECNOMEC           2060.000000
+159                     CINTROEN           2060.000000
+761                       Sherco           2060.000000
+786                 TOYOTA RAV 4           2060.000000
+810                  UNO 45 FIRE           2060.000000
+766                      TALARIA           2060.000000
+243                         EURO           2060.000000
+880                         XTOO           2060.000000
+1002                       rimor           2060.000000
+321                   FITA IVECO           2060.000000
+280                 FIAT CINQ900           2060.000000
+617                         Over           2060.000000
+977                      mecedes           2060.000000
+328                   FORD FOCUS           2060.000000
+246                 EVO BUS M.B.           2060.000000
+16                         ADRIA           2060.000000
+582                       Motron           2060.000000
+591                 NISSAN DATSU           2060.000000
+624                   PAYERO GLS           2060.000000
+312                  FIAT UNO 45           2060.000000
+354                       GIOTTI           2060.000000
+236                      ECOOTER           2060.000000
+6                          A 112           2060.000000
+862                  VW Polo 1.9           2060.000000
+645                  PORTERMAXXI           2060.000000
+625                   PEDA MOTOR           2060.000000
+19                         AEXAN           2060.000000
+943                        hymer           2060.000000
+532                     MERCEDES           2059.868889
+775                        TESLA           2055.828400
+469                       LANCIA           2054.073840
+845                  VOLVO TRUCK           2050.228000
+433                    JOHNDEERE           2050.000000
+637                  PIAGGIO APE           2049.000000
+630                      PEUGEOT           2047.817626
+454                    KWAN YANG           2043.250000
+646                        PUNTO           2042.666667
+978                     mercedes           2042.141111
+259                        FENDT           2039.928605
+195                        DACIA           2039.553575
+542                           MG           2037.201392
+440                          KIA           2037.106046
+556                   MITSUBISHI           2030.678348
+345                         Fiat           2030.166667
+865                   Volkswagen           2029.875000
+162                      CITROEN           2029.627507
+990                       nissan           2027.934000
+837                   VOLKSWAGEN           2027.164298
+113                      BREMACH           2025.285714
+804                       Toyota           2024.128333
+931                         fiat           2022.404823
+267                         FIAT           2017.208423
+512                      MANITOU           2015.000000
+391                      HYUNDAI           2014.125655
+729                      SILENCE           2013.000000
+57                       APRILIA           2012.806246
+605                 OPEL Agila 1           2011.000000
+476                 LANCIA Ypsil           2010.000000
+992                         opel           2007.433333
+756                          SWM           2006.111111
+323                         FORD           2002.374133
+995                      piaggio           2001.773462
+636                      PIAGGIO           2000.179930
+289                 FIAT Idea 1.           2000.000000
+809                         UNIC           2000.000000
+114                      BREMACK           2000.000000
+1014                      stayer           2000.000000
+571                           MV           2000.000000
+69                   AUDI A3 1.8           2000.000000
+528                      MCLAREN           2000.000000
+697                      Renault           1998.120000
+915                  ciclomotore           1997.000000
+522                        MAZDA           1995.143806
+676                 RENAULT MODU           1993.870000
+743                    SSANGYONG           1993.792643
+415                IVECO MAGIRUS           1991.728000
+222                           DR           1988.485336
+720                    SCANIA CV           1988.000000
+368                        GUZZI           1987.510000
+841                        VOLVO           1983.870294
+299                 FIAT PUNTO 5           1983.000000
+212                   DEUTZ FAHR           1982.000000
+380                      HOLLAND           1980.000000
+2                         3TNV76           1980.000000
+749                       SUZUKI           1978.955662
+523                          MBK           1976.075890
+688                        ROVER           1973.709000
+958                       lancia           1973.000000
+552                   MITSIBISHI           1972.500000
+508                          MAN           1968.816098
+250                       FANTIC           1968.466304
+238               ELLEBI LB 1213           1968.000000
+196                       DAEWOO           1966.961620
+955                        kymco           1966.333333
+207         DAIMLERCHRYSLER AG 9           1962.935000
+467                  LAMBORGHINI           1962.475581
+603                         OPEL           1961.619618
+678               RENAULT TRUCKS           1961.545455
+519              MASSEY FERGUSON           1958.420000
+199                          DAF           1958.401636
+27                   AGRIFULL 70           1950.000000
+276                   FIAT 70.66           1950.000000
+360                     GRAZIOLI           1950.000000
+863                         Vent           1949.571429
+781                       TOYOTA           1948.204032
+502                       Ligier           1948.062500
+444                           KL           1945.000000
+201                     DAIHATSU           1944.395947
+273                     FIAT 600           1943.030000
+341                         FULU           1942.750000
+560                           ML           1940.000000
+530                           ME           1940.000000
+515                       MARUTI           1940.000000
+102                    BETAMOTOR           1940.000000
+553                  MITSUBHISHI           1940.000000
+673                 RENAULT Kang           1940.000000
+615                         Opel           1940.000000
+668                       RENAUL           1940.000000
+660                          RAV           1940.000000
+112                        BOXER           1940.000000
+534                 MERCEDES 180           1940.000000
+735                 SKODA Felici           1940.000000
+612                  OPEL Zafira           1940.000000
+826                        VIRGO           1940.000000
+635                      PEUGETO           1940.000000
+987                   mv augusta           1940.000000
+104                       BIMOTA           1940.000000
+974                        mazda           1940.000000
+170                 CITROEN Xsar           1940.000000
+283                 FIAT Croma 1           1940.000000
+416                        IZUZU           1940.000000
+412                  IVECO 100 E           1940.000000
+842                   VOLVO B12B           1940.000000
+854                  VW Golf 1.9           1940.000000
+390                       HYNDAI           1940.000000
+859                  VW Polo 1.0           1940.000000
+386                       HUNDAY           1940.000000
+369                      Generic           1940.000000
+284                  FIAT DOBLO'           1940.000000
+351                     GASOLONE           1940.000000
+51                  ALTRE MARCHE           1940.000000
+968                     mahindra           1940.000000
+913           chatenet ch 24 t0b           1940.000000
+950                          jdp           1940.000000
+302                 FIAT Palio T           1940.000000
+452                      KTM 125           1940.000000
+947                        ivece           1940.000000
+483                        LEOMA           1940.000000
+999                      ranault           1940.000000
+782                   TOYOTA 471           1940.000000
+218                       DOBLO'           1940.000000
+1022                        v.w.           1940.000000
+803                      TYPHOON           1940.000000
+1013                   ssangyong           1940.000000
+219                        DODGE           1935.830857
+649                      Peugeot           1934.998824
+796                    TRATTRICE           1920.000000
+981                     microcar           1919.000000
+439                       KEEWAY           1917.445000
+547                    MINARELLI           1914.000000
+544                     MICROCAR           1912.862500
+32                    AIXAM MEGA           1910.227273
+155                    CHEVROLET           1909.320162
+734                        SKODA           1907.811640
+568                        MOTOM           1906.500000
+708                  SAME BUFALO           1900.000000
+757                          SYM           1899.997258
+327                 FORD FOC 1.8           1896.000000
+650                      Piaggio           1893.780097
+739                        SMART           1893.465236
+296                 FIAT PANDA 9           1889.000000
+861                  VW Polo 1.4           1886.900000
+980                mercedes benz           1885.610000
+292                   FIAT PANDA           1884.625000
+705                         SAME           1881.445323
+288                   FIAT IVECO           1880.600000
+190                        CUPRA           1880.570893
+948                        iveco           1878.439531
+567                    MOTOCICLO           1876.125000
+984                   mitsubishi           1873.833333
+425                          JDM           1873.333333
+580                   Moto Guzzi           1871.125000
+747                        SUNRA           1860.460000
+823                         VENT           1855.308889
+562                      MONDIAL           1853.000000
+336                  FORD RANGER           1850.000000
+723                         SEAT           1847.833039
+703                         SAAB           1845.580000
+905                          bmw           1841.623000
+269                     FIAT 500           1841.000000
+118                        BUELL           1840.500000
+17                          AEON           1838.583333
+229                        DURSO           1838.000000
+300                 FIAT PUNTO 6           1838.000000
+811                           UV           1838.000000
+400                      ICOVECO           1838.000000
+58                          ARCA           1838.000000
+221                        DOTTO           1838.000000
+34                AIXAM MEGA VBO           1838.000000
+506                     MALAGUTI           1837.988660
+488                       LIEGER           1829.000000
+716                      SANTANA           1813.250000
+888                       ZONTES           1812.080909
+13                     ADAM OPEL           1810.690000
+911                     chatenet           1807.000000
+595                     NISSAN T           1802.000000
+74                   AUTOBIANCHI           1800.850000
+860                  VW Polo 1.2           1800.000000
+402                       IIVECO           1800.000000
+7                      A.CARRARO           1800.000000
+461                          Kia           1795.000000
+900                    autocarro           1791.500000
+764                          Sym           1789.025870
+731                        SIMPA           1788.617778
+64                         ASTRA           1787.000000
+356              GIOTTI VITTORIA           1787.000000
+816                     VALENTIN           1787.000000
+470                 LANCIA LIBRA           1787.000000
+169                 CITROEN Saxo           1787.000000
+282                 FIAT Cinquec           1787.000000
+417                        Isuzu           1787.000000
+414                   IVECO FIAT           1787.000000
+372                        HAFEI           1787.000000
+771                    TATA  4X4           1787.000000
+579                   Mitsubishi           1787.000000
+343                 Fantic motor           1787.000000
+675                 RENAULT M GA           1787.000000
+674                 RENAULT LAGU           1787.000000
+670                 RENAULT 180.           1787.000000
+451                   KTM  IS A3           1787.000000
+285                  FIAT DUCATO           1783.000000
+463                         LADA           1778.600000
+495                      LINGBEN           1778.000000
+241                      ESTRIMA           1776.062500
+793                     TRATTORE           1775.334444
+180                   CNH EUROPE           1774.175000
+983                         mini           1773.000000
+63                  ASTON MARTIN           1772.000000
+769                        TASSO           1770.000000
+308                 FIAT SEICENT           1769.300000
+479                      LANDINI           1766.926739
+517                         MASH           1763.000000
+457                        KYMCO           1758.206824
+203         DAIMLER CHRYSLER JEE           1752.000000
+303                 FIAT Panda 1           1748.648824
+123                      Brixton           1747.410000
+740                SMART FORFOUR           1747.000000
+629                       PEUGEO           1745.610000
+367                       GREGAV           1745.060000
+475                 LANCIA YPSIL           1745.000000
+830                        VMOTO           1745.000000
+825                        VESPA           1744.090000
+1                              .           1743.500000
+856                    VW PASSAT           1738.500000
+1035                     zhejang           1730.000000
+364                       GRECAV           1718.569615
+596                          NIU           1716.678000
+959                   land rover           1716.666667
+563                       MORINI           1710.000000
+472                     LANCIA Y           1707.000000
+404                    INNOCENTI           1701.125000
+90                    BARTOLETTI           1700.000000
+714                 SAME EXPL 70           1700.000000
+293                 FIAT PANDA 1           1698.250000
+168                 CITROEN SAXO           1696.000000
+609                 OPEL Corsa 1           1692.750000
+56                           APE           1690.142857
+304                 FIAT Panda 9           1690.000000
+1027        volkswagen passat  1           1690.000000
+647                 PUNTO DYNAMI           1690.000000
+921                     daihatsu           1690.000000
+529                      MCLOUIS           1690.000000
+765                        T CAR           1690.000000
+785                  TOYOTA Land           1690.000000
+52                         AMBRA           1690.000000
+906                       bobcat           1690.000000
+789                       TOYOYA           1690.000000
+551                       MIRAGE           1690.000000
+185                           CO           1690.000000
+791                 TRANSIT COMB           1690.000000
+853                  VW Golf 1.8           1690.000000
+944                      hyundai           1690.000000
+648                    PUNTO VAN           1690.000000
+59                     ARCA 2001           1690.000000
+1006                     sanyang           1690.000000
+847                  VW Bora 1.9           1690.000000
+887                     ZONGSHEN           1690.000000
+827                       VITARA           1690.000000
+539                 MERCEDES Ser           1690.000000
+604                   OPEL ASTRA           1690.000000
+654           QUADRICICLO LIGIER           1690.000000
+1018                       tasso           1690.000000
+537                 MERCEDES C 2           1688.250000
+503          MACCHINA OPERATRICE           1687.000000
+671                 RENAULT CLIO           1686.410000
+631                  PEUGEOT 106           1685.826667
+403                     INFINITI           1682.575667
+525                          MBP           1668.000000
+770                         TATA           1665.600000
+429                         JOHN           1664.000000
+969                     malaguti           1664.000000
+462                        Kymco           1662.865158
+788                 TOYOTA Yaris           1662.000000
+401                IFOR WILLIAMS           1655.000000
+1030                       volvo           1653.768889
+975                          mbk           1650.992500
+754                 SUZUKI Vitar           1645.000000
+378                      HIUNDAY           1645.000000
+147                    CHANGZHOU           1644.500000
+197                 DAEWOO Lanos           1640.040000
+202                      DAIMLER           1637.875000
+353                       GILERA           1636.481379
+707                     SAME 360           1625.000000
+536                MERCEDES BENZ           1620.395625
+255                    FD MOTORS           1619.500000
+5                         999553           1617.200000
+477                         LAND           1615.500000
+192                       Cagiva           1605.000000
+657                          RAM           1605.000000
+30                          AIXA           1600.470000
+174                CLAAS TRACTOR           1600.000000
+252                    FARMATRAC           1600.000000
+208                DEERE COMPANY           1600.000000
+424                          JCB           1600.000000
+340                         FUJI           1600.000000
+702                     S.D.F.I.           1598.230000
+895                          ape           1592.250000
+309                 FIAT Seicent           1592.000000
+128                      CARRARO           1583.145556
+545                  MICROCAR 51           1580.000000
+1001                     renoult           1580.000000
+538                 MERCEDES E 2           1580.000000
+557              MITSUBISHI FUSO           1576.000000
+270                   FIAT 500 F           1575.410000
+248                        FACMA           1575.400000
+124                     C F MOTO           1575.000000
+806                      U T B U           1575.000000
+912                 chatenet 505           1568.500000
+748                   SUPER SOCO           1565.500000
+1010                       simpa           1562.000000
+22                     AGCO GMBH           1553.333333
+4                          667TA           1550.000000
+736                  SKODA SUPER           1550.000000
+204               DAIMLERCHRYLER           1547.500000
+325           FORD CUSTOM 300 L1           1541.830000
+88                           Axy           1540.333333
+217                    DISCOVERY           1540.000000
+55               ANTONIO CARRARO           1531.406000
+583              NACTIONAL MOTOR           1529.540000
+970                          man           1510.000000
+355              GIOTTI VICTORIA           1508.666667
+46                  ALFA 147 1.9           1507.190000
+584                          NEW           1503.735000
+849                      VW GOLF           1501.500000
+930                     ferrante           1500.000000
+281                 FIAT CINQUEC           1500.000000
+1032                   wolswagen           1500.000000
+163                 CITROEN AX 1           1495.000000
+23                AGCO GMBH E CO           1493.610000
+306                 FIAT Punto 5           1492.000000
+840                    VOLSWAGEN           1491.250000
+62                        ASKOLL           1487.450000
+493                LIGIER JS32FD           1480.000000
+767                        TARGA           1477.000000
+465                 LAMBIORGHINI           1475.000000
+721                         SDFI           1474.000000
+926                       fantic           1470.000000
+709                 SAME BUFFALO           1466.000000
+337                 FORD TRANSIT           1464.686000
+501                      LYNK&CO           1464.000000
+627                      PELLENC           1464.000000
+361                        GREAT           1463.382000
+407                        ISIZU           1455.160000
+920                        dacia           1455.140000
+680                 RENAULT V.I.           1454.000000
+232                   Deutz Fahr           1450.000000
+820                       VALTRA           1447.848000
+158                  CICLOMOTORE           1445.940000
+843                    VOLVO F10           1445.000000
+148                     CHATANET           1445.000000
+330                 FORD Foc 1.6           1441.500000
+607                 OPEL CORSA 1           1439.666667
+745                        STEYR           1437.475000
+979              mercedes - benz           1437.000000
+899                  autobianchi           1436.000000
+234               E-TUCK FACTORY           1427.000000
+952                   john deere           1418.600000
+458                        KYMKO           1416.666667
+597                          NOX           1409.000000
+172                        CLAAS           1407.000000
+297                   FIAT PUNTO           1401.921667
+965                   lombardini           1400.000000
+724                   SEAT IBIZA           1400.000000
+917                citroen xsara           1400.000000
+821                       VANARA           1400.000000
+8                      A/R 146 L           1400.000000
+301                 FIAT Palio 1           1400.000000
+420                  J.C.BAMFORD           1397.490000
+97                      BERLINGO           1396.000000
+75                       AUTOBUS           1394.500000
+698                        Rieju           1394.000000
+466                     LAMBORGH           1393.400000
+348                          GAC           1392.740000
+209                        DERBI           1383.416667
+718                 SARA PICASSO           1364.000000
+882              Xiamen Xiashing           1362.500000
+179                          CNH           1362.100000
+893                         alfa           1360.000000
+717                      SANYANG           1355.000000
+464                        LAIKA           1353.000000
+264                      FERRARI           1352.500000
+951                         jeep           1351.625000
+47                  ALFA 156 1.8           1350.540000
+231                        Derbi           1350.000000
+795            TRATTORE AGRICOLO           1346.208000
+1031                          vw           1344.473333
+186                       COMACA           1339.333333
+376                        HAVAL           1338.571429
+957                  lamborghini           1337.500000
+598                  New Holland           1332.000000
+759                      Seat Mo           1331.720000
+869                         WOLK           1330.000000
+864                         Voge           1326.666667
+140                          CCM           1323.000000
+665                 REGAL RAPTOR           1320.000000
+889             Zero Motorcycles           1320.000000
+189                       CRESCI           1319.500000
+610                  OPEL Meriva           1310.885000
+106                   BLUE DREAM           1302.000000
+315                  FIAT Uno 55           1300.000000
+226                    DUCATI B2           1300.000000
+728                       SHERCO           1298.000000
+239                          EMC           1282.666667
+751                 SUZUKI Jimny           1273.500000
+760                        Senke           1270.000000
+194                      Citroen           1266.000000
+175           CLAAS TRACTORS SAS           1265.000000
+715                      SAMSUNG           1263.000000
+619                        PANDA           1257.700000
+800                  TRIGANO SPA           1256.000000
+33           AIXAM MEGA K 34V BR           1250.000000
+261                         FENT           1245.000000
+127                        CARON           1244.228571
+383                    HONDA CBR           1241.500000
+486                       LIDIER           1240.586667
+70                  AUDI A4 1.9/           1240.000000
+998                      porsche           1238.000000
+298                 FIAT PUNTO 1           1225.000000
+543                        MICRO           1220.000000
+755                       SUZUKY           1220.000000
+710                   SAME DEUTZ           1216.670000
+53                     ANTONELLI           1200.000000
+258                         FEND           1200.000000
+633                  PEUGEOT 306           1200.000000
+696                       Reform           1200.000000
+600                        OELLE           1200.000000
+614                        OZETA           1200.000000
+151            CHATENET CH26 1 0           1200.000000
+507              MALAGUTI/YAMAHA           1200.000000
+693                   RSA ITALIA           1197.000000
+274                  FIAT 640 DT           1195.000000
+446                       KRAMER           1185.640000
+684                       RNURFB           1180.000000
+850                  VW GOLF 1.6           1173.500000
+903                         beta           1170.000000
+960                      landini           1166.666667
+641                         POLO           1164.366667
+540                MERCEDES-BENZ           1153.350000
+685                  ROLLER TIME           1150.000000
+772                      TAZZARI           1150.000000
+183            CNH INTERNATIONAL           1150.000000
+25          AGCO MASSEY FERGUSON           1150.000000
+753               SUZUKI VALENTI           1145.000000
+237                       EFFEDI           1141.600000
+73                   AUTOB. Y 10           1141.500000
+658                  RANGE ROVER           1140.000000
+933                      generic           1140.000000
+326                  FORD FIESTA           1133.333333
+86                    Alfa Romeo           1120.000000
+1034                      yamaha           1117.581818
+344                        Fendt           1116.250000
+313                  FIAT UNO 60           1104.000000
+514                 MAR GENEROSA           1100.000000
+953                     kawasaki           1100.000000
+37                         AIXAN           1100.000000
+550                     MINONZIO           1092.000000
+54                       ANTONIO           1091.750000
+272                      FIAT 55           1080.000000
+1012                       smart           1060.000000
+928                         fend           1050.000000
+447                          KSR           1050.000000
+134                         CASE           1047.500000
+474                 LANCIA Y 1.2           1046.666667
+103                BETAMOTOR SPA           1038.000000
+828                          VLK           1030.000000
+559                   MITSUBISKI           1030.000000
+927                 fantic motor           1027.986667
+873                           WV           1022.000000
+1021                           v           1001.740000
+132                  CASALINI 10           1000.000000
+320                        FIORI           1000.000000
+712              SAME DEUTZ-FAHR           1000.000000
+1025                 volkswafgen           1000.000000
+65                       ASTRA V           1000.000000
+117                       BUCHER           1000.000000
+852                  VW Golf 1.4           1000.000000
+661                        RAV 4           1000.000000
+482                 LAVERDA 3300           1000.000000
+509            MAN NUTSFAHRZEUGE           1000.000000
+268                     FIAT 100           1000.000000
+593                 NISSAN MICRA           1000.000000
+993                        paoli            992.305000
+26                       AGILITY            985.695000
+165                 CITROEN C3 1            980.500000
+694                          RVK            980.000000
+602                         OMAI            976.000000
+314                 FIAT UNOFIRE            976.000000
+664                  REFORMWERKE            975.000000
+996                       piagio            970.000000
+704                        SACAR            967.000000
+777      THE LONDON TAXI COMPANY            960.000000
+44                  ALFA 146 1.6            950.000000
+976                   mc cormick            950.000000
+962                       lieger            950.000000
+904                    betamotor            940.320000
+531                         MEGA            925.000000
+35                      AIXAM SV            920.000000
+14                         ADIVA            911.580000
+966                     lw4 c ka            911.000000
+866                        WAYEL            900.000000
+316                     FIATAGRI            900.000000
+422           JAGUAR LANDO ROVER            900.000000
+985                   mitsubishu            900.000000
+311                     FIAT UNO            900.000000
+78            AUTOMOBILES LIGIER            900.000000
+349            GARAGE ITALIA SRL            900.000000
+81                          AXAM            900.000000
+442                        KIMCO            900.000000
+137                          CAT            900.000000
+790                      TRANSIT            893.500000
+60            ARCHIVE MOTORCYCLE            886.500000
+620                    PANDA 4X4            882.910000
+632                  PEUGEOT 206            880.000000
+68                   AUDI A2 1.4            879.596667
+520                        MASSY            878.000000
+489                        LIFAN            876.666667
+18          AERDIESEL LOMBARDINI            875.000000
+332                 FORD Foc 2.0            872.000000
+498                   LOMBARDINI            867.500000
+338                     FORD WAG            854.000000
+146                       CHANET            850.000000
+1023                      valtra            846.010000
+690                  ROVER GROUP            845.000000
+92                           BCS            840.173333
+256                    FD Motors            835.000000
+638                 PIAGGIO VESP            830.000000
+949                          jdm            825.000000
+681                      RENEULT            814.000000
+91                 BARTOLETTI MV            814.000000
+750                SUZUKI ITALIA            800.000000
+923                       ducati            800.000000
+662                      REANULT            800.000000
+513                          MAR            800.000000
+783                 TOYOTA Celic            800.000000
+691                   ROVER MINI            800.000000
+334                  FORD Mondeo            800.000000
+240                      ERREPPI            793.000000
+249                         FAIT            780.000000
+294                 FIAT PANDA 4            780.000000
+339                     FRANCINI            780.000000
+546                 MIETITREBBIA            760.000000
+835                      VOLKSW.            750.000000
+346                   Fiat Punto            750.000000
+730                  SIMACAR SRL            750.000000
+763               Suzuki Valenti            731.830000
+936                         golf            731.160000
+449                     KSR Moto            725.000000
+1004                        same            721.670000
+176                        CLASS            717.586667
+435                   JONH DEERE            716.000000
+623                     PASQUALI            707.600000
+398                        Hymer            700.000000
+1020                    trattore            700.000000
+1017                         sym            700.000000
+940                      hiunday            700.000000
+744                        START            700.000000
+83                           AXY            700.000000
+24                  AGCO LIMITED            689.300000
+732                    SIMPA JDM            668.000000
+12                          ADAM            650.000000
+535                 MERCEDES 208            640.000000
+399                      Hyosung            635.000000
+858                  VW POLO 1.4            628.000000
+500                       LVNENG            613.815000
+43                  ALFA 146 1.4            610.000000
+643                   PORTA MOTO            600.000000
+587                 NEW HOLLANDE            600.000000
+939                   grecav eke            600.000000
+606                 OPEL Astra 1            600.000000
+935                      goldoni            600.000000
+737                          SLH            600.000000
+317                  FIATGEOTECH            600.000000
+144                   CFORCE450L            600.000000
+181         CNH EUROPE HOLDING S            587.000000
+589                       NINGBO            580.000000
+1029                   volswagen            580.000000
+28                     AGRITALIA            573.400000
+1011                       skoda            570.000000
+855                  VW Lupo 1.0            564.950000
+578              Mercedes - Benz            560.410000
+262                     FERGUSON            560.000000
+393                 HYUNDAI S.FE            552.500000
+84                         Adiva            550.000000
+706                   SAME 35 QL            550.000000
+738                 SLH EXPLORER            548.180000
+910                  caterpillar            512.400000
+549                      MINICAR            500.000000
+954                       kimkco            500.000000
+99                     BERTOLINI            500.000000
+524                MBK INDUSTRIE            500.000000
+758                         Same            500.000000
+799                      TRIGANO            500.000000
+679                   RENAULT TW            500.000000
+752                 SUZUKI SANTA            500.000000
+324                    FORD 3600            480.000000
+45                      ALFA 147            480.000000
+499                        LOTUS            475.150000
+427                   JHNO DEERE            465.000000
+430                   JOHN  DEER            400.000000
+409                       ITALIA            400.000000
+780                    TOWN LIFE            400.000000
+277                   FIAT 70/90            400.000000
+254                          FCA            400.000000
+797                 TRATTRICE AG            400.000000
+925               dymlerchrysler            380.000000
+570                       MOTRON            374.110000
+1028                   volkwagen            370.000000
+608                 OPEL CORSA S            350.000000
+644                       PORTER            342.000000
+792                 TRATT. BAML/            300.000000
+15                          ADLY            300.000000
+387                    HURLIMANN            289.000000
+290                 FIAT MULTIPL            260.000000
+125                     CADILLAC            250.000000
+40                        AIXSAM            250.000000
+576                         Mash            244.000000
+575                          Man            244.000000
+653          QUADRICICLO LEGGERO            240.000000
+307                 FIAT Punto T            240.000000
+206           DAIMLERCHRYSLER AG            185.000000
+171                       CITRON            150.000000

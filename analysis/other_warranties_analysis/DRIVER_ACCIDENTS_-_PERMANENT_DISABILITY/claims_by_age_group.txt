@@ -1,0 +1,9 @@
+Claims by Age Group for DRIVER ACCIDENTS - PERMANENT DISABILITY
+
+  AGE_GROUP  NUMBER_OF_CLAIMS
+0     18-25                 3
+1     26-35                10
+2     36-45                18
+3     46-55                22
+4     56-65                20
+5       65+                14

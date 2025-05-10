@@ -1,0 +1,24 @@
+Avg Claim Amount by Region for SPECIAL TRAVEL (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+10                 MOLISE            417.608000
+19          VALLE D'AOSTA            405.972500
+0                 ABRUZZO            290.093333
+18                Unknown            271.252000
+5   FRIULI VENEZIA GIULIA            212.795652
+2                CALABRIA            211.071605
+1              BASILICATA            208.482414
+16    TRENTINO ALTO ADIGE            205.398000
+8               LOMBARDIA            201.113659
+11               PIEMONTE            200.842763
+15                TOSCANA            198.766630
+9                  MARCHE            196.494250
+7                 LIGURIA            196.207000
+14                SICILIA            191.785897
+12                 PUGLIA            191.609314
+3                CAMPANIA            189.611818
+6                   LAZIO            189.116847
+13               SARDEGNA            184.735612
+17                 UMBRIA            181.788333
+4          EMILIA ROMAGNA            180.575019
+20                 VENETO            177.124079

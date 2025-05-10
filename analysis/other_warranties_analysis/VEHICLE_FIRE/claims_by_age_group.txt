@@ -1,0 +1,9 @@
+Claims by Age Group for VEHICLE FIRE
+
+  AGE_GROUP  NUMBER_OF_CLAIMS
+0     18-25                 0
+1     26-35                 7
+2     36-45                15
+3     46-55                21
+4     56-65                27
+5       65+                30

@@ -1,0 +1,18 @@
+Claims by Region for VEHICLE FIRE (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+5                   LAZIO                16
+7               LOMBARDIA                16
+8                PIEMONTE                16
+9                  PUGLIA                10
+10               SARDEGNA                 8
+11                SICILIA                 7
+2                CAMPANIA                 5
+3          EMILIA ROMAGNA                 5
+14                 VENETO                 5
+1                CALABRIA                 3
+4   FRIULI VENEZIA GIULIA                 3
+6                 LIGURIA                 3
+0                 ABRUZZO                 1
+12                TOSCANA                 1
+13                 UMBRIA                 1

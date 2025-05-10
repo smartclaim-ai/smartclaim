@@ -1,0 +1,23 @@
+Claims by Region for THEFT (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+8               LOMBARDIA               482
+3                CAMPANIA               447
+6                   LAZIO               421
+11               PIEMONTE               374
+14                SICILIA               370
+12                 PUGLIA               216
+4          EMILIA ROMAGNA               115
+19                 VENETO               109
+15                TOSCANA                65
+7                 LIGURIA                37
+2                CALABRIA                29
+13               SARDEGNA                26
+17                 UMBRIA                15
+0                 ABRUZZO                13
+10                 MOLISE                11
+5   FRIULI VENEZIA GIULIA                10
+1              BASILICATA                 9
+9                  MARCHE                 7
+16    TRENTINO ALTO ADIGE                 4
+18          VALLE D'AOSTA                 1

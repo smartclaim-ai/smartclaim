@@ -1,0 +1,9 @@
+Claims by Age Group for NATURAL DISASTERS
+
+  AGE_GROUP  NUMBER_OF_CLAIMS
+0     18-25               109
+1     26-35              1549
+2     36-45              2576
+3     46-55              3042
+4     56-65              3183
+5       65+              2416

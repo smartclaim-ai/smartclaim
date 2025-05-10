@@ -1,0 +1,63 @@
+Claims by Brand for GUARANTEE FAILURES (Top 15 in plot)
+
+      VEHICLE_BRAND  NUMBER_OF_CLAIMS
+12             FIAT               299
+51       VOLKSWAGEN               233
+28         MERCEDES               194
+2              AUDI               192
+3               BMW               192
+49           TOYOTA               153
+13             FORD               142
+20             JEEP                84
+36             OPEL                83
+37          PEUGEOT                78
+40          RENAULT                76
+1        ALFA ROMEO                67
+15          HYUNDAI                64
+23           LANCIA                57
+32             MINI                54
+47           SUZUKI                50
+53            VOLVO                49
+21              KIA                49
+5           CITROEN                48
+35           NISSAN                42
+24       LAND ROVER                41
+7             DACIA                38
+38          PORSCHE                34
+27            MAZDA                30
+44            SMART                22
+25            LEXUS                20
+43            SKODA                19
+19           JAGUAR                18
+46           SUBARU                17
+41             SEAT                15
+33       MITSUBISHI                10
+0            ABARTH                10
+14            HONDA                 9
+48            TESLA                 8
+26         MASERATI                 8
+31               MG                 7
+45        SSANGYONG                 5
+16         INFINITI                 5
+10               DR                 4
+6             CUPRA                 3
+11               DS                 3
+50          Unknown                 3
+17            ISUZU                 2
+18            IVECO                 2
+4         CHEVROLET                 2
+55             fiat                 1
+52        VOLSWAGEN                 1
+57            iveco                 1
+58         mercedes                 1
+56             ford                 1
+54             audi                 1
+30    MERCEDES-BENZ                 1
+42    SEMIRIMORCHIO                 1
+39              RAM                 1
+34  MITSUBISHI FUSO                 1
+29  MERCEDES - BENZ                 1
+22      LAMBORGHINI                 1
+9             DODGE                 1
+8          DAIHATSU                 1
+59    mercedes benz                 1

@@ -1,0 +1,79 @@
+Avg Claim Amount by Brand for SOCIOPOLITICAL EVENTS (Top 15 in plot)
+
+       VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+74           peugeot           5057.360000
+75                vw           3825.000000
+35              LAND           3690.000000
+9           CHRYSLER           3360.033333
+70                dr           3251.000000
+11             CUPRA           3232.666667
+64           Unknown           3216.666667
+30             IVECO           3107.500000
+17                DS           3095.982000
+0             ABARTH           3010.354909
+8          CHEVROLET           2869.323529
+28          INFINITI           2859.065000
+52           PORSCHE           2749.668462
+73        land rover           2667.500000
+34            LANCIA           2640.407268
+18              FIAT           2619.442870
+5                BMW           2616.225890
+43              MEGA           2600.000000
+53           RENAULT           2535.107110
+31            JAGUAR           2517.356129
+2         ALFA ROMEO           2516.183196
+71              fiat           2500.000000
+4               AUDI           2489.609748
+1              AIXAM           2485.000000
+55              SEAT           2479.658542
+16                DR           2475.744091
+44          MERCEDES           2466.552935
+40          MAHINDRA           2461.060000
+42             MAZDA           2456.374444
+29             ISUZU           2452.437143
+66             VOLVO           2448.031803
+49            NISSAN           2432.785217
+19              FORD           2426.519569
+65        VOLKSWAGEN           2418.523843
+12             DACIA           2407.810714
+59         SSANGYONG           2402.522857
+32              JEEP           2387.960127
+46              MINI           2376.464091
+48        MITSUBISHI           2336.455833
+36        LAND ROVER           2327.217542
+58             SMART           2302.546321
+41          MASERATI           2283.000000
+51           PEUGEOT           2254.884456
+50              OPEL           2218.487969
+63            TOYOTA           2199.246686
+10           CITROEN           2152.736949
+38            LIGIER           2121.000000
+33               KIA           2116.980465
+26           HYUNDAI           2113.269608
+47          MITSUBIS           2100.000000
+15             DODGE           2096.068000
+45                MG           2058.000000
+60            SUBARU           1991.112000
+20              Fiat           1890.000000
+14   DAIMLERCHRYSLER           1872.000000
+57             SKODA           1856.954000
+27   Harley-Davidson           1838.000000
+61            SUZUKI           1804.070274
+37             LEXUS           1780.600000
+72              ford           1774.000000
+25             HONDA           1766.873784
+13          DAIHATSU           1744.750000
+68             aixam           1700.000000
+39            Ligier           1513.000000
+62             TESLA           1496.665000
+24             HAVAL           1474.873333
+7           CHATENET           1329.780000
+23   HARLEY DAVIDSON           1275.000000
+69           citroen           1050.000000
+67            Yamaha            875.500000
+3            APRILIA            700.000000
+56             SETRA            554.000000
+6           CATERHAM            497.000000
+21              Ford            321.240000
+54           Renault            308.000000
+22  GREAT WALL MOTOR            300.000000

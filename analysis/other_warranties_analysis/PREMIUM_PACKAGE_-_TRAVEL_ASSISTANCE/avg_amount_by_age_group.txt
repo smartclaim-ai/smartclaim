@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for PREMIUM PACKAGE - TRAVEL ASSISTANCE
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25                   NaN
+1     26-35                   NaN
+2     36-45            192.670000
+3     46-55            137.131429
+4     56-65            151.073636
+5       65+            202.619231

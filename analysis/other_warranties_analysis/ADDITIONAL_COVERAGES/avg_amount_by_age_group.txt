@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for ADDITIONAL COVERAGES
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25            222.981667
+1     26-35            303.478478
+2     36-45            292.666711
+3     46-55            289.988738
+4     56-65            304.674014
+5       65+            280.804493

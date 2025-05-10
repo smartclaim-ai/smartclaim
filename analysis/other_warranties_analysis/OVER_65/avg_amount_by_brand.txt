@@ -1,0 +1,33 @@
+Avg Claim Amount by Brand for OVER 65 (Top 15 in plot)
+
+   VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+26        SUZUKI            500.230000
+1     ALFA ROMEO            391.092500
+7          DACIA            293.217500
+8         DAEWOO            260.000000
+15    LAND ROVER            232.783333
+20       PORSCHE            221.135000
+2           AUDI            212.734286
+17        NISSAN            210.796000
+10          FORD            193.409000
+9           FIAT            188.837000
+24         SMART            185.570000
+28    VOLKSWAGEN            185.214167
+21       RENAULT            184.417000
+12        JAGUAR            181.830000
+16      MERCEDES            180.215000
+25        SUBARU            178.430000
+11       HYUNDAI            175.090000
+19       PEUGEOT            168.582500
+6        CITROEN            168.100000
+14        LANCIA            160.723333
+18          OPEL            159.866667
+3            BMW            156.320000
+27        TOYOTA            154.429000
+13           KIA            151.120000
+23          SEAT            142.250000
+4      CHEVROLET            135.180000
+5       CHRYSLER            123.130000
+0         ABARTH            122.610000
+22          SAAB            110.920000
+29        toyota            110.240000

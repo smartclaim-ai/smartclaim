@@ -1,0 +1,37 @@
+Claims by Brand for POLE POSITION ASSISTANCE (Top 15 in plot)
+
+   VEHICLE_BRAND  NUMBER_OF_CLAIMS
+8           FIAT                75
+33    VOLKSWAGEN                37
+9           FORD                32
+19      MERCEDES                26
+16        LANCIA                24
+26       RENAULT                23
+1     ALFA ROMEO                23
+2           AUDI                22
+5        CITROEN                18
+3            BMW                15
+32        TOYOTA                15
+24       PEUGEOT                15
+29         SMART                14
+13          JEEP                14
+22        NISSAN                12
+11       HYUNDAI                11
+23          OPEL                10
+20          MINI                 9
+17    LAND ROVER                 5
+4      CHEVROLET                 4
+18         MAZDA                 3
+14           KIA                 3
+7          DACIA                 3
+27          SEAT                 3
+28         SKODA                 3
+0         ABARTH                 3
+12        JAGUAR                 2
+10         HONDA                 2
+25       PORSCHE                 2
+6          CUPRA                 2
+15          LADA                 1
+21    MITSUBISHI                 1
+30        SUBARU                 1
+31        SUZUKI                 1

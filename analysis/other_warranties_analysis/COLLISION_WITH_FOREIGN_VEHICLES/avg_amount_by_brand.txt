@@ -1,0 +1,28 @@
+Avg Claim Amount by Brand for COLLISION WITH FOREIGN VEHICLES (Top 15 in plot)
+
+   VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+13      MERCEDES           3198.190000
+20        SUZUKI           3093.350000
+9        HYUNDAI           2570.675000
+11           KIA           2438.500000
+2            BMW           2395.705000
+0     ALFA ROMEO           2300.000000
+1           AUDI           2034.666667
+21        TOYOTA           2005.000000
+23    VOLKSWAGEN           1970.071000
+14          OPEL           1875.000000
+6           FIAT           1650.889333
+3        CITROEN           1628.246667
+15       PEUGEOT           1518.856667
+4          DACIA           1500.000000
+22       Unknown           1500.000000
+19         SKODA           1328.000000
+10          JEEP           1291.190000
+18         ROVER           1080.000000
+8          HONDA           1061.840000
+7           FORD           1010.682500
+12        LANCIA            894.700000
+17       RENAULT            768.425000
+5             DR            704.000000
+16       PORSCHE            400.000000
+24         VOLVO            256.000000

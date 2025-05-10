@@ -1,0 +1,22 @@
+Avg Claim Amount by Region for GREEN LINE (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+0                 ABRUZZO            474.676000
+2                CALABRIA            292.150000
+1              BASILICATA            267.090000
+7                 LIGURIA            236.315714
+16                 UMBRIA            232.811667
+9                  MARCHE            209.493529
+5   FRIULI VENEZIA GIULIA            205.470000
+8               LOMBARDIA            203.411818
+14                TOSCANA            202.478169
+10               PIEMONTE            200.096172
+3                CAMPANIA            186.121780
+11                 PUGLIA            185.541622
+6                   LAZIO            184.205254
+12               SARDEGNA            181.507333
+4          EMILIA ROMAGNA            172.059510
+17                Unknown            162.090000
+18                 VENETO            161.760513
+13                SICILIA            160.461667
+15    TRENTINO ALTO ADIGE            147.122000

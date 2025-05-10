@@ -1,0 +1,33 @@
+Claims by Brand for OVER 65 (Top 15 in plot)
+
+   VEHICLE_BRAND  NUMBER_OF_CLAIMS
+9           FIAT                40
+10          FORD                20
+28    VOLKSWAGEN                12
+21       RENAULT                10
+27        TOYOTA                10
+18          OPEL                 9
+11       HYUNDAI                 8
+2           AUDI                 7
+14        LANCIA                 6
+16      MERCEDES                 6
+6        CITROEN                 5
+17        NISSAN                 5
+19       PEUGEOT                 4
+1     ALFA ROMEO                 4
+24         SMART                 4
+7          DACIA                 4
+3            BMW                 4
+15    LAND ROVER                 3
+13           KIA                 2
+20       PORSCHE                 2
+25        SUBARU                 1
+23          SEAT                 1
+26        SUZUKI                 1
+0         ABARTH                 1
+22          SAAB                 1
+12        JAGUAR                 1
+8         DAEWOO                 1
+5       CHRYSLER                 1
+4      CHEVROLET                 1
+29        toyota                 1

@@ -1,0 +1,5 @@
+Claims by Brand for CIVIL LIABILITY FOR NON-COMMERCIAL VEHICLES (Top 15 in plot)
+
+                                        VEHICLE_BRAND  NUMBER_OF_CLAIMS
+0                                             Unknown               137
+1  ||||||||||||||||||||||||||||||||||||||||||||||||||                 1

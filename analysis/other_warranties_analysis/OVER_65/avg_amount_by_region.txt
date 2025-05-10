@@ -1,0 +1,19 @@
+Avg Claim Amount by Region for OVER 65 (Top 15 in plot)
+
+             CLAIM_REGION  AVERAGE_CLAIM_AMOUNT
+4   FRIULI VENEZIA GIULIA            407.490000
+5                   LAZIO            230.964286
+3          EMILIA ROMAGNA            223.506250
+6                 LIGURIA            212.973846
+10                 PUGLIA            195.924444
+2                CAMPANIA            195.311875
+0                 ABRUZZO            187.826667
+7               LOMBARDIA            182.034167
+12                SICILIA            179.622222
+1                CALABRIA            178.607500
+9                PIEMONTE            174.962500
+11               SARDEGNA            170.675600
+13                TOSCANA            165.938182
+15                 VENETO            151.216667
+14                 UMBRIA            130.550000
+8                  MARCHE            107.040000

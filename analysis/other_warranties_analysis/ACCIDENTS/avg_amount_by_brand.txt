@@ -1,0 +1,40 @@
+Avg Claim Amount by Brand for ACCIDENTS (Top 15 in plot)
+
+    VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+35         YAMAHA           7350.000000
+2         Aprilia           6415.260000
+9          Ducati           3889.000000
+16          Honda           3694.755000
+21          Kymco           3500.000000
+31         SUZUKI           3172.890000
+5             BMW           3098.000000
+27        Piaggio           2718.000000
+25           OPEL           2652.925000
+4            BETA           2400.000000
+14          HONDA           2342.250000
+29          SKODA           2325.000000
+13  GRECAV S.p.A.           2130.000000
+12           FORD           2011.520000
+24         NISSAN           1960.000000
+23       MERCEDES           1938.000000
+3         BENELLI           1462.000000
+33         TOYOTA           1409.500000
+34     VOLKSWAGEN           1291.000000
+18            KIA           1250.000000
+8         CITROEN           1210.500000
+36         Yamaha           1200.000000
+6         Benelli           1000.000000
+11           FIAT            848.875000
+22         LANCIA            823.333333
+17       KAWASAKI            800.000000
+15        HYUNDAI            800.000000
+1            AUDI            727.146667
+0      ALFA ROMEO            700.000000
+28        RENAULT            649.652500
+19          KYMCO            500.000000
+10   FANTIC MOTOR            447.000000
+30          SMART            429.000000
+7            Beta            400.000000
+26        PIAGGIO            355.000000
+32         Suzuki            352.000000
+20       Kawasaki            280.000000

@@ -1,0 +1,113 @@
+Avg Claim Amount by Brand for THEFT (Top 15 in plot)
+
+       VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+106              bmw           8440.000000
+107             ford           8100.000000
+95           TAZZARI           7740.000000
+9            BELLIER           6000.000000
+4              AIXMA           6000.000000
+71        MOTO GUZZI           5830.000000
+98           Triumph           5600.000000
+18         CHEVROLET           5316.666667
+104           Yamaha           5092.500000
+51               KTM           5039.500000
+36   HARLEY-DAVIDSON           4654.136364
+26            Ducati           4600.000000
+14          CASALINI           4462.500000
+38         HUSQVARNA           4462.000000
+68              MINI           4432.456818
+87           SILENCE           4260.000000
+25            DUCATI           4182.333333
+97           TRIUMPH           4129.230769
+43             IVECO           4010.200000
+39           HYUNDAI           3897.455909
+55              LADA           3750.000000
+103           YAMAHA           3262.943529
+7               AUDI           3261.286234
+13          CARTHAGO           3206.000000
+70              MOTO           3145.000000
+99        VOLKSWAGEN           3001.592115
+27      FANTIC MOTOR           2800.000000
+11               BMW           2768.515285
+102     WOTTAN MOTOR           2700.000000
+5         ALFA ROMEO           2699.640000
+56            LANCIA           2683.386591
+90         SSANGYONG           2670.000000
+6            APRILIA           2653.333333
+83           RENAULT           2636.349831
+20           CITROEN           2575.593333
+30              FIAT           2567.269939
+67          MERCEDES           2451.554078
+77              OPEL           2430.569032
+65                ME           2400.000000
+2              AIXAM           2394.768361
+76            NISSAN           2336.646216
+17          CHATENET           2313.075000
+50             KLAAS           2310.000000
+86              SEAT           2264.112500
+29            FGM 37           2240.000000
+0             ABARTH           2213.170952
+96            TOYOTA           2191.554074
+94               Sym           2150.000000
+45              JEEP           2119.761562
+37             HONDA           2118.516385
+57        LAND ROVER           2117.808000
+31              FORD           1929.220658
+46            KEEWAY           1800.000000
+60            LIGIER           1778.780317
+59             LIGER           1771.050000
+101             Voge           1750.000000
+40             Honda           1658.058824
+93               SYM           1645.750000
+89             SMART           1604.980280
+92            SUZUKI           1571.049231
+42     INTERNATIONAL           1570.000000
+91            SUBARU           1526.000000
+100            VOLVO           1506.835000
+81           Peugeot           1440.000000
+80           PORSCHE           1413.595000
+78           PEUGEOT           1375.648400
+74        Moto Guzzi           1350.000000
+79           PIAGGIO           1342.268125
+88             SKODA           1279.333333
+44            JAGUAR           1272.575000
+24                DS           1230.333333
+52             KYMCO           1221.280909
+1              ADRIA           1186.000000
+82           Piaggio           1175.000000
+32      FORD TRANSIT           1153.000000
+47               KIA           1130.396667
+28         FD MOTORS           1050.000000
+16          CHATANET           1000.000000
+3         AIXAM MEGA           1000.000000
+54             Kymco            931.333333
+63          MASERATI            900.000000
+84             RIEJU            888.200000
+35   HARLEY DAVIDSON            876.770000
+109           ligier            829.952222
+108            honda            800.000000
+22             DACIA            792.044872
+105            aixam            775.000000
+10           BENELLI            752.300000
+58             LEXUS            731.925000
+64             MAZDA            702.525714
+72         MV Agusta            700.000000
+62            Ligier            671.000000
+75       NEW HOLLAND            640.000000
+12           Benelli            620.000000
+8            Aprilia            604.000000
+19          CHRYSLER            602.745000
+85           RIVIERA            581.700000
+48             KIMCO            560.000000
+15            CFMOTO            560.000000
+41           Hyundai            542.000000
+69        MITSUBISHI            500.000000
+53          Kawasaki            400.000000
+23                DR            331.500000
+73          Mercedes            326.000000
+21   CRESCI RIMORCHI            280.000000
+66              MEGA            265.000000
+61               LML            250.000000
+33            GILERA            200.000000
+49             KIMKO            100.000000
+34            GIOTTI            100.000000

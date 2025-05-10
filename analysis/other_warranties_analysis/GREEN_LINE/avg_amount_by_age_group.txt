@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for GREEN LINE
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25            204.283333
+1     26-35            185.020241
+2     36-45            191.509636
+3     46-55            184.614715
+4     56-65            198.559152
+5       65+            174.348571

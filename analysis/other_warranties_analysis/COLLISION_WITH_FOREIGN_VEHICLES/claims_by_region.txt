@@ -1,0 +1,13 @@
+Claims by Region for COLLISION WITH FOREIGN VEHICLES (Top 15 in plot)
+
+            CLAIM_REGION  NUMBER_OF_CLAIMS
+2  FRIULI VENEZIA GIULIA                17
+9                 VENETO                14
+0               CAMPANIA                13
+5               PIEMONTE                 9
+3                LIGURIA                 7
+4              LOMBARDIA                 7
+1         EMILIA ROMAGNA                 4
+7                TOSCANA                 2
+6               SARDEGNA                 1
+8          VALLE D'AOSTA                 1

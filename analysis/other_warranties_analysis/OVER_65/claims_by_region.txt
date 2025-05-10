@@ -1,0 +1,19 @@
+Claims by Region for OVER 65 (Top 15 in plot)
+
+             CLAIM_REGION  NUMBER_OF_CLAIMS
+11               SARDEGNA                25
+7               LOMBARDIA                24
+9                PIEMONTE                20
+2                CAMPANIA                16
+3          EMILIA ROMAGNA                16
+5                   LAZIO                14
+6                 LIGURIA                13
+13                TOSCANA                11
+10                 PUGLIA                 9
+12                SICILIA                 9
+15                 VENETO                 6
+1                CALABRIA                 4
+0                 ABRUZZO                 3
+4   FRIULI VENEZIA GIULIA                 2
+8                  MARCHE                 2
+14                 UMBRIA                 1

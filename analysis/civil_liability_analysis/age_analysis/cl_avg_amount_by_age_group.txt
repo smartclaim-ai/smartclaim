@@ -1,0 +1,9 @@
+Average Civil Liability Claim Amount by Age Group
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25           2124.271995
+1     26-35           2134.821064
+2     36-45           2086.983478
+3     46-55           2050.120694
+4     56-65           2017.989430
+5       65+           2003.320480

@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for DRIVER ACCIDENTS - MEDICAL EXPENSES
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25           2797.000000
+1     26-35           1599.800000
+2     36-45           3722.000000
+3     46-55           1604.242222
+4     56-65           1289.669231
+5       65+           2021.142857

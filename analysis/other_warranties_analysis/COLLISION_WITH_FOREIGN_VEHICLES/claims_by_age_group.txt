@@ -1,0 +1,9 @@
+Claims by Age Group for COLLISION WITH FOREIGN VEHICLES
+
+  AGE_GROUP  NUMBER_OF_CLAIMS
+0     18-25                 1
+1     26-35                 7
+2     36-45                13
+3     46-55                10
+4     56-65                18
+5       65+                26

@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for VEHICLE FIRE
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25                   NaN
+1     26-35           4300.142857
+2     36-45           4882.874000
+3     46-55           4633.544286
+4     56-65           4981.889259
+5       65+           4054.161333

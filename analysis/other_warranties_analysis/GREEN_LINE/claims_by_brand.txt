@@ -1,0 +1,42 @@
+Claims by Brand for GREEN LINE (Top 15 in plot)
+
+       VEHICLE_BRAND  NUMBER_OF_CLAIMS
+9               FIAT               316
+24              OPEL                94
+10              FORD                81
+18            LANCIA                65
+37        VOLKSWAGEN                57
+5              DACIA                53
+25           PEUGEOT                45
+27           RENAULT                44
+3          CHEVROLET                34
+4            CITROEN                33
+13           HYUNDAI                31
+29              SEAT                21
+0         ALFA ROMEO                18
+33            SUZUKI                18
+16               KIA                15
+30             SKODA                13
+23            NISSAN                12
+36            TOYOTA                10
+20          MERCEDES                10
+7                 DR                 6
+1               AUDI                 6
+2                BMW                 4
+22        MITSUBISHI                 4
+31         SSANGYONG                 3
+38             VOLVO                 3
+21              MINI                 3
+12             HONDA                 3
+15              JEEP                 2
+11  GREAT WALL MOTOR                 2
+19             MAZDA                 2
+26           PORSCHE                 1
+17              LADA                 1
+28             ROVER                 1
+14            JAGUAR                 1
+32            SUBARU                 1
+34            SUZUKY                 1
+35              TATA                 1
+8                EVO                 1
+6            DAIMLER                 1

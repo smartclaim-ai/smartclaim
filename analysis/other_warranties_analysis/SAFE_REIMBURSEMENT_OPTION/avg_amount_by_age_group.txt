@@ -1,0 +1,9 @@
+Avg Claim Amount by Age Group for SAFE REIMBURSEMENT OPTION
+
+  AGE_GROUP  AVERAGE_CLAIM_AMOUNT
+0     18-25                   NaN
+1     26-35           2633.633750
+2     36-45           2290.838252
+3     46-55           2127.579662
+4     56-65           2286.173594
+5       65+           1901.748260

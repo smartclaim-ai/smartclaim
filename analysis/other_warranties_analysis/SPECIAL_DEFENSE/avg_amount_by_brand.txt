@@ -1,0 +1,17 @@
+Avg Claim Amount by Brand for SPECIAL DEFENSE (Top 15 in plot)
+
+   VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+5        HYUNDAI           4450.000000
+10       PEUGEOT           3632.000000
+7       MERCEDES           2793.935000
+1            BMW           2516.942500
+9           OPEL           2308.000000
+2          DACIA           2050.770000
+13    VOLKSWAGEN           1935.000000
+3           FIAT           1484.746000
+11       RENAULT           1461.333333
+12        TOYOTA            918.455000
+4           FORD            820.000000
+6          MAZDA            624.080000
+0           AUDI            430.000000
+8         NISSAN            285.000000

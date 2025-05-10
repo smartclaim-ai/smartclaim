@@ -1,0 +1,20 @@
+Claims by Region for DRIVER ACCIDENTS - PERMANENT DISABILITY (Top 15 in plot)
+
+      CLAIM_REGION  NUMBER_OF_CLAIMS
+7        LOMBARDIA                15
+4   EMILIA ROMAGNA                 9
+12         SICILIA                 8
+16          VENETO                 7
+2         CALABRIA                 7
+10          PUGLIA                 6
+13         TOSCANA                 6
+5            LAZIO                 6
+11        SARDEGNA                 4
+0          ABRUZZO                 3
+1       BASILICATA                 3
+6          LIGURIA                 3
+3         CAMPANIA                 3
+9         PIEMONTE                 2
+14          UMBRIA                 2
+8           MARCHE                 2
+15         Unknown                 1

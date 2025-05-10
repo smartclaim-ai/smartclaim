@@ -1,0 +1,14 @@
+Avg Claim Amount by Brand for BUSINESS (Top 15 in plot)
+
+   VEHICLE_BRAND  AVERAGE_CLAIM_AMOUNT
+2          DACIA            287.730000
+0           AUDI            260.000000
+1        CITROEN            214.177500
+4           FORD            211.955000
+8         NISSAN            191.845000
+5        HYUNDAI            181.260000
+10          fiat            178.430000
+7       MERCEDES            174.135000
+3           FIAT            144.261667
+6          IVECO            124.830000
+9        PEUGEOT            109.560000
