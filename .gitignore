@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.so
+
+# Virtual Environment
+venv/
+.*/venv/
+ENV/
+*/ENV/
+env/
+*/env/
+.env
+.*/.env
+
+# Build artifacts
+build/
+dist/
+*.tar.gz
+*.zip
+
+# Analysis output directory
+analysis/
+
+# Data files (Uncomment if you want to ignore data files)
+# data/
+# *.csv
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+
+# Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+logs/
+*.log
+
+# Test outputs
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/ 
