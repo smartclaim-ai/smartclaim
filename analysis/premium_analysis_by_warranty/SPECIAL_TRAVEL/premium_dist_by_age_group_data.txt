@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for SPECIAL TRAVEL
+
+           count   mean  std    min    max  nunique
+AGE_GROUP                                          
+18-25          5  23.31  0.0  23.31  23.31        1
+26-35         55  23.31  0.0  23.31  23.31        1
+36-45        683  23.31  0.0  23.31  23.31        1
+46-55       1157  23.31  0.0  23.31  23.31        1
+56-65       1138  23.31  0.0  23.31  23.31        1
+65+          721  23.31  0.0  23.31  23.31        1

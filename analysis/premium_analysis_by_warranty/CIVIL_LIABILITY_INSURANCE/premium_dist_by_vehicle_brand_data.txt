@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for CIVIL LIABILITY INSURANCE
+
+               count   mean  std    min    max  nunique
+VEHICLE_BRAND                                          
+ALFA ROMEO      2807  393.2  0.0  393.2  393.2        1
+AUDI            4966  393.2  0.0  393.2  393.2        1
+BMW             3866  393.2  0.0  393.2  393.2        1
+CITROEN         5127  393.2  0.0  393.2  393.2        1
+FIAT           31088  393.2  0.0  393.2  393.2        1
+FORD            8944  393.2  0.0  393.2  393.2        1
+LANCIA          5792  393.2  0.0  393.2  393.2        1
+NISSAN          3336  393.2  0.0  393.2  393.2        1
+OPEL            6098  393.2  0.0  393.2  393.2        1
+PEUGEOT         5295  393.2  0.0  393.2  393.2        1
+RENAULT         6663  393.2  0.0  393.2  393.2        1
+TOYOTA          6052  393.2  0.0  393.2  393.2        1
+VOLKSWAGEN      9291  393.2  0.0  393.2  393.2        1
+DACIA           2688  393.2  0.0  393.2  393.2        1
+MERCEDES        5471  393.2  0.0  393.2  393.2        1

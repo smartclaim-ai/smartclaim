@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for VEHICLE FIRE
+
+               count   mean  std    min    max  nunique
+VEHICLE_BRAND                                          
+AIXAM              2  29.34  0.0  29.34  29.34        1
+BMW                4  29.34  0.0  29.34  29.34        1
+CITROEN            3  29.34  0.0  29.34  29.34        1
+FIAT              15  29.34  0.0  29.34  29.34        1
+FORD               6  29.34  0.0  29.34  29.34        1
+HONDA              4  29.34  0.0  29.34  29.34        1
+IVECO              4  29.34  0.0  29.34  29.34        1
+LAND ROVER         3  29.34  0.0  29.34  29.34        1
+MERCEDES           4  29.34  0.0  29.34  29.34        1
+MINI               3  29.34  0.0  29.34  29.34        1
+NISSAN             3  29.34  0.0  29.34  29.34        1
+OPEL               4  29.34  0.0  29.34  29.34        1
+RENAULT            4  29.34  0.0  29.34  29.34        1
+SMART              4  29.34  0.0  29.34  29.34        1
+AUDI               5  29.34  0.0  29.34  29.34        1

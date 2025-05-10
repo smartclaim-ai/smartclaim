@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for ADDITIONAL COVERAGES
+
+               count   mean  std    min    max  nunique
+VEHICLE_BRAND                                          
+BMW               20  13.08  0.0  13.08  13.08        1
+LANCIA            20  13.08  0.0  13.08  13.08        1
+OPEL              20  13.08  0.0  13.08  13.08        1
+ALFA ROMEO        14  13.08  0.0  13.08  13.08        1
+AUDI              17  13.08  0.0  13.08  13.08        1
+CITROEN           24  13.08  0.0  13.08  13.08        1
+FIAT             155  13.08  0.0  13.08  13.08        1
+FORD              33  13.08  0.0  13.08  13.08        1
+HYUNDAI           13  13.08  0.0  13.08  13.08        1
+JEEP              13  13.08  0.0  13.08  13.08        1
+MERCEDES          22  13.08  0.0  13.08  13.08        1
+PEUGEOT           11  13.08  0.0  13.08  13.08        1
+RENAULT           27  13.08  0.0  13.08  13.08        1
+TOYOTA            14  13.08  0.0  13.08  13.08        1
+VOLKSWAGEN        23  13.08  0.0  13.08  13.08        1

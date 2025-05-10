@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for TRAVEL ASSISTANCE
+
+           count   mean  std    min    max  nunique
+AGE_GROUP                                          
+18-25        341  32.21  0.0  32.21  32.21        1
+26-35       2633  32.21  0.0  32.21  32.21        1
+36-45       4413  32.21  0.0  32.21  32.21        1
+46-55       6499  32.21  0.0  32.21  32.21        1
+56-65       7179  32.21  0.0  32.21  32.21        1
+65+         6253  32.21  0.0  32.21  32.21        1

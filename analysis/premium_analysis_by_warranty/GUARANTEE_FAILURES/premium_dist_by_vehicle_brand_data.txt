@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for GUARANTEE FAILURES
+
+               count    mean  std     min     max  nunique
+VEHICLE_BRAND                                             
+FIAT             299  454.48  0.0  454.48  454.48        1
+MERCEDES         194  454.48  0.0  454.48  454.48        1
+VOLKSWAGEN       233  454.48  0.0  454.48  454.48        1
+ALFA ROMEO        67  454.48  0.0  454.48  454.48        1
+AUDI             192  454.48  0.0  454.48  454.48        1
+BMW              192  454.48  0.0  454.48  454.48        1
+FORD             142  454.48  0.0  454.48  454.48        1
+HYUNDAI           64  454.48  0.0  454.48  454.48        1
+JEEP              84  454.48  0.0  454.48  454.48        1
+LANCIA            57  454.48  0.0  454.48  454.48        1
+MINI              54  454.48  0.0  454.48  454.48        1
+OPEL              83  454.48  0.0  454.48  454.48        1
+PEUGEOT           78  454.48  0.0  454.48  454.48        1
+RENAULT           76  454.48  0.0  454.48  454.48        1
+TOYOTA           153  454.48  0.0  454.48  454.48        1

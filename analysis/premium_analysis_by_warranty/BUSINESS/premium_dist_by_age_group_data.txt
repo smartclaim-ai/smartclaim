@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for BUSINESS
+
+           count   mean  std    min    max  nunique
+AGE_GROUP                                          
+18-25          1  29.79  NaN  29.79  29.79        1
+26-35          1  29.79  NaN  29.79  29.79        1
+36-45          1  29.79  NaN  29.79  29.79        1
+46-55         12  29.79  0.0  29.79  29.79        1
+56-65         12  29.79  0.0  29.79  29.79        1
+65+            3  29.79  0.0  29.79  29.79        1

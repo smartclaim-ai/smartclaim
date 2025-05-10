@@ -46,6 +46,9 @@ overall_output_dir = os.path.join(base_output_dir, "overall_analysis")
 overall_age_dir = os.path.join(overall_output_dir, "age_analysis")
 overall_brand_dir = os.path.join(overall_output_dir, "vehicle_brand_analysis")
 overall_geo_dir = os.path.join(overall_output_dir, "geographical_analysis")
+premium_analysis_by_warranty_dir = os.path.join(
+    base_output_dir, "premium_analysis_by_warranty"
+)
 
 for path_dir in [
     base_output_dir,
@@ -60,6 +63,7 @@ for path_dir in [
     overall_age_dir,
     overall_brand_dir,
     overall_geo_dir,
+    premium_analysis_by_warranty_dir,
 ]:
     os.makedirs(path_dir, exist_ok=True)
 print(f"Base output directory structure created under '{base_output_dir}'.")
@@ -866,6 +870,116 @@ try:
     print(
         "\nScript finished successfully. All outputs saved to structured subdirectories in 'analysis' directory."
     )
+
+    # --- Premium Analysis by Warranty (Age & Brand Correlation) ---
+    print("\n\n--- Premium Analysis: Age & Vehicle Brand Correlations by Warranty ---")
+    all_warranty_types_for_premium = df["WARRANTY"].unique()
+
+    for warranty_name in all_warranty_types_for_premium:
+        print(f"\n-- Analyzing Premiums for Warranty: {warranty_name} --")
+        warranty_df = df[df["WARRANTY"] == warranty_name].copy()
+        num_claims = len(warranty_df)
+
+        if num_claims < MIN_CLAIMS_FOR_DETAILED_WARRANTY_ANALYSIS:
+            print(
+                f"Skipping premium analysis for {warranty_name} due to insufficient claims (less than {MIN_CLAIMS_FOR_DETAILED_WARRANTY_ANALYSIS})."
+            )
+            continue
+
+        current_warranty_premium_dir = os.path.join(
+            premium_analysis_by_warranty_dir, sanitize_filename(warranty_name)
+        )
+        os.makedirs(current_warranty_premium_dir, exist_ok=True)
+
+        # 1. Age Group vs. Premium
+        warranty_df.loc[:, "AGE_GROUP"] = pd.cut(
+            warranty_df["POLICYHOLDER_AGE"],
+            bins=age_bins,
+            labels=age_labels,
+            right=False,
+        )
+
+        age_premium_stats = warranty_df.groupby("AGE_GROUP", observed=False)[
+            "PREMIUM_AMOUNT_PAID"
+        ].agg(["count", "mean", "std", "min", "max", "nunique"])
+
+        if not age_premium_stats.empty:
+            save_df_to_txt(
+                age_premium_stats,
+                os.path.join(
+                    current_warranty_premium_dir, "premium_dist_by_age_group_data.txt"
+                ),
+                f"Premium Amount Distribution by Age Group for {warranty_name}",
+            )
+            fig_age_prem = plt.figure(figsize=(12, 7))
+            sns.boxplot(
+                x="AGE_GROUP",
+                y="PREMIUM_AMOUNT_PAID",
+                data=warranty_df,
+                palette="pastel",
+                ax=fig_age_prem.gca(),
+            )
+            fig_age_prem.gca().set_title(
+                f"Premium Distribution by Age Group - {warranty_name}"
+            )
+            plt.tight_layout()
+            save_plot(
+                fig_age_prem,
+                os.path.join(
+                    current_warranty_premium_dir, "premium_dist_by_age_group.png"
+                ),
+            )
+        else:
+            print(f"No data for age vs premium analysis for {warranty_name}")
+
+        # 2. Vehicle Brand vs. Premium
+        # For Vehicle Brand, let's focus on brands with a reasonable number of claims for this warranty
+        brand_counts_for_warranty = warranty_df["VEHICLE_BRAND"].value_counts()
+        top_brands_for_warranty = brand_counts_for_warranty.nlargest(
+            TOP_N_DEFAULT
+        ).index
+
+        warranty_df_top_brands = warranty_df[
+            warranty_df["VEHICLE_BRAND"].isin(top_brands_for_warranty)
+        ]
+
+        if not warranty_df_top_brands.empty:
+            brand_premium_stats = warranty_df_top_brands.groupby("VEHICLE_BRAND")[
+                "PREMIUM_AMOUNT_PAID"
+            ].agg(["count", "mean", "std", "min", "max", "nunique"])
+
+            save_df_to_txt(
+                brand_premium_stats.sort_values(
+                    by="mean", ascending=False
+                ),  # Sort by mean premium for readability
+                os.path.join(
+                    current_warranty_premium_dir,
+                    "premium_dist_by_vehicle_brand_data.txt",
+                ),
+                f"Premium Amount Distribution by Top {TOP_N_DEFAULT} Vehicle Brands for {warranty_name}",
+            )
+            fig_brand_prem = plt.figure(figsize=(14, 8))
+            sns.boxplot(
+                x="PREMIUM_AMOUNT_PAID",
+                y="VEHICLE_BRAND",
+                data=warranty_df_top_brands,
+                palette="pastel",
+                orient="h",
+                order=top_brands_for_warranty,
+                ax=fig_brand_prem.gca(),
+            )
+            fig_brand_prem.gca().set_title(
+                f"Premium Distribution by Top Vehicle Brands - {warranty_name}"
+            )
+            plt.tight_layout()
+            save_plot(
+                fig_brand_prem,
+                os.path.join(
+                    current_warranty_premium_dir, "premium_dist_by_vehicle_brand.png"
+                ),
+            )
+        else:
+            print(f"No data for brand vs premium analysis for {warranty_name}")
 
 except FileNotFoundError:
     print(f"Error: 'data/data.csv' not found. Make sure the file path is correct.")

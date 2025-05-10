@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for SAFE REIMBURSEMENT OPTION
+
+               count    mean  std     min     max  nunique
+VEHICLE_BRAND                                             
+MERCEDES          40  106.69  0.0  106.69  106.69        1
+VOLKSWAGEN        94  106.69  0.0  106.69  106.69        1
+AUDI              38  106.69  0.0  106.69  106.69        1
+CITROEN           46  106.69  0.0  106.69  106.69        1
+DACIA             38  106.69  0.0  106.69  106.69        1
+FIAT             169  106.69  0.0  106.69  106.69        1
+FORD              59  106.69  0.0  106.69  106.69        1
+LANCIA            38  106.69  0.0  106.69  106.69        1
+NISSAN            34  106.69  0.0  106.69  106.69        1
+OPEL              52  106.69  0.0  106.69  106.69        1
+PEUGEOT           53  106.69  0.0  106.69  106.69        1
+SUZUKI            37  106.69  0.0  106.69  106.69        1
+TOYOTA            62  106.69  0.0  106.69  106.69        1
+JEEP              42  106.69  0.0  106.69  106.69        1
+RENAULT           49  106.69  0.0  106.69  106.69        1

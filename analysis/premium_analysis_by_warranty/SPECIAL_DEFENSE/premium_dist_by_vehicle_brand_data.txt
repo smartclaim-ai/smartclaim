@@ -1,0 +1,18 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for SPECIAL DEFENSE
+
+               count   mean  std    min    max  nunique
+VEHICLE_BRAND                                          
+AUDI               1  19.73  NaN  19.73  19.73        1
+BMW                4  19.73  0.0  19.73  19.73        1
+DACIA              3  19.73  0.0  19.73  19.73        1
+FIAT               5  19.73  0.0  19.73  19.73        1
+FORD               1  19.73  NaN  19.73  19.73        1
+HYUNDAI            1  19.73  NaN  19.73  19.73        1
+MAZDA              1  19.73  NaN  19.73  19.73        1
+MERCEDES           2  19.73  0.0  19.73  19.73        1
+NISSAN             1  19.73  NaN  19.73  19.73        1
+OPEL               3  19.73  0.0  19.73  19.73        1
+PEUGEOT            1  19.73  NaN  19.73  19.73        1
+RENAULT            3  19.73  0.0  19.73  19.73        1
+TOYOTA             4  19.73  0.0  19.73  19.73        1
+VOLKSWAGEN         1  19.73  NaN  19.73  19.73        1

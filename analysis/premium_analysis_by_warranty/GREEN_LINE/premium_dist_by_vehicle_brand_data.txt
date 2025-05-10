@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for GREEN LINE
+
+               count  mean  std   min   max  nunique
+VEHICLE_BRAND                                       
+ALFA ROMEO        18  21.5  0.0  21.5  21.5        1
+CHEVROLET         34  21.5  0.0  21.5  21.5        1
+CITROEN           33  21.5  0.0  21.5  21.5        1
+DACIA             53  21.5  0.0  21.5  21.5        1
+FIAT             316  21.5  0.0  21.5  21.5        1
+FORD              81  21.5  0.0  21.5  21.5        1
+HYUNDAI           31  21.5  0.0  21.5  21.5        1
+KIA               15  21.5  0.0  21.5  21.5        1
+LANCIA            65  21.5  0.0  21.5  21.5        1
+OPEL              94  21.5  0.0  21.5  21.5        1
+PEUGEOT           45  21.5  0.0  21.5  21.5        1
+RENAULT           44  21.5  0.0  21.5  21.5        1
+SEAT              21  21.5  0.0  21.5  21.5        1
+SUZUKI            18  21.5  0.0  21.5  21.5        1
+VOLKSWAGEN        57  21.5  0.0  21.5  21.5        1

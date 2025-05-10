@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for OVER 65
+
+               count   mean  std    min    max  nunique
+VEHICLE_BRAND                                          
+ALFA ROMEO         4  19.61  0.0  19.61  19.61        1
+BMW                4  19.61  0.0  19.61  19.61        1
+CITROEN            5  19.61  0.0  19.61  19.61        1
+FIAT              40  19.61  0.0  19.61  19.61        1
+FORD              20  19.61  0.0  19.61  19.61        1
+HYUNDAI            8  19.61  0.0  19.61  19.61        1
+LANCIA             6  19.61  0.0  19.61  19.61        1
+MERCEDES           6  19.61  0.0  19.61  19.61        1
+NISSAN             5  19.61  0.0  19.61  19.61        1
+OPEL               9  19.61  0.0  19.61  19.61        1
+PEUGEOT            4  19.61  0.0  19.61  19.61        1
+RENAULT           10  19.61  0.0  19.61  19.61        1
+TOYOTA            10  19.61  0.0  19.61  19.61        1
+VOLKSWAGEN        12  19.61  0.0  19.61  19.61        1
+AUDI               7  19.61  0.0  19.61  19.61        1

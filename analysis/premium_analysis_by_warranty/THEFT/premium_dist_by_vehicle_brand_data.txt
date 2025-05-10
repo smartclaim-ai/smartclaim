@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for THEFT
+
+               count    mean  std     min     max  nunique
+VEHICLE_BRAND                                             
+AUDI              77  117.56  0.0  117.56  117.56        1
+SMART            143  117.56  0.0  117.56  117.56        1
+AIXAM             61  117.56  0.0  117.56  117.56        1
+ALFA ROMEO        97  117.56  0.0  117.56  117.56        1
+BMW              123  117.56  0.0  117.56  117.56        1
+FIAT             814  117.56  0.0  117.56  117.56        1
+HONDA            130  117.56  0.0  117.56  117.56        1
+JEEP              96  117.56  0.0  117.56  117.56        1
+LANCIA            88  117.56  0.0  117.56  117.56        1
+LIGIER            63  117.56  0.0  117.56  117.56        1
+MERCEDES         103  117.56  0.0  117.56  117.56        1
+RENAULT           59  117.56  0.0  117.56  117.56        1
+TOYOTA            81  117.56  0.0  117.56  117.56        1
+VOLKSWAGEN       104  117.56  0.0  117.56  117.56        1
+FORD              76  117.56  0.0  117.56  117.56        1

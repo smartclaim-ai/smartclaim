@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for SPECIAL DEFENSE
+
+           count   mean  std    min    max  nunique
+AGE_GROUP                                          
+18-25          0    NaN  NaN    NaN    NaN        0
+26-35          5  19.73  0.0  19.73  19.73        1
+36-45          7  19.73  0.0  19.73  19.73        1
+46-55          3  19.73  0.0  19.73  19.73        1
+56-65          7  19.73  0.0  19.73  19.73        1
+65+            9  19.73  0.0  19.73  19.73        1

@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for COLLISION WITH FOREIGN VEHICLES
+
+           count  mean  std   min   max  nunique
+AGE_GROUP                                       
+18-25          1  3.09  NaN  3.09  3.09        1
+26-35          7  3.09  0.0  3.09  3.09        1
+36-45         13  3.09  0.0  3.09  3.09        1
+46-55         10  3.09  0.0  3.09  3.09        1
+56-65         18  3.09  0.0  3.09  3.09        1
+65+           26  3.09  0.0  3.09  3.09        1

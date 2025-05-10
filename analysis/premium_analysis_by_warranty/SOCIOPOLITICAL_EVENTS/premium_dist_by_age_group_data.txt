@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for SOCIOPOLITICAL EVENTS
+
+           count   mean  std    min    max  nunique
+AGE_GROUP                                          
+18-25         54  94.86  0.0  94.86  94.86        1
+26-35        805  94.86  0.0  94.86  94.86        1
+36-45       1332  94.86  0.0  94.86  94.86        1
+46-55       1356  94.86  0.0  94.86  94.86        1
+56-65       1326  94.86  0.0  94.86  94.86        1
+65+         1155  94.86  0.0  94.86  94.86        1

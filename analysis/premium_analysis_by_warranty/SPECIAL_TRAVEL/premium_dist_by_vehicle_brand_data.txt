@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for SPECIAL TRAVEL
+
+               count   mean  std    min    max  nunique
+VEHICLE_BRAND                                          
+ALFA ROMEO       105  23.31  0.0  23.31  23.31        1
+AUDI             173  23.31  0.0  23.31  23.31        1
+BMW              169  23.31  0.0  23.31  23.31        1
+CITROEN          168  23.31  0.0  23.31  23.31        1
+FIAT             757  23.31  0.0  23.31  23.31        1
+FORD             293  23.31  0.0  23.31  23.31        1
+LANCIA           166  23.31  0.0  23.31  23.31        1
+MERCEDES         193  23.31  0.0  23.31  23.31        1
+MINI             100  23.31  0.0  23.31  23.31        1
+OPEL             217  23.31  0.0  23.31  23.31        1
+PEUGEOT          176  23.31  0.0  23.31  23.31        1
+RENAULT          192  23.31  0.0  23.31  23.31        1
+SMART             95  23.31  0.0  23.31  23.31        1
+TOYOTA            87  23.31  0.0  23.31  23.31        1
+VOLKSWAGEN       231  23.31  0.0  23.31  23.31        1

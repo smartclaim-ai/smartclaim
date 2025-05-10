@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for LEGAL PROTECTION
+
+               count   mean  std    min    max  nunique
+VEHICLE_BRAND                                          
+AUDI              14  27.24  0.0  27.24  27.24        1
+BMW               11  27.24  0.0  27.24  27.24        1
+CITROEN           11  27.24  0.0  27.24  27.24        1
+DACIA              8  27.24  0.0  27.24  27.24        1
+FIAT              34  27.24  0.0  27.24  27.24        1
+FORD              18  27.24  0.0  27.24  27.24        1
+JEEP               4  27.24  0.0  27.24  27.24        1
+LANCIA             7  27.24  0.0  27.24  27.24        1
+MERCEDES           9  27.24  0.0  27.24  27.24        1
+NISSAN             5  27.24  0.0  27.24  27.24        1
+OPEL               3  27.24  0.0  27.24  27.24        1
+RENAULT           11  27.24  0.0  27.24  27.24        1
+TOYOTA            11  27.24  0.0  27.24  27.24        1
+VOLKSWAGEN        19  27.24  0.0  27.24  27.24        1
+VOLVO              5  27.24  0.0  27.24  27.24        1

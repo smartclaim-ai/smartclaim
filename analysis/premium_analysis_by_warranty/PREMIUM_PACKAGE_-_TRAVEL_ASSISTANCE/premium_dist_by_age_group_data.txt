@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for PREMIUM PACKAGE - TRAVEL ASSISTANCE
+
+           count  mean  std   min   max  nunique
+AGE_GROUP                                       
+18-25          0   NaN  NaN   NaN   NaN        0
+26-35          0   NaN  NaN   NaN   NaN        0
+36-45          2  10.0  0.0  10.0  10.0        1
+46-55          7  10.0  0.0  10.0  10.0        1
+56-65         11  10.0  0.0  10.0  10.0        1
+65+           13  10.0  0.0  10.0  10.0        1

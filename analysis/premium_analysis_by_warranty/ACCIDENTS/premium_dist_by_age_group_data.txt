@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for ACCIDENTS
+
+           count   mean  std    min    max  nunique
+AGE_GROUP                                          
+18-25          3  19.08  0.0  19.08  19.08        1
+26-35          9  19.08  0.0  19.08  19.08        1
+36-45          5  19.08  0.0  19.08  19.08        1
+46-55         18  19.08  0.0  19.08  19.08        1
+56-65         26  19.08  0.0  19.08  19.08        1
+65+           13  19.08  0.0  19.08  19.08        1

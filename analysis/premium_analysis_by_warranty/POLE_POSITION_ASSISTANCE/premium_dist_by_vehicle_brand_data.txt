@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for POLE POSITION ASSISTANCE
+
+               count   mean  std    min    max  nunique
+VEHICLE_BRAND                                          
+ALFA ROMEO        23  16.31  0.0  16.31  16.31        1
+AUDI              22  16.31  0.0  16.31  16.31        1
+BMW               15  16.31  0.0  16.31  16.31        1
+CITROEN           18  16.31  0.0  16.31  16.31        1
+FIAT              75  16.31  0.0  16.31  16.31        1
+FORD              32  16.31  0.0  16.31  16.31        1
+JEEP              14  16.31  0.0  16.31  16.31        1
+LANCIA            24  16.31  0.0  16.31  16.31        1
+MERCEDES          26  16.31  0.0  16.31  16.31        1
+NISSAN            12  16.31  0.0  16.31  16.31        1
+PEUGEOT           15  16.31  0.0  16.31  16.31        1
+RENAULT           23  16.31  0.0  16.31  16.31        1
+SMART             14  16.31  0.0  16.31  16.31        1
+TOYOTA            15  16.31  0.0  16.31  16.31        1
+VOLKSWAGEN        37  16.31  0.0  16.31  16.31        1

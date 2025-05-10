@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for GLASSES
+
+               count   mean  std    min    max  nunique
+VEHICLE_BRAND                                          
+AUDI            2275  47.04  0.0  47.04  47.04        1
+BMW             1963  47.04  0.0  47.04  47.04        1
+CITROEN         1297  47.04  0.0  47.04  47.04        1
+FIAT            5709  47.04  0.0  47.04  47.04        1
+FORD            2397  47.04  0.0  47.04  47.04        1
+JEEP            1014  47.04  0.0  47.04  47.04        1
+LANCIA           960  47.04  0.0  47.04  47.04        1
+MERCEDES        2232  47.04  0.0  47.04  47.04        1
+NISSAN           856  47.04  0.0  47.04  47.04        1
+OPEL            1239  47.04  0.0  47.04  47.04        1
+PEUGEOT         1365  47.04  0.0  47.04  47.04        1
+RENAULT         1482  47.04  0.0  47.04  47.04        1
+TOYOTA          1249  47.04  0.0  47.04  47.04        1
+VOLKSWAGEN      3491  47.04  0.0  47.04  47.04        1
+ALFA ROMEO       737  47.04  0.0  47.04  47.04        1

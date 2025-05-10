@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for GUARANTEE FAILURES
+
+           count    mean  std     min     max  nunique
+AGE_GROUP                                             
+18-25         36  454.48  0.0  454.48  454.48        1
+26-35        221  454.48  0.0  454.48  454.48        1
+36-45        292  454.48  0.0  454.48  454.48        1
+46-55        468  454.48  0.0  454.48  454.48        1
+56-65        730  454.48  0.0  454.48  454.48        1
+65+          809  454.48  0.0  454.48  454.48        1

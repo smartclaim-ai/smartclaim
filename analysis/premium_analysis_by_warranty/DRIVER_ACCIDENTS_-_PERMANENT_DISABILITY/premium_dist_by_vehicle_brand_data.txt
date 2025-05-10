@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for DRIVER ACCIDENTS - PERMANENT DISABILITY
+
+                 count   mean  std    min    max  nunique
+VEHICLE_BRAND                                            
+AUDI                 3  17.64  0.0  17.64  17.64        1
+BMW                  4  17.64  0.0  17.64  17.64        1
+FIAT                12  17.64  0.0  17.64  17.64        1
+FORD                 3  17.64  0.0  17.64  17.64        1
+HARLEY DAVIDSON      3  17.64  0.0  17.64  17.64        1
+HARLEY-DAVIDSON      7  17.64  0.0  17.64  17.64        1
+HONDA                4  17.64  0.0  17.64  17.64        1
+LANCIA               5  17.64  0.0  17.64  17.64        1
+MINI                 2  17.64  0.0  17.64  17.64        1
+OPEL                 2  17.64  0.0  17.64  17.64        1
+PEUGEOT              4  17.64  0.0  17.64  17.64        1
+PIAGGIO              2  17.64  0.0  17.64  17.64        1
+RENAULT              4  17.64  0.0  17.64  17.64        1
+VOLKSWAGEN           4  17.64  0.0  17.64  17.64        1
+YAMAHA               2  17.64  0.0  17.64  17.64        1

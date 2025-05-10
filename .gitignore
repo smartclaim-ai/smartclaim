@@ -23,9 +23,6 @@ dist/
 *.tar.gz
 *.zip
 
-# Analysis output directory
-analysis/
-
 # Data files (Uncomment if you want to ignore data files)
 # data/
 # *.csv

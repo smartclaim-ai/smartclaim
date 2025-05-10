@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for TRAVEL ASSISTANCE
+
+               count   mean  std    min    max  nunique
+VEHICLE_BRAND                                          
+ALFA ROMEO       667  32.21  0.0  32.21  32.21        1
+AUDI            1158  32.21  0.0  32.21  32.21        1
+BMW             1173  32.21  0.0  32.21  32.21        1
+CITROEN         1045  32.21  0.0  32.21  32.21        1
+FIAT            5177  32.21  0.0  32.21  32.21        1
+FORD            2060  32.21  0.0  32.21  32.21        1
+JEEP             498  32.21  0.0  32.21  32.21        1
+LANCIA           807  32.21  0.0  32.21  32.21        1
+MERCEDES        1395  32.21  0.0  32.21  32.21        1
+NISSAN           628  32.21  0.0  32.21  32.21        1
+OPEL            1424  32.21  0.0  32.21  32.21        1
+PEUGEOT         1276  32.21  0.0  32.21  32.21        1
+RENAULT         1336  32.21  0.0  32.21  32.21        1
+TOYOTA           808  32.21  0.0  32.21  32.21        1
+VOLKSWAGEN      1758  32.21  0.0  32.21  32.21        1

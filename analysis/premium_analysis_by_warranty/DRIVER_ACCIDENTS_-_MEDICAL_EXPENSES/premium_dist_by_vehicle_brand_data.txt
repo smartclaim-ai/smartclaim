@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for DRIVER ACCIDENTS - MEDICAL EXPENSES
+
+               count  mean  std   min   max  nunique
+VEHICLE_BRAND                                       
+AIXAM              1  8.52  NaN  8.52  8.52        1
+APRILIA            3  8.52  0.0  8.52  8.52        1
+FIAT               7  8.52  0.0  8.52  8.52        1
+FORD               4  8.52  0.0  8.52  8.52        1
+Gilera             1  8.52  NaN  8.52  8.52        1
+HM                 1  8.52  NaN  8.52  8.52        1
+HONDA              2  8.52  0.0  8.52  8.52        1
+Keeway             1  8.52  NaN  8.52  8.52        1
+NISSAN             1  8.52  NaN  8.52  8.52        1
+PIAGGIO            1  8.52  NaN  8.52  8.52        1
+Piaggio            2  8.52  0.0  8.52  8.52        1
+SUR-RON            1  8.52  NaN  8.52  8.52        1
+TOYOTA             2  8.52  0.0  8.52  8.52        1
+YAMAHA             1  8.52  NaN  8.52  8.52        1
+Yamaha             1  8.52  NaN  8.52  8.52        1

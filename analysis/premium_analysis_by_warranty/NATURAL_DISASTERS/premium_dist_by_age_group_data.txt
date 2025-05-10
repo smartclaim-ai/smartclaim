@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for NATURAL DISASTERS
+
+           count   mean  std    min    max  nunique
+AGE_GROUP                                          
+18-25        109  80.59  0.0  80.59  80.59        1
+26-35       1549  80.59  0.0  80.59  80.59        1
+36-45       2576  80.59  0.0  80.59  80.59        1
+46-55       3042  80.59  0.0  80.59  80.59        1
+56-65       3183  80.59  0.0  80.59  80.59        1
+65+         2416  80.59  0.0  80.59  80.59        1

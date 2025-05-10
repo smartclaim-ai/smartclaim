@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for WILD ANIMAL COLLISION
+
+               count   mean  std    min    max  nunique
+VEHICLE_BRAND                                          
+AUDI              18  67.82  0.0  67.82  67.82        1
+BMW                6  67.82  0.0  67.82  67.82        1
+CITROEN            4  67.82  0.0  67.82  67.82        1
+DACIA              3  67.82  0.0  67.82  67.82        1
+FIAT               7  67.82  0.0  67.82  67.82        1
+FORD               7  67.82  0.0  67.82  67.82        1
+HYUNDAI            4  67.82  0.0  67.82  67.82        1
+JEEP               7  67.82  0.0  67.82  67.82        1
+MERCEDES          12  67.82  0.0  67.82  67.82        1
+MITSUBISHI         3  67.82  0.0  67.82  67.82        1
+PEUGEOT            7  67.82  0.0  67.82  67.82        1
+RENAULT            8  67.82  0.0  67.82  67.82        1
+SUZUKI             7  67.82  0.0  67.82  67.82        1
+TOYOTA             3  67.82  0.0  67.82  67.82        1
+VOLKSWAGEN        26  67.82  0.0  67.82  67.82        1

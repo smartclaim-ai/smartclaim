@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for ADDITIONAL COVERAGES
+
+           count   mean  std    min    max  nunique
+AGE_GROUP                                          
+18-25          6  13.08  0.0  13.08  13.08        1
+26-35         46  13.08  0.0  13.08  13.08        1
+36-45         76  13.08  0.0  13.08  13.08        1
+46-55        103  13.08  0.0  13.08  13.08        1
+56-65        142  13.08  0.0  13.08  13.08        1
+65+          138  13.08  0.0  13.08  13.08        1

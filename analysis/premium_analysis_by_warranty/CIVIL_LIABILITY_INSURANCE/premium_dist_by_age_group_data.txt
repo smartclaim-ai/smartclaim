@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for CIVIL LIABILITY INSURANCE
+
+           count   mean  std    min    max  nunique
+AGE_GROUP                                          
+18-25       1549  393.2  0.0  393.2  393.2        1
+26-35      11740  393.2  0.0  393.2  393.2        1
+36-45      19271  393.2  0.0  393.2  393.2        1
+46-55      31876  393.2  0.0  393.2  393.2        1
+56-65      37139  393.2  0.0  393.2  393.2        1
+65+        41517  393.2  0.0  393.2  393.2        1

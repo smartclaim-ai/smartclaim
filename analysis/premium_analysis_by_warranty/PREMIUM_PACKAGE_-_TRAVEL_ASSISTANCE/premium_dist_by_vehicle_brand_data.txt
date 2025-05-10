@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for PREMIUM PACKAGE - TRAVEL ASSISTANCE
+
+               count  mean  std   min   max  nunique
+VEHICLE_BRAND                                       
+AUDI               1  10.0  NaN  10.0  10.0        1
+CHEVROLET          1  10.0  NaN  10.0  10.0        1
+CITROEN            5  10.0  0.0  10.0  10.0        1
+FIAT               9  10.0  0.0  10.0  10.0        1
+FORD               1  10.0  NaN  10.0  10.0        1
+HYUNDAI            1  10.0  NaN  10.0  10.0        1
+JAGUAR             1  10.0  NaN  10.0  10.0        1
+LANCIA             1  10.0  NaN  10.0  10.0        1
+MERCEDES           1  10.0  NaN  10.0  10.0        1
+OPEL               1  10.0  NaN  10.0  10.0        1
+PEUGEOT            2  10.0  0.0  10.0  10.0        1
+RENAULT            2  10.0  0.0  10.0  10.0        1
+SKODA              1  10.0  NaN  10.0  10.0        1
+VOLKSWAGEN         4  10.0  0.0  10.0  10.0        1
+VOLVO              1  10.0  NaN  10.0  10.0        1

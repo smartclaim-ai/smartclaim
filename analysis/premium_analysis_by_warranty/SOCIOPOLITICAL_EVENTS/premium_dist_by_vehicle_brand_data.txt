@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for SOCIOPOLITICAL EVENTS
+
+               count   mean  std    min    max  nunique
+VEHICLE_BRAND                                          
+ALFA ROMEO       219  94.86  0.0  94.86  94.86        1
+AUDI             476  94.86  0.0  94.86  94.86        1
+BMW              472  94.86  0.0  94.86  94.86        1
+FIAT             899  94.86  0.0  94.86  94.86        1
+FORD             348  94.86  0.0  94.86  94.86        1
+JEEP             158  94.86  0.0  94.86  94.86        1
+LANCIA           205  94.86  0.0  94.86  94.86        1
+MERCEDES         477  94.86  0.0  94.86  94.86        1
+MINI             132  94.86  0.0  94.86  94.86        1
+NISSAN           138  94.86  0.0  94.86  94.86        1
+OPEL             192  94.86  0.0  94.86  94.86        1
+PEUGEOT          193  94.86  0.0  94.86  94.86        1
+RENAULT          218  94.86  0.0  94.86  94.86        1
+TOYOTA           172  94.86  0.0  94.86  94.86        1
+VOLKSWAGEN       523  94.86  0.0  94.86  94.86        1

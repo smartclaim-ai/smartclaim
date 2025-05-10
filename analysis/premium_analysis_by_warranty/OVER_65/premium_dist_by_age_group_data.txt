@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for OVER 65
+
+           count   mean  std    min    max  nunique
+AGE_GROUP                                          
+18-25          0    NaN  NaN    NaN    NaN        0
+26-35          0    NaN  NaN    NaN    NaN        0
+36-45          3  19.61  0.0  19.61  19.61        1
+46-55          3  19.61  0.0  19.61  19.61        1
+56-65          2  19.61  0.0  19.61  19.61        1
+65+          167  19.61  0.0  19.61  19.61        1

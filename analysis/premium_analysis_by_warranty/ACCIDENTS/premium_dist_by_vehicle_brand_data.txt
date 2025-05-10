@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for ACCIDENTS
+
+               count   mean  std    min    max  nunique
+VEHICLE_BRAND                                          
+AUDI               3  19.08  0.0  19.08  19.08        1
+BETA               2  19.08  0.0  19.08  19.08        1
+CITROEN            2  19.08  0.0  19.08  19.08        1
+FIAT               8  19.08  0.0  19.08  19.08        1
+FORD               2  19.08  0.0  19.08  19.08        1
+HONDA              4  19.08  0.0  19.08  19.08        1
+Honda              4  19.08  0.0  19.08  19.08        1
+LANCIA             6  19.08  0.0  19.08  19.08        1
+OPEL               4  19.08  0.0  19.08  19.08        1
+Piaggio            2  19.08  0.0  19.08  19.08        1
+RENAULT            4  19.08  0.0  19.08  19.08        1
+SMART              3  19.08  0.0  19.08  19.08        1
+SUZUKI             3  19.08  0.0  19.08  19.08        1
+TOYOTA             2  19.08  0.0  19.08  19.08        1
+VOLKSWAGEN         3  19.08  0.0  19.08  19.08        1

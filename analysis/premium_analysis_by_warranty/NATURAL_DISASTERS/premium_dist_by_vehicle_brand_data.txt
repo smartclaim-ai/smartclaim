@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for NATURAL DISASTERS
+
+               count   mean  std    min    max  nunique
+VEHICLE_BRAND                                          
+ALFA ROMEO       495  80.59  0.0  80.59  80.59        1
+AUDI             702  80.59  0.0  80.59  80.59        1
+BMW              602  80.59  0.0  80.59  80.59        1
+CITROEN          380  80.59  0.0  80.59  80.59        1
+FIAT            2265  80.59  0.0  80.59  80.59        1
+FORD             729  80.59  0.0  80.59  80.59        1
+JEEP             385  80.59  0.0  80.59  80.59        1
+KIA              307  80.59  0.0  80.59  80.59        1
+LANCIA           555  80.59  0.0  80.59  80.59        1
+MERCEDES         575  80.59  0.0  80.59  80.59        1
+OPEL             446  80.59  0.0  80.59  80.59        1
+PEUGEOT          507  80.59  0.0  80.59  80.59        1
+RENAULT          569  80.59  0.0  80.59  80.59        1
+TOYOTA           588  80.59  0.0  80.59  80.59        1
+VOLKSWAGEN      1128  80.59  0.0  80.59  80.59        1

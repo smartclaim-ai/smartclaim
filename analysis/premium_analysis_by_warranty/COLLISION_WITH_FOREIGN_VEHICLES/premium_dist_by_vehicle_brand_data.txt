@@ -1,0 +1,19 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for COLLISION WITH FOREIGN VEHICLES
+
+               count  mean  std   min   max  nunique
+VEHICLE_BRAND                                       
+AUDI               6  3.09  0.0  3.09  3.09        1
+BMW                2  3.09  0.0  3.09  3.09        1
+CITROEN            6  3.09  0.0  3.09  3.09        1
+DACIA              1  3.09  NaN  3.09  3.09        1
+FORD               4  3.09  0.0  3.09  3.09        1
+HONDA              3  3.09  0.0  3.09  3.09        1
+HYUNDAI            2  3.09  0.0  3.09  3.09        1
+KIA                2  3.09  0.0  3.09  3.09        1
+LANCIA             2  3.09  0.0  3.09  3.09        1
+OPEL               2  3.09  0.0  3.09  3.09        1
+PEUGEOT            3  3.09  0.0  3.09  3.09        1
+RENAULT            4  3.09  0.0  3.09  3.09        1
+SUZUKI             3  3.09  0.0  3.09  3.09        1
+VOLKSWAGEN        10  3.09  0.0  3.09  3.09        1
+FIAT              15  3.09  0.0  3.09  3.09        1

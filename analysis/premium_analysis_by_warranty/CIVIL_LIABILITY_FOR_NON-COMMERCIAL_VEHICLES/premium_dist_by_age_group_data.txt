@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for CIVIL LIABILITY FOR NON-COMMERCIAL VEHICLES
+
+           count    mean  std     min     max  nunique
+AGE_GROUP                                             
+18-25          2  110.44  0.0  110.44  110.44        1
+26-35          4  110.44  0.0  110.44  110.44        1
+36-45         18  110.44  0.0  110.44  110.44        1
+46-55         21  110.44  0.0  110.44  110.44        1
+56-65         37  110.44  0.0  110.44  110.44        1
+65+           56  110.44  0.0  110.44  110.44        1

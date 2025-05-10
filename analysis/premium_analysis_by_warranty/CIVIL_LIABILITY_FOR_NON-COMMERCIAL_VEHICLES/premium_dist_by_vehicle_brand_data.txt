@@ -1,0 +1,6 @@
+Premium Amount Distribution by Top 15 Vehicle Brands for CIVIL LIABILITY FOR NON-COMMERCIAL VEHICLES
+
+                                                    count    mean  std     min     max  nunique
+VEHICLE_BRAND                                                                                  
+Unknown                                               137  110.44  0.0  110.44  110.44        1
+||||||||||||||||||||||||||||||||||||||||||||||||||      1  110.44  NaN  110.44  110.44        1

@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for DRIVER ACCIDENTS - PERMANENT DISABILITY
+
+           count   mean  std    min    max  nunique
+AGE_GROUP                                          
+18-25          3  17.64  0.0  17.64  17.64        1
+26-35         10  17.64  0.0  17.64  17.64        1
+36-45         18  17.64  0.0  17.64  17.64        1
+46-55         22  17.64  0.0  17.64  17.64        1
+56-65         20  17.64  0.0  17.64  17.64        1
+65+           14  17.64  0.0  17.64  17.64        1

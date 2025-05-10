@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for SAFE REIMBURSEMENT OPTION
+
+           count    mean  std     min     max  nunique
+AGE_GROUP                                             
+18-25          0     NaN  NaN     NaN     NaN        0
+26-35         40  106.69  0.0  106.69  106.69        1
+36-45        103  106.69  0.0  106.69  106.69        1
+46-55        207  106.69  0.0  106.69  106.69        1
+56-65        320  106.69  0.0  106.69  106.69        1
+65+          385  106.69  0.0  106.69  106.69        1

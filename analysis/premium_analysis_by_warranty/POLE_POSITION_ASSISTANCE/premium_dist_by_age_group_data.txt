@@ -1,0 +1,10 @@
+Premium Amount Distribution by Age Group for POLE POSITION ASSISTANCE
+
+           count   mean  std    min    max  nunique
+AGE_GROUP                                          
+18-25         37  16.31  0.0  16.31  16.31        1
+26-35        276  16.31  0.0  16.31  16.31        1
+36-45        116  16.31  0.0  16.31  16.31        1
+46-55          3  16.31  0.0  16.31  16.31        1
+56-65          0    NaN  NaN    NaN    NaN        0
+65+            2  16.31  0.0  16.31  16.31        1
